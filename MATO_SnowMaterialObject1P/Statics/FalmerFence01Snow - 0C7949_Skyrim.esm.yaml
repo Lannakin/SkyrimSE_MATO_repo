@@ -1,0 +1,21 @@
+FormKey: 0C7949:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: FalmerFence01Snow
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -25, -7, -2
+  Second: 25, 5, 91
+Model:
+  File: Clutter\Falmer\FalmerFence01.nif
+  Data: 0xB6D8FFFF646473000060E0E9E3A1BEAD646473000060E0E93A504418646473003EA5A32D0D9AEBD9646473003EA5A32D
+MaxAngle: 90
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

@@ -1,0 +1,30 @@
+FormKey: 05205B:Skyrim.esm
+MajorRecordFlagsRaw: 231424
+EditorID: MountainRidge01_HeavySN
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- VisibleWhenDistant
+- 0x10000
+- Dangerous_OffLimits_InteriorCell
+ObjectBounds:
+  First: -4220, -1369, -1497
+  Second: 4303, 1528, 1667
+Model:
+  File: Landscape\Mountains\MountainRidge01.nif
+  Data: 0x968A540264647300494699AF32485FBD64647300494699AF2CDB5D9B64647300494699AF6BF619BF64647300494699AF
+MaxAngle: 90
+Material: 04331F:Skyrim.esm
+Unused: '[]'
+Lod:
+  Level0: LOD\Mountains\MountainRidge01_LOD_0H.nif
+  Level1: LOD\Mountains\MountainRidge01_LOD_1.nif
+  Level2: LOD\Mountains\MountainRidge01_LOD_2.nif
+  Level3: ''
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- HasDistantLOD
+- 0x10000
+- UsesHdLodTexture

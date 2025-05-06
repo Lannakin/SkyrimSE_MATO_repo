@@ -1,0 +1,28 @@
+FormKey: 06F75A:Skyrim.esm
+MajorRecordFlagsRaw: 100352
+EditorID: ImpExtIceWall04
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- VisibleWhenDistant
+- 0x10000
+ObjectBounds:
+  First: -194, -272, -19
+  Second: 200, 289, 579
+Model:
+  File: Dungeons\Imperial\ExteriorIce\ImpExtIceWall04.nif
+  Data: 0xBE028B31646473002B043E3603BC2112646473002B043E36E1C136D8646473002B043E3605D647CC646473002B043E36ED26B559646473002B043E36D117B6F1646473002B043E36F0E58CA3646473002B043E360259F553646473002B043E36AB5B2374646473002B043E362EDC2465646473002B043E36D6B2D361646473002B043E36
+MaxAngle: 100
+Material: 025129:Skyrim.esm
+Unused: '[]'
+Lod:
+  Level0: LOD\ImperialIce\ImpExtIceWall01_LOD.nif
+  Level1: LOD\ImperialIce\ImpExtIceWall01_LOD.nif
+  Level2: LOD\ImperialIce\ImpExtIceWall01_LOD.nif
+  Level3: ''
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- HasDistantLOD
+- 0x10000

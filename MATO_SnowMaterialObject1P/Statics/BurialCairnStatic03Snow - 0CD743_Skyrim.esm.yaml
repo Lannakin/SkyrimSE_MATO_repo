@@ -1,0 +1,19 @@
+FormKey: 0CD743:Skyrim.esm
+MajorRecordFlagsRaw: 134217728
+EditorID: BurialCairnStatic03Snow
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- 0x8000000
+ObjectBounds:
+  First: -92, -150, -33
+  Second: 100, 144, 33
+Model:
+  File: Clutter\BurialCairn\BurialCairn03.nif
+  Data: 0x968A540264647300494699AF32485FBD64647300494699AF74EF0BBA64647300AD95A8F9D4F4CFEC64647300AD95A8F9A9016A9B646473001E8C9F2798A1EB9F646473001E8C9F27
+MaxAngle: 90
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- NavMeshGenerationBoundingBox

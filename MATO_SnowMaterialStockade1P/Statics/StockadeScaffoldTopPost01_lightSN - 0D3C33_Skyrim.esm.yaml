@@ -1,0 +1,14 @@
+FormKey: 0D3C33:Skyrim.esm
+EditorID: StockadeScaffoldTopPost01_lightSN
+FormVersion: 39
+ObjectBounds:
+  First: -118, 99, 3
+  Second: 119, 119, 59
+Model:
+  File: Clutter\Stockade\StockadeScaffoldTopPost01.nif
+  Data: 0x2A4BC53F64647300E6A483C731664C1964647300E6A483C77568EF7264647300E6A483C7F21B088664647300E6A483C7971BEF2764647300D4F435F31AFF4C2364647300D4F435F3
+MaxAngle: 90
+Material: 02A27D:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

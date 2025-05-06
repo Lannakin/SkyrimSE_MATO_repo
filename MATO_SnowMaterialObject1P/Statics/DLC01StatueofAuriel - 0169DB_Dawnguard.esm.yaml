@@ -1,0 +1,14 @@
+FormKey: 0169DB:Dawnguard.esm
+EditorID: DLC01StatueofAuriel
+FormVersion: 43
+ObjectBounds:
+  First: -150, -317, -13
+  Second: 150, 278, 878
+Model:
+  File: DLC01\Clutter\AurielStatue\StatueOfAuriel.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

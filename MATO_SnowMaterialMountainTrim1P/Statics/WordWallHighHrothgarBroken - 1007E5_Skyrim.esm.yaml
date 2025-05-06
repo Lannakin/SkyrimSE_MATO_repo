@@ -1,0 +1,14 @@
+FormKey: 1007E5:Skyrim.esm
+EditorID: WordWallHighHrothgarBroken
+FormVersion: 39
+ObjectBounds:
+  First: -823, -403, -233
+  Second: 769, 572, 633
+Model:
+  File: Dungeons\Nordic\Chambers\WordWallHighHrothgarBroken.nif
+  Data: 0xB5707F5A646473001E8C9F277A7C9E5E646473001E8C9F275C2AA06C64647300E4F2A513EABA9C5A64647300E4F2A513AE8DE66364647300E4F2A513D800A43464647300E4F2A513BD69E481646473001E8C9F27
+MaxAngle: 120
+Material: 04CCC9:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

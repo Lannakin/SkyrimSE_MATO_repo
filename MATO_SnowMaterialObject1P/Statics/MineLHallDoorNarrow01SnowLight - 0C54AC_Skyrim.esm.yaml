@@ -1,0 +1,20 @@
+FormKey: 0C54AC:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: MineLHallDoorNarrow01SnowLight
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -322, -90, -75
+  Second: 332, 90, 768
+Model:
+  File: Dungeons\Mines\MineLargeHall\MineLHallDoorNarrow01.nif
+  Data: 0xB7C91241646473005805E45ABD0E15DE646473005805E45A8D21C2F8646473005805E45A5E036D55646473005805E45A3770CB61646473005805E45A07BD2B57646473005805E45A
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

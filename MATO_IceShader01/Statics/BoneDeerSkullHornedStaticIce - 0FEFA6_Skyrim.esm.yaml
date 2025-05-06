@@ -1,0 +1,23 @@
+FormKey: 0FEFA6:Skyrim.esm
+MajorRecordFlagsRaw: 134285312
+EditorID: BoneDeerSkullHornedStaticIce
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+- 0x8000000
+ObjectBounds:
+  First: -29, -27, 2
+  Second: 30, 27, 60
+Model:
+  File: Clutter\Bones\DeerSkullHornsStatic.nif
+  Data: 0x81F8C38B646473000C54DE962355D706646473000C54DE96
+MaxAngle: 90
+Material: 02BD1D:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000
+- NavMeshGenerationBoundingBox

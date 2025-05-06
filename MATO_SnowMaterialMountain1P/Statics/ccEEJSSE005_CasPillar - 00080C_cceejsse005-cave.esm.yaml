@@ -1,0 +1,11 @@
+FormKey: 00080C:cceejsse005-cave.esm
+EditorID: ccEEJSSE005_CasPillar
+ObjectBounds:
+  First: 165, -346, -14
+  Second: 346, -165, 631
+Model:
+  File: DLC01\Dungeons\Castle\CasVariant\CasExtBldgSecondCorner01.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Material: 04331F:Skyrim.esm
+Unused: 0x000000

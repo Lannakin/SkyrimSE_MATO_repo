@@ -1,0 +1,23 @@
+FormKey: 10AA26:Skyrim.esm
+MajorRecordFlagsRaw: 67176448
+EditorID: NorBridgeCage02aIce
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+- 0x4000000
+ObjectBounds:
+  First: -128, -84, -34
+  Second: 128, 84, 230
+Model:
+  File: Dungeons\Nordic\Bridges\NorBridgeCage02a.nif
+  Data: 0x5C2AA06C64647300E4F2A513EABA9C5A64647300E4F2A513
+MaxAngle: 100
+Material: 02BD1D:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000
+- NavMeshGenerationFilter

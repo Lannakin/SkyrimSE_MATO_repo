@@ -1,0 +1,21 @@
+FormKey: 09E2B9:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: ImpRubblePiece04snow
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -88, -77, -79
+  Second: 132, 77, 82
+Model:
+  File: Dungeons\Imperial\ClutterKits\ImpRubblePiece04.nif
+  Data: 0x15B9FB5C646473002B043E3603BC2112646473002B043E36
+MaxAngle: 100
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

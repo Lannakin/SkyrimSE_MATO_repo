@@ -1,0 +1,14 @@
+FormKey: 013DD9:Dawnguard.esm
+EditorID: CasExFreeSm01_Snow
+FormVersion: 43
+ObjectBounds:
+  First: -128, -12, -25
+  Second: 128, 12, 367
+Model:
+  File: DLC01\Dungeons\Castle\LgHalls\CasExFreeSm01.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

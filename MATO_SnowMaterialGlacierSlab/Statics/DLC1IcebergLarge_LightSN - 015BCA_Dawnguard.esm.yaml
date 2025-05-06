@@ -1,0 +1,23 @@
+FormKey: 015BCA:Dawnguard.esm
+MajorRecordFlagsRaw: 32768
+EditorID: DLC1IcebergLarge_LightSN
+SkyrimMajorRecordFlags:
+- VisibleWhenDistant
+ObjectBounds:
+  First: -2702, -2527, -2661
+  Second: 2743, 2918, 2784
+Model:
+  File: Landscape\Ice\IcebergLarge.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Material: 05E3F4:Skyrim.esm
+Flags:
+- ConsideredSnow
+Unused: 0x000000
+Lod:
+  Level0: DLC01\LOD\DLC01IcebergLarge_LOD_0.nif
+  Level1: DLC01\LOD\DLC01IcebergLarge_LOD_1.nif
+  Level2: DLC01\LOD\DLC01IcebergLarge_LOD_2.nif
+  Level3: ''
+MajorFlags:
+- HasDistantLOD

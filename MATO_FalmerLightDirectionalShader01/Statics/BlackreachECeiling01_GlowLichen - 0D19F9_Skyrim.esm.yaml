@@ -1,0 +1,32 @@
+FormKey: 0D19F9:Skyrim.esm
+MajorRecordFlagsRaw: 67340288
+EditorID: BlackreachECeiling01_GlowLichen
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- VisibleWhenDistant
+- 0x10000
+- Dangerous_OffLimits_InteriorCell
+- 0x4000000
+ObjectBounds:
+  First: -1024, -1024, -151
+  Second: 1024, 1024, 44
+Model:
+  File: Dungeons\Caves\Blackreach\BlackreachECeiling01.nif
+  Data: 0x968A540264647300494699AF32485FBD64647300494699AF
+MaxAngle: 40
+Material: 0B9EF3:Skyrim.esm
+Unused: '[]'
+Lod:
+  Level0: LOD\Cave\BlackreachECeiling01_LOD.nif
+  Level1: LOD\Cave\BlackreachECeiling01_LOD.nif
+  Level2: LOD\Cave\BlackreachECeiling01_LOD.nif
+  Level3: LOD\Cave\BlackreachECeiling01_LOD.nif
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- HasDistantLOD
+- 0x10000
+- UsesHdLodTexture
+- NavMeshGenerationFilter

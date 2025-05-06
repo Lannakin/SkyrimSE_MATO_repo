@@ -1,0 +1,21 @@
+FormKey: 0B0F6F:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: OrcAwning01_LightSN
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -187, -39, -64
+  Second: 187, 307, 346
+Model:
+  File: Architecture\OrcLonghouse\OrcAwning01.nif
+  Data: 0x5EBBFAB8646473001E8C9F27E0AFA2EF646473001E8C9F27A54FDECC646473004E28BE12B7D53AA2646473004E28BE12
+MaxAngle: 60
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

@@ -1,0 +1,14 @@
+FormKey: 0F9999:Skyrim.esm
+EditorID: CommonShelf01Light_SN
+FormVersion: 39
+ObjectBounds:
+  First: -67, -27, 0
+  Second: 67, 27, 153
+Model:
+  File: Clutter\Common\CommonShelf01.nif
+  Data: 0xB14DA5D0646473008EAEA792B57F9A62646473008EAEA792
+MaxAngle: 90
+Material: 02A27D:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

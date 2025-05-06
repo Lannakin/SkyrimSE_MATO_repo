@@ -1,0 +1,14 @@
+FormKey: 0F2033:Skyrim.esm
+EditorID: FishRack01Light_SN
+FormVersion: 39
+ObjectBounds:
+  First: -87, -144, 16
+  Second: 87, 144, 194
+Model:
+  File: Clutter\DeadAnimals\FishRack01.nif
+  Data: 0xC8D333F6646473004E28BE12DF25D08B646473004E28BE12A54FDECC646473004E28BE12B7D53AA2646473004E28BE12
+MaxAngle: 120
+Material: 026FDC:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

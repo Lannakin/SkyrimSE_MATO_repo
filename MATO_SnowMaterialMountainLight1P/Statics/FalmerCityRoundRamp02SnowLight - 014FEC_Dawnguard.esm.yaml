@@ -1,0 +1,14 @@
+FormKey: 014FEC:Dawnguard.esm
+EditorID: FalmerCityRoundRamp02SnowLight
+FormVersion: 43
+ObjectBounds:
+  First: -493, -472, -254
+  Second: 158, 362, 23
+Model:
+  File: DLC01\Architecture\FalmerHuts\FalmerCityRoundRamp02.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 35
+Material: 045AB3:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

@@ -1,0 +1,14 @@
+FormKey: 0E9EAC:Skyrim.esm
+EditorID: RockCairnEvil01Sulfur
+FormVersion: 39
+ObjectBounds:
+  First: -58, -98, -5
+  Second: 68, 89, 174
+Model:
+  File: Landscape\Rocks\Cairns\RockCairnEvil01.nif
+  Data: 0x2B6E3A7464647300A0B86305C8C8534B64647300A0B863054376FAB8646473006FD33E35F17D1BF5646473006FD33E35968A540264647300494699AF32485FBD64647300494699AF
+MaxAngle: 50
+Material: 0998A6:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

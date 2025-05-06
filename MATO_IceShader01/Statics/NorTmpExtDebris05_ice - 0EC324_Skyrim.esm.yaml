@@ -1,0 +1,23 @@
+FormKey: 0EC324:Skyrim.esm
+MajorRecordFlagsRaw: 134285312
+EditorID: NorTmpExtDebris05_ice
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+- 0x8000000
+ObjectBounds:
+  First: -89, -294, -74
+  Second: 89, 294, 74
+Model:
+  File: Dungeons\Nordic\Exterior\NorTmpExtDebris05.nif
+  Data: 0x991171B4646473001E8C9F2723C2D85C646473001E8C9F27
+MaxAngle: 110
+Material: 02BD1D:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000
+- NavMeshGenerationBoundingBox

@@ -1,0 +1,21 @@
+FormKey: 07712E:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: NorSarcophagusVertBottom03ice
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -86, -37, 0
+  Second: 86, 37, 230
+Model:
+  File: Clutter\Ruins\RuinsSarcophagusVert03.nif
+  Data: 0xCF9F3D11646473003BBB212FAD59FBBB646473003BBB212FE9B5E0B9646473003BBB212F82BB9EA3646473003BBB212F76798155646473003BBB212FAD4F95C7646473003BBB212F
+MaxAngle: 120
+Material: 02BD1D:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

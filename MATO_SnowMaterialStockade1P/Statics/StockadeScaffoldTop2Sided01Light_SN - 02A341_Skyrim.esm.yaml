@@ -1,0 +1,27 @@
+FormKey: 02A341:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: StockadeScaffoldTop2Sided01Light_SN
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -126, -133, -8
+  Second: 122, 129, 51
+Model:
+  File: Clutter\Stockade\StockadeScaffoldTop2Sided01B.nif
+  Data: 0x2A4BC53F64647300E6A483C731664C1964647300E6A483C77568EF7264647300E6A483C7F21B088664647300E6A483C764E6782464647300E6A483C752C0D1DF64647300E6A483C7
+  AlternateTextures:
+  - Name: StockadeScaffoldTop2Sided01B:0
+    NewTexture: 02A27E:Skyrim.esm
+  - Name: StockadeScaffoldTop2Sided01B:1 - L1_Rails01:1
+    NewTexture: 02A307:Skyrim.esm
+    Index: 2
+MaxAngle: 90
+Material: 02A27D:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

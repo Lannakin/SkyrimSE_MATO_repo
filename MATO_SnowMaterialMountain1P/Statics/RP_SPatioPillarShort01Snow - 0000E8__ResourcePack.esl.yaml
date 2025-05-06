@@ -1,0 +1,16 @@
+FormKey: 0000E8:_ResourcePack.esl
+MajorRecordFlagsRaw: 134217728
+EditorID: RP_SPatioPillarShort01Snow
+SkyrimMajorRecordFlags:
+- 0x8000000
+ObjectBounds:
+  First: -18, -15, -248
+  Second: 18, 15, 158
+Model:
+  File: _ResourcePack\Architecture\Solitude\SPatioPillarShort01.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Material: 04331F:Skyrim.esm
+Unused: 0x000000
+MajorFlags:
+- NavMeshGenerationBoundingBox

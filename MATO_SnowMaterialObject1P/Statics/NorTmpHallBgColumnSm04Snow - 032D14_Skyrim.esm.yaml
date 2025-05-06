@@ -1,0 +1,21 @@
+FormKey: 032D14:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: NorTmpHallBgColumnSm04Snow
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -1031, -139, -3
+  Second: 1085, 160, 255
+Model:
+  File: Dungeons\Nordic\Temple\BgHalls\NorTmpHallBgColumnSm04.nif
+  Data: 0xACB4125D646473001E8C9F27A6D49759646473001E8C9F27
+MaxAngle: 110
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

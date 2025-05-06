@@ -1,0 +1,21 @@
+FormKey: 077125:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: NorRubblePileCeiling02ice
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -223, -180, -79
+  Second: 203, 141, 26
+Model:
+  File: Dungeons\Nordic\Rubble\NorRubblePileCeiling02.nif
+  Data: 0x1816E6DF646473001E8C9F272AFFE6E1646473001E8C9F2780D51CB3646473001E8C9F27C800135A646473001E8C9F2749EB3AB7646473001E8C9F2742754A81646473001E8C9F278B095AD6646473001E8C9F27BA228236646473001E8C9F27
+MaxAngle: 120
+Material: 02BD1D:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

@@ -1,0 +1,14 @@
+FormKey: 0FFEF6:Skyrim.esm
+EditorID: WHheadbust1
+FormVersion: 39
+ObjectBounds:
+  First: -80, -83, -130
+  Second: 80, 83, 130
+Model:
+  File: Architecture\Windhelm\WHheadbust1.nif
+  Data: 0x80922E6664647300D2D0A39FC901ABB264647300D2D0A39F
+MaxAngle: 90
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

@@ -1,0 +1,14 @@
+FormKey: 01788B:Dawnguard.esm
+EditorID: DLC1IcicleClumpCap02
+FormVersion: 43
+ObjectBounds:
+  First: -167, -174, -975
+  Second: 169, 168, 91
+Model:
+  File: DLC01\Landscape\DLC1IcicleClumpCap02.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Material: 05E3F0:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

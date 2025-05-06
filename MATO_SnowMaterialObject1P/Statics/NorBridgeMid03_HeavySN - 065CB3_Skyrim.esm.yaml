@@ -1,0 +1,14 @@
+FormKey: 065CB3:Skyrim.esm
+EditorID: NorBridgeMid03_HeavySN
+FormVersion: 39
+ObjectBounds:
+  First: -192, -192, -384
+  Second: 192, 192, 832
+Model:
+  File: Dungeons\Nordic\Bridges\NorBridgeMid03.nif
+  Data: 0x80D51CB3646473001E8C9F27C800135A646473001E8C9F2749EB3AB7646473001E8C9F2742754A81646473001E8C9F27CC14672B646473001E8C9F279C6ABCEA646473001E8C9F27
+MaxAngle: 60
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

@@ -1,0 +1,11 @@
+FormKey: 00FA1C:ccbgssse016-umbra.esm
+EditorID: ccBGSSSE016_CaveGDirtMound03
+ObjectBounds:
+  First: -203, -286, -33
+  Second: 235, 236, 37
+Model:
+  File: Dungeons\Caves\Green\DirtMound\CaveGDirtMound03.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Material: 0681C1:Skyrim.esm
+Unused: 0x000000

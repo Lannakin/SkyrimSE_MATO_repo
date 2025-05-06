@@ -1,0 +1,24 @@
+FormKey: 0687A8:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: StockadeWoodplanks04Light_SN
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -3, -125, -65
+  Second: 3, 125, 78
+Model:
+  File: Dungeons\Mines\Clutter\MineWoodplanks04.nif
+  Data: 0x71067067646473005805E45AED56F3F3646473002B043E36
+  AlternateTextures:
+  - Name: MineWoodplanks04:13
+    NewTexture: 02A27E:Skyrim.esm
+MaxAngle: 60
+Material: 02A27D:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

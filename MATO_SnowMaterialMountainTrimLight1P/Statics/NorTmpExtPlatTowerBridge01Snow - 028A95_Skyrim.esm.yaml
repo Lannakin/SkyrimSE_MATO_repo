@@ -1,0 +1,28 @@
+FormKey: 028A95:Skyrim.esm
+MajorRecordFlagsRaw: 100352
+EditorID: NorTmpExtPlatTowerBridge01Snow
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- VisibleWhenDistant
+- 0x10000
+ObjectBounds:
+  First: -99, -192, -30
+  Second: 101, 192, 73
+Model:
+  File: Dungeons\Nordic\Exterior\NorTmpExtPlatTowerBridge01.nif
+  Data: 0x991171B4646473001E8C9F2723C2D85C646473001E8C9F27F89D93FC646473001E8C9F272AFFE6E1646473001E8C9F27
+MaxAngle: 110
+Material: 04CCBE:Skyrim.esm
+Unused: '[]'
+Lod:
+  Level0: LOD\NordicExterior\NorTmpExtPlatTowerBridge01_LOD.nif
+  Level1: LOD\NordicExterior\NorTmpExtPlatTowerBridge01_LOD.nif
+  Level2: LOD\NordicExterior\NorTmpExtPlatTowerBridge01_LOD.nif
+  Level3: ''
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- HasDistantLOD
+- 0x10000

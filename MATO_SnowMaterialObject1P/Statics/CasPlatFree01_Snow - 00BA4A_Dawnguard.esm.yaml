@@ -1,0 +1,14 @@
+FormKey: 00BA4A:Dawnguard.esm
+EditorID: CasPlatFree01_Snow
+FormVersion: 43
+ObjectBounds:
+  First: -255, -255, -75
+  Second: 255, 256, 0
+Model:
+  File: DLC01\Dungeons\Castle\Platforms\CasPlatFree01.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

@@ -1,0 +1,14 @@
+FormKey: 10EAF1:Skyrim.esm
+EditorID: Barrel02Static_HeavySN
+FormVersion: 39
+ObjectBounds:
+  First: -27, -27, 0
+  Second: 27, 27, 80
+Model:
+  File: Clutter\Barrel02.nif
+  Data: 0xF4AD532064647300BFFA25DA7BD69E4F64647300BFFA25DA
+MaxAngle: 90
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

@@ -1,0 +1,21 @@
+FormKey: 0B9C27:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: DweObservatoryExteriorDome01Snow
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -1215, -1215, 378
+  Second: 1215, 1215, 1161
+Model:
+  File: Dungeons\Dwemer\Animated\Observatory\DweObservatoryExteriorDome01.nif
+  Data: 0xED4CD149646473006A02F2EB0FC49303646473006A02F2EB188FFC7C64647300262C333B88847CD6646473006A02F2EBC28EA68E646473006A02F2EB1EB47BA1646473006A02F2EBF5E4648F646473006A02F2EB
+MaxAngle: 60
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

@@ -1,0 +1,20 @@
+FormKey: 091A06:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: WalkwayStairs15Snow
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -272, -128, -128
+  Second: 286, 128, 262
+Model:
+  File: Architecture\Farmhouse\Walkway\WalkwayStairs15.nif
+  Data: 0x48F9307C646473004E28BE1241FEE86B646473004E28BE12A54FDECC646473004E28BE12B7D53AA2646473004E28BE12CF51173D646473004E28BE12309A27C7646473004E28BE12
+Material: 06F158:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

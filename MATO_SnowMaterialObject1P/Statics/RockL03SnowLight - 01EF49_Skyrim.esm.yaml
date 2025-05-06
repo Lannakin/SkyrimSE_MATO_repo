@@ -1,0 +1,21 @@
+FormKey: 01EF49:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: RockL03SnowLight
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -221, -203, -16
+  Second: 184, 209, 164
+Model:
+  File: Landscape\Rocks\RockL03.nif
+  Data: 0x968A540264647300494699AF32485FBD64647300494699AF
+MaxAngle: 40
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

@@ -1,0 +1,21 @@
+FormKey: 03476A:Dragonborn.esm
+MajorRecordFlagsRaw: 67584
+EditorID: DLC02NorSarcophagusVertBottom03SNOW
+FormVersion: 43
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -86, -37, 0
+  Second: 86, 37, 230
+Model:
+  File: Clutter\Ruins\RuinsSarcophagusVert03.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

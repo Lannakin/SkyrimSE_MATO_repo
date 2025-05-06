@@ -1,0 +1,21 @@
+FormKey: 0D0B5E:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: WHIntWoodLadder01_snow
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -41, -157, -37
+  Second: 41, 130, 288
+Model:
+  File: Architecture\Windhelm\InteriorKits\Wood\WHIntWoodLadder01.nif
+  Data: 0x0936454264647300D2D0A39F5161518964647300D2D0A39F09D345C364647300D2D0A39FA6F6315964647300D2D0A39FAF90D42364647300D2D0A39F721DB94E64647300D2D0A39F
+MaxAngle: 55
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

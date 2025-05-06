@@ -1,0 +1,32 @@
+FormKey: 04CCD7:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: MountainTrim02_LightSN
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -1178, -1200, -1203
+  Second: 1221, 1200, 1196
+Model:
+  File: Landscape\Mountains\MountainTrim02.nif
+  Data: 0x0200000008000000000000001F376EE5646473003B114A873B43CEE2646473003B114A872CDB5D9B64647300494699AF6BF619BF64647300494699AF0A19D717646473003B114A87595AAD09646473003B114A87968A540264647300494699AF32485FBD64647300494699AF
+  AlternateTextures:
+  - Name: MountainTrim02:4
+    NewTexture: 06A1AE:Skyrim.esm
+    Index: 2
+  - Name: MountainTrim_Rocks:0 - L1_MountainTrimRocks:0
+    NewTexture: 002E34:Update.esm
+    Index: 3
+  - Name: MountainTrim_Rocks
+    NewTexture: 002E33:Update.esm
+    Index: 1
+  - Name: RockSkirt
+    NewTexture: 000AE1:Skyrim.esm
+MaxAngle: 90
+Material: 04CCBE:Skyrim.esm
+Flags:
+- ConsideredSnow
+Unused: 0x000000
+MajorFlags:
+- 0x800
+- 0x10000

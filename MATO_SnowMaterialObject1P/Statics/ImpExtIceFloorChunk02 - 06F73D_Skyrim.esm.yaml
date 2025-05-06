@@ -1,0 +1,21 @@
+FormKey: 06F73D:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: ImpExtIceFloorChunk02
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -280, -246, 0
+  Second: 256, 286, 16
+Model:
+  File: Dungeons\Imperial\ExteriorIce\ImpExtIceFloorChunk02.nif
+  Data: 0xF0E58CA3646473002B043E360259F553646473002B043E36AB5B2374646473002B043E362EDC2465646473002B043E36D6B2D361646473002B043E36
+MaxAngle: 100
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

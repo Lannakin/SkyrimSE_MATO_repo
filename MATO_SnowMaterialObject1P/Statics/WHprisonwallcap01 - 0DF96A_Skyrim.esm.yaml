@@ -1,0 +1,14 @@
+FormKey: 0DF96A:Skyrim.esm
+EditorID: WHprisonwallcap01
+FormVersion: 39
+ObjectBounds:
+  First: -512, -128, 0
+  Second: 128, 128, 1536
+Model:
+  File: Architecture\Windhelm\WHprisonwallcap01.nif
+  Data: 0xF635EBF564647300D2D0A39F377A7C8364647300D2D0A39F7A4FF16564647300D2D0A39F70A1CB3E64647300D2D0A39FE83623BD64647300D2D0A39F9A5C34CE64647300D2D0A39F
+MaxAngle: 90
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

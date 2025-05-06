@@ -1,0 +1,14 @@
+FormKey: 031D5A:Dragonborn.esm
+EditorID: DLC2DragonBoneLeg_L_Snow
+FormVersion: 43
+ObjectBounds:
+  First: -72, -83, -147
+  Second: 72, 83, 147
+Model:
+  File: DLC02\Clutter\DragonBones\DLC2DragonBoneLeg_L.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

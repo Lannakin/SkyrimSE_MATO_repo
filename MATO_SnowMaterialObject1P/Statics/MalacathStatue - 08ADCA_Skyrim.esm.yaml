@@ -1,0 +1,21 @@
+FormKey: 08ADCA:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: MalacathStatue
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -83, -84, 0
+  Second: 83, 84, 238
+Model:
+  File: Clutter\Statues\MalacathStatue01.nif
+  Data: 0x85CFF7D564647300E04DF5D71C6B06DA64647300E04DF5D7
+MaxAngle: 90
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

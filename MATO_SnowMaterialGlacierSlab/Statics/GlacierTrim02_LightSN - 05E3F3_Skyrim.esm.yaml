@@ -1,0 +1,20 @@
+FormKey: 05E3F3:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: GlacierTrim02_LightSN
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -1719, -1509, -1821
+  Second: 1797, 2007, 1695
+Model:
+  File: Landscape\Ice\GlacierTrim02.nif
+  Data: 0x0200000006000000000000002E165085646473003B114A87E934FA68646473003B114A87B83F1D4D646473003B114A87E5989040646473003B114A876BBB96D164647300262C333BF2182748646473003B114A87
+MaxAngle: 80
+Material: 05E3F4:Skyrim.esm
+Flags:
+- ConsideredSnow
+Unused: 0x000000
+MajorFlags:
+- 0x800
+- 0x10000

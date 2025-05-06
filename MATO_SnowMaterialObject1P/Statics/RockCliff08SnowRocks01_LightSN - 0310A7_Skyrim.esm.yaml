@@ -1,0 +1,24 @@
+FormKey: 0310A7:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: RockCliff08SnowRocks01_LightSN
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -441, -1039, -165
+  Second: 738, 924, 465
+Model:
+  File: Landscape\Rocks\RockCliff08.nif
+  Data: 0x98971882646473003B114A872989DA40646473003B114A87D2E1CF68646473003B114A8778102AF3646473003B114A87968A540264647300494699AF32485FBD64647300494699AF
+  AlternateTextures:
+  - Name: RockCliff08:0
+    NewTexture: 06A1AE:Skyrim.esm
+MaxAngle: 75
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

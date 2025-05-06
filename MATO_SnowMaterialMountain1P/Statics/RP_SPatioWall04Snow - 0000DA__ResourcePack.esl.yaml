@@ -1,0 +1,18 @@
+FormKey: 0000DA:_ResourcePack.esl
+MajorRecordFlagsRaw: 67584
+EditorID: RP_SPatioWall04Snow
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -147, -256, -248
+  Second: 146, 256, 269
+Model:
+  File: _ResourcePack\Architecture\Solitude\SPatioWall04.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Material: 04331F:Skyrim.esm
+Unused: 0x000000
+MajorFlags:
+- 0x800
+- 0x10000

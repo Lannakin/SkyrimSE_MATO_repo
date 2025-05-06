@@ -1,0 +1,11 @@
+FormKey: 05D5AA:unofficial skyrim special edition patch.esp
+EditorID: USKPCaveGLEWallDoorLB01Ice
+ObjectBounds:
+  First: -103, -386, -32
+  Second: 45, 384, 768
+Model:
+  File: Dungeons\Caves\Green\LargeWall\CaveGLEWallDoorLB01.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Material: 02BD1D:Skyrim.esm
+Unused: 0x000000

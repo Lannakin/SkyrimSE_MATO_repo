@@ -1,0 +1,34 @@
+FormKey: 06E03F:Skyrim.esm
+MajorRecordFlagsRaw: 100352
+EditorID: MountainCliffSlope_LightSN
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- VisibleWhenDistant
+- 0x10000
+ObjectBounds:
+  First: -2121, -2084, -2321
+  Second: 2551, 2588, 2350
+Model:
+  File: Landscape\Mountains\MountainCliffSlope.nif
+  Data: 0x020000000600000000000000968A540264647300494699AF32485FBD64647300494699AF98971882646473003B114A872989DA40646473003B114A87D2E1CF68646473003B114A8778102AF3646473003B114A87
+  AlternateTextures:
+  - Name: MountainCliffSlope:2
+    NewTexture: 000891:Skyrim.esm
+    Index: 1
+  - Name: MountainCliffSlope:3
+    NewTexture: 06A1AE:Skyrim.esm
+    Index: 2
+MaxAngle: 90
+Material: 04CCBE:Skyrim.esm
+Flags:
+- ConsideredSnow
+Unused: 0x000000
+Lod:
+  Level0: LOD\Mountains\MountainCliffSlopeSnow_LOD_1.nif
+  Level1: LOD\Mountains\MountainCliffSlopeSnow_LOD_2.nif
+  Level2: ''
+  Level3: ''
+MajorFlags:
+- 0x800
+- HasDistantLOD
+- 0x10000

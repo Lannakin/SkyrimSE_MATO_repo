@@ -1,0 +1,14 @@
+FormKey: 0128EF:Dawnguard.esm
+EditorID: SERuinsRubblePile02SnowExt
+FormVersion: 43
+ObjectBounds:
+  First: -419, -316, 0
+  Second: 328, 382, 214
+Model:
+  File: DLC01\Architecture\SnowElfRuins\SERuinsRubblePile02.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 70
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

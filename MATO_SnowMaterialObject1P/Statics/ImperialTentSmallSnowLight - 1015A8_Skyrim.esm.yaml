@@ -1,0 +1,21 @@
+FormKey: 1015A8:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: ImperialTentSmallSnowLight
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -164, -109, -4
+  Second: 164, 109, 183
+Model:
+  File: Architecture\Tents\SmallImperialTent.nif
+  Data: 0x3261E169646473008D32D4B39A61EC40646473008D32D4B3
+MaxAngle: 70
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

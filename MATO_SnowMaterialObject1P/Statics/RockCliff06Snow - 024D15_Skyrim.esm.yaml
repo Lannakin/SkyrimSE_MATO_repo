@@ -1,0 +1,21 @@
+FormKey: 024D15:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: RockCliff06Snow
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -428, -344, -29
+  Second: 428, 344, 706
+Model:
+  File: Landscape\Rocks\RockCliff06.nif
+  Data: 0x968A540264647300494699AF32485FBD64647300494699AF
+MaxAngle: 75
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

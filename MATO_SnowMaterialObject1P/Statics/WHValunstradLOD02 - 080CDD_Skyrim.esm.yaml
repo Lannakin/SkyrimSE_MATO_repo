@@ -1,0 +1,24 @@
+FormKey: 080CDD:Skyrim.esm
+MajorRecordFlagsRaw: 32768
+EditorID: WHValunstradLOD02
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- VisibleWhenDistant
+ObjectBounds:
+  First: -3075, -1628, -163
+  Second: 1446, 2995, 1348
+Model:
+  File: Architecture\Windhelm\WHValunstradLOD02.nif
+  Data: 0x295572A66464730033DDBE5F26916EC86464730033DDBE5F
+MaxAngle: 90
+Material: 025129:Skyrim.esm
+Unused: '[]'
+Lod:
+  Level0: LOD\Windhelm\WHValunstrad_LOD.nif
+  Level1: LOD\Windhelm\WHValunstrad_LOD.nif
+  Level2: LOD\Windhelm\WHValunstrad_LOD.nif
+  Level3: LOD\Windhelm\WHValunstrad_LOD.nif
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- HasDistantLOD

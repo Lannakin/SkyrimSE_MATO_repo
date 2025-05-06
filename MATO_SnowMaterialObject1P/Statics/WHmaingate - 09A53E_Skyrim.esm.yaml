@@ -1,0 +1,28 @@
+FormKey: 09A53E:Skyrim.esm
+MajorRecordFlagsRaw: 100352
+EditorID: WHmaingate
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- VisibleWhenDistant
+- 0x10000
+ObjectBounds:
+  First: -667, -442, -639
+  Second: 428, 442, 567
+Model:
+  File: Architecture\Windhelm\WHmaingate.nif
+  Data: 0x80922E6664647300D2D0A39FC901ABB264647300D2D0A39F7FB142CE64647300D2D0A39FA525E88364647300D2D0A39F48601B7464647300D2D0A39F8ADD3BE264647300D2D0A39F89C33E8F64647300D2D0A39FF232057F64647300D2D0A39F
+MaxAngle: 90
+Material: 025129:Skyrim.esm
+Unused: '[]'
+Lod:
+  Level0: LOD\Windhelm\WHmaingate_LOD.nif
+  Level1: LOD\Windhelm\WHmaingate_LOD.nif
+  Level2: LOD\Windhelm\WHmaingate_LOD.nif
+  Level3: ''
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- HasDistantLOD
+- 0x10000

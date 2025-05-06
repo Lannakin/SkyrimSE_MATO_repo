@@ -1,0 +1,23 @@
+FormKey: 07C41E:Skyrim.esm
+MajorRecordFlagsRaw: 134285312
+EditorID: BoneMammothRibsSnow
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+- 0x8000000
+ObjectBounds:
+  First: -57, -107, -96
+  Second: 57, 107, 96
+Model:
+  File: Clutter\Bones\MammothRibcage.nif
+  Data: 0xAA164E8B646473000C54DE96B8671537646473000C54DE96
+MaxAngle: 120
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000
+- NavMeshGenerationBoundingBox

@@ -1,0 +1,28 @@
+FormKey: 027B70:Dragonborn.esm
+MajorRecordFlagsRaw: 100352
+EditorID: DLC2NorTmpExtPlatWall02_LightSN
+FormVersion: 43
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- VisibleWhenDistant
+- 0x10000
+ObjectBounds:
+  First: -256, -185, -1024
+  Second: 256, 512, 0
+Model:
+  File: Dungeons\Nordic\Exterior\NorTmpExtPlatWall02.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Material: 04CCC9:Skyrim.esm
+Unused: '[]'
+Lod:
+  Level0: LOD\NordicExterior\NorTmpExtPlatWall02_LOD.nif
+  Level1: LOD\NordicExterior\NorTmpExtPlatWall02_LOD.nif
+  Level2: LOD\NordicExterior\NorTmpExtPlatWall02_LOD.nif
+  Level3: ''
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- HasDistantLOD
+- 0x10000

@@ -1,0 +1,14 @@
+FormKey: 079F98:Skyrim.esm
+EditorID: HhSteps06Narrow_HeavySN
+FormVersion: 39
+ObjectBounds:
+  First: -140, -71, -24
+  Second: 138, 252, 91
+Model:
+  File: Architecture\HighHrothgar\HhSteps06Narrow.nif
+  Data: 0x08F44DD2646473002CE219B8846320E5646473002CE219B8
+MaxAngle: 110
+Material: 02A27D:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

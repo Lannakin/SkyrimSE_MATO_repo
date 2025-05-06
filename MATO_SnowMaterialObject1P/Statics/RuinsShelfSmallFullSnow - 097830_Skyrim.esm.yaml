@@ -1,0 +1,23 @@
+FormKey: 097830:Skyrim.esm
+MajorRecordFlagsRaw: 134285312
+EditorID: RuinsShelfSmallFullSnow
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+- 0x8000000
+ObjectBounds:
+  First: -66, -44, 25
+  Second: 79, 38, 219
+Model:
+  File: Clutter\Ruins\RuinShelfSmallFull01.nif
+  Data: 0xEAF6A64A646473003BBB212F2D0B6667646473003BBB212FE9B5E0B9646473003BBB212F82BB9EA3646473003BBB212F76798155646473003BBB212FAD4F95C7646473003BBB212F
+MaxAngle: 70
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000
+- NavMeshGenerationBoundingBox

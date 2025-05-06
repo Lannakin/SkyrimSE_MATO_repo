@@ -1,0 +1,24 @@
+FormKey: 0248AB:Dragonborn.esm
+MajorRecordFlagsRaw: 32768
+EditorID: DLC2GlacierPillarLg01_Ice
+FormVersion: 43
+SkyrimMajorRecordFlags:
+- VisibleWhenDistant
+ObjectBounds:
+  First: -1363, -1097, -200
+  Second: 1441, 1363, 2835
+Model:
+  File: DLC02\Landscape\Glaciers\DLC2GlacierPillarLg01.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Material: 02BD1D:Skyrim.esm
+Unused: '[]'
+Lod:
+  Level0: DLC02\LOD\Glaciers\DLC2GlacierPillarLg01_LOD_0.nif
+  Level1: DLC02\LOD\Glaciers\DLC2GlacierPillarLg01_LOD_1.nif
+  Level2: DLC02\LOD\Glaciers\DLC2GlacierPillarLg01_LOD_2.nif
+  Level3: ''
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- HasDistantLOD

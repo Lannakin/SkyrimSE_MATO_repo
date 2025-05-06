@@ -1,0 +1,14 @@
+FormKey: 024EEF:Dragonborn.esm
+EditorID: DLC2CaveIRoomDoorB01ice
+FormVersion: 43
+ObjectBounds:
+  First: -128, -128, 4
+  Second: 128, 128, 501
+Model:
+  File: Dungeons\Caves\Ice\SmallRoom\CaveIRoomDoorB01.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 120
+Material: 02BD1D:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

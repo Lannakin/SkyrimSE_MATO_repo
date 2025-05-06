@@ -1,0 +1,14 @@
+FormKey: 009669:Dawnguard.esm
+EditorID: CasExtMainTowerCourtyard01
+FormVersion: 43
+ObjectBounds:
+  First: -3873, -3873, 0
+  Second: 3873, 3873, 8296
+Model:
+  File: DLC01\Dungeons\Castle\Exterior\CasExtMainTowerCourtyard01.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 60
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

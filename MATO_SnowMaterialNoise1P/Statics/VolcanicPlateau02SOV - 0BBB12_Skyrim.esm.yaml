@@ -1,0 +1,20 @@
+FormKey: 0BBB12:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: VolcanicPlateau02SOV
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -1011, -760, -51
+  Second: 1074, 808, 219
+Model:
+  File: Architecture\Sovengarde\VolcanicPlateau02SOV.nif
+  Data: 0x968A540264647300494699AF32485FBD64647300494699AF56766E5E646473000E19FBF1717DAEC2646473000E19FBF1D5D5AE8F646473000E19FBF16B95DF9D646473000E19FBF1
+Material: 026FDC:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

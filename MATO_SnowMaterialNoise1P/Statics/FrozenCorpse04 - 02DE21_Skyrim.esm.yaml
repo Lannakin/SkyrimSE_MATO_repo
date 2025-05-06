@@ -1,0 +1,21 @@
+FormKey: 02DE21:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: FrozenCorpse04
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -112, -4549, 4273
+  Second: -40, -4398, 4295
+Model:
+  File: Clutter\BurntCorpses\corpse04.nif
+  Data: 0x760DFB296464730091A4EA2BF286FD906464730091A4EA2B
+MaxAngle: 75
+Material: 026FDC:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

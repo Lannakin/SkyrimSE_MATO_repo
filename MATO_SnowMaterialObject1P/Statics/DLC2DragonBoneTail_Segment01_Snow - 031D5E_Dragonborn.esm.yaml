@@ -1,0 +1,14 @@
+FormKey: 031D5E:Dragonborn.esm
+EditorID: DLC2DragonBoneTail_Segment01_Snow
+FormVersion: 43
+ObjectBounds:
+  First: -28, -133, -55
+  Second: 28, 133, 55
+Model:
+  File: DLC02\Clutter\DragonBones\DLC2DragonBoneTail_Segment01.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

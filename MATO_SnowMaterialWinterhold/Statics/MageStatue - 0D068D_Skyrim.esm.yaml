@@ -1,0 +1,14 @@
+FormKey: 0D068D:Skyrim.esm
+EditorID: MageStatue
+FormVersion: 39
+ObjectBounds:
+  First: -126, -142, -16
+  Second: 126, 228, 511
+Model:
+  File: Architecture\Winterhold\MageStatue.nif
+  Data: 0xF8BA6B9264647300BBEC2C33E653BE7264647300BBEC2C33
+MaxAngle: 80
+Material: 108A84:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

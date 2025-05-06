@@ -1,0 +1,23 @@
+FormKey: 0C215B:Skyrim.esm
+MajorRecordFlagsRaw: 134285312
+EditorID: HandCart01_HeavySN
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+- 0x8000000
+ObjectBounds:
+  First: -46, -41, -32
+  Second: 46, 113, 66
+Model:
+  File: Clutter\Carts\HandCart01.nif
+  Data: 0x47B6D405646473008B73840D6BC7130A646473008B73840D
+MaxAngle: 90
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000
+- NavMeshGenerationBoundingBox

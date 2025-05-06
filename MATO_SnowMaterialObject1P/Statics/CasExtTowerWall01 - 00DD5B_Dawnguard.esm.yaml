@@ -1,0 +1,26 @@
+FormKey: 00DD5B:Dawnguard.esm
+MajorRecordFlagsRaw: 32896
+EditorID: CasExtTowerWall01
+FormVersion: 43
+SkyrimMajorRecordFlags:
+- 0x80
+- VisibleWhenDistant
+ObjectBounds:
+  First: -682, -142, 0
+  Second: 682, 142, 4608
+Model:
+  File: DLC01\Dungeons\Castle\Exterior\CasExtTowerWall01.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 120
+Material: 025129:Skyrim.esm
+Unused: '[]'
+Lod:
+  Level0: DLC01\Lod\Castle\DLC01CasExtTowerWall01_LOD_0.nif
+  Level1: DLC01\Lod\Castle\DLC01CasExtTowerWall01_LOD_0.nif
+  Level2: DLC01\Lod\Castle\DLC01CasExtTowerWall01_LOD_0.nif
+  Level3: ''
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- AddOnLODObject
+- HasDistantLOD

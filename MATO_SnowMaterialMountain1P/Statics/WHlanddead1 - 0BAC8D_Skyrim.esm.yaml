@@ -1,0 +1,23 @@
+FormKey: 0BAC8D:Skyrim.esm
+MajorRecordFlagsRaw: 100352
+EditorID: WHlanddead1
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- VisibleWhenDistant
+- 0x10000
+ObjectBounds:
+  First: -958, -2308, -453
+  Second: 707, 1985, 611
+Model:
+  File: Architecture\Windhelm\WHlanddead1.nif
+  Data: 0xF635EBF564647300D2D0A39F377A7C8364647300D2D0A39F276A720D64647300D2D0A39F953A8BE064647300D2D0A39F
+MaxAngle: 90
+Material: 04331F:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- HasDistantLOD
+- 0x10000

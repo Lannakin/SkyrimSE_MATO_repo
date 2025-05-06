@@ -1,0 +1,21 @@
+FormKey: 076924:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: NorExtRubblePile03_HeavySN
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -396, -232, -12
+  Second: 323, 321, 580
+Model:
+  File: Dungeons\Nordic\Exterior\Rubble\NorExtRubblePile03.nif
+  Data: 0x2340782D646473001E8C9F274D165C5F646473001E8C9F27991171B4646473001E8C9F2723C2D85C646473001E8C9F27FD743409646473001E8C9F277C901563646473001E8C9F27
+MaxAngle: 90
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

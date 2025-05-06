@@ -1,0 +1,20 @@
+FormKey: 048C1E:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: HHSteps13_LightSN
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -285, -75, -24
+  Second: 221, 211, 100
+Model:
+  File: Architecture\HighHrothgar\HHSteps13.nif
+  Data: 0x08F44DD2646473002CE219B8846320E5646473002CE219B8
+Material: 02A27D:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

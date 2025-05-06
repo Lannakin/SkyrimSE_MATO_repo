@@ -1,0 +1,28 @@
+FormKey: 09A359:Skyrim.esm
+MajorRecordFlagsRaw: 100352
+EditorID: WHshorttower
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- VisibleWhenDistant
+- 0x10000
+ObjectBounds:
+  First: -234, -234, 5
+  Second: 234, 234, 353
+Model:
+  File: Architecture\Windhelm\WHshorttower.nif
+  Data: 0x2D6726F564647300D2D0A39FF656D56464647300D2D0A39F89C33E8F64647300D2D0A39FF232057F64647300D2D0A39F7FB142CE64647300D2D0A39FA525E88364647300D2D0A39F98490B4364647300D2D0A39FE9B7B12164647300D2D0A39F
+MaxAngle: 90
+Material: 025129:Skyrim.esm
+Unused: '[]'
+Lod:
+  Level0: LOD\Windhelm\WHshorttower_LOD.nif
+  Level1: LOD\Windhelm\WHshorttower_LOD.nif
+  Level2: LOD\Windhelm\WHshorttower_LOD.nif
+  Level3: ''
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- HasDistantLOD
+- 0x10000

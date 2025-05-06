@@ -1,0 +1,14 @@
+FormKey: 097AC4:Skyrim.esm
+EditorID: NorSculptureHead01snow
+FormVersion: 39
+ObjectBounds:
+  First: -81, -90, -117
+  Second: 81, 95, 121
+Model:
+  File: Dungeons\Nordic\Clutter\NorSculptureHead01.nif
+  Data: 0x80D51CB3646473001E8C9F27C800135A646473001E8C9F27A9016A9B646473001E8C9F2798A1EB9F646473001E8C9F27
+MaxAngle: 110
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

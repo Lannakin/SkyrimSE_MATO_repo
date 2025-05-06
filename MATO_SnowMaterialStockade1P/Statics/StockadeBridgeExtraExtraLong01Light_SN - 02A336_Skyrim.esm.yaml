@@ -1,0 +1,25 @@
+FormKey: 02A336:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: StockadeBridgeExtraExtraLong01Light_SN
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -544, -77, -17
+  Second: 561, 77, 50
+Model:
+  File: Clutter\Stockade\StockadeBridgeExtraExtraLong01.nif
+  Data: 0x7568EF7264647300E6A483C7F21B088664647300E6A483C72A4BC53F64647300E6A483C731664C1964647300E6A483C7
+  AlternateTextures:
+  - Name: StockadeBridgeExtraExtraLong01:0 - L1_Supports:0
+    NewTexture: 02A27E:Skyrim.esm
+    Index: 1
+MaxAngle: 120
+Material: 02A27D:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

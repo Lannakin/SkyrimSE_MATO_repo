@@ -1,0 +1,14 @@
+FormKey: 036591:Dragonborn.esm
+EditorID: MineLHallEntrance02SNOW
+FormVersion: 43
+ObjectBounds:
+  First: -845, -512, 0
+  Second: 752, 1586, 1210
+Model:
+  File: Dungeons\Mines\MineLargeHall\MineLHallEntrance02.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

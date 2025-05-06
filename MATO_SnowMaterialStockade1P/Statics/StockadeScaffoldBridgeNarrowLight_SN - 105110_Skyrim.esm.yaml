@@ -1,0 +1,20 @@
+FormKey: 105110:Skyrim.esm
+EditorID: StockadeScaffoldBridgeNarrowLight_SN
+FormVersion: 39
+ObjectBounds:
+  First: -421, -70, -61
+  Second: 424, 70, 46
+Model:
+  File: Clutter\Stockade\StockadeScaffoldBridgeNarrow.nif
+  Data: 0x2A4BC53F64647300E6A483C731664C1964647300E6A483C77568EF7264647300E6A483C7F21B088664647300E6A483C764E6782464647300E6A483C752C0D1DF64647300E6A483C7C8D333F6646473004E28BE12DF25D08B646473004E28BE12
+  AlternateTextures:
+  - Name: StockadeScaffoldBridgeNarrow:1 - L1_Inside:1
+    NewTexture: 02A307:Skyrim.esm
+    Index: 3
+  - Name: StockadeScaffoldBridgeNarrow:0
+    NewTexture: 02A27E:Skyrim.esm
+MaxAngle: 80
+Material: 02A27D:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

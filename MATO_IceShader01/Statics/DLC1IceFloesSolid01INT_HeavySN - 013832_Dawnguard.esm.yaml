@@ -1,0 +1,23 @@
+FormKey: 013832:Dawnguard.esm
+MajorRecordFlagsRaw: 32768
+EditorID: DLC1IceFloesSolid01INT_HeavySN
+SkyrimMajorRecordFlags:
+- VisibleWhenDistant
+ObjectBounds:
+  First: -1460, -1269, -1374
+  Second: 1239, 1430, 1325
+Model:
+  File: Landscape\Ice\IceFloesSolid01.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 60
+Material: 02BD1D:Skyrim.esm
+Flags:
+- ConsideredSnow
+Unused: 0x000000
+Lod:
+  Level0: LOD\Ice\IceFloesSolid01_LOD_0.nif
+  Level1: LOD\Ice\IceFloesSolid01_LOD_0.nif
+  Level2: ''
+  Level3: ''
+MajorFlags:
+- HasDistantLOD

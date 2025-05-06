@@ -1,0 +1,28 @@
+FormKey: 0DC851:Skyrim.esm
+MajorRecordFlagsRaw: 100352
+EditorID: DweFacadeTowerRoof02SnowHeavy
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- VisibleWhenDistant
+- 0x10000
+ObjectBounds:
+  First: -400, -400, 768
+  Second: 400, 400, 1088
+Model:
+  File: Dungeons\Dwemer\Facades\DweFacadeTowerRoof02.nif
+  Data: 0x32D5754F646473006A02F2EB9B30E08C646473006A02F2EB188FFC7C64647300262C333B
+MaxAngle: 120
+Material: 025129:Skyrim.esm
+Unused: '[]'
+Lod:
+  Level0: LOD\Dwemer\DweFacadeTowerRoof02_LOD.nif
+  Level1: LOD\Dwemer\DweFacadeTowerRoof02_LOD_1.nif
+  Level2: LOD\Dwemer\DweFacadeTowerRoof02_LOD_1.nif
+  Level3: ''
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- HasDistantLOD
+- 0x10000

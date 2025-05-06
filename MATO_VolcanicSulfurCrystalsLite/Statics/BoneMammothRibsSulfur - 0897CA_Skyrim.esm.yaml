@@ -1,0 +1,19 @@
+FormKey: 0897CA:Skyrim.esm
+MajorRecordFlagsRaw: 134217728
+EditorID: BoneMammothRibsSulfur
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- 0x8000000
+ObjectBounds:
+  First: -57, -107, -96
+  Second: 57, 107, 96
+Model:
+  File: Clutter\Bones\MammothRibcage.nif
+  Data: 0xAA164E8B646473000C54DE96B8671537646473000C54DE96
+MaxAngle: 50
+Material: 0998A6:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- NavMeshGenerationBoundingBox

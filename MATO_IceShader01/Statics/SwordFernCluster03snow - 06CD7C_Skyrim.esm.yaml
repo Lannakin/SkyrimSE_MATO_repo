@@ -1,0 +1,23 @@
+FormKey: 06CD7C:Skyrim.esm
+MajorRecordFlagsRaw: 67176448
+EditorID: SwordFernCluster03snow
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+- 0x4000000
+ObjectBounds:
+  First: -139, -66, -6
+  Second: 94, 70, 58
+Model:
+  File: Landscape\Plants\SwordFernCluster03.nif
+  Data: 0xEDD04FDF64647300625C8D36FE8D2AFA64647300625C8D36
+MaxAngle: 120
+Material: 02BD1D:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000
+- NavMeshGenerationFilter

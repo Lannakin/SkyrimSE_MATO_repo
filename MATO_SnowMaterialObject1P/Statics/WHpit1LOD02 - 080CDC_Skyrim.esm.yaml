@@ -1,0 +1,24 @@
+FormKey: 080CDC:Skyrim.esm
+MajorRecordFlagsRaw: 32768
+EditorID: WHpit1LOD02
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- VisibleWhenDistant
+ObjectBounds:
+  First: -686, -1076, -1745
+  Second: 911, 1050, 412
+Model:
+  File: Architecture\Windhelm\WHpit1LOD02.nif
+  Data: 0x295572A66464730033DDBE5F26916EC86464730033DDBE5F
+MaxAngle: 90
+Material: 025129:Skyrim.esm
+Unused: '[]'
+Lod:
+  Level0: LOD\Windhelm\WHpit1_LOD.nif
+  Level1: LOD\Windhelm\WHpit1_LOD.nif
+  Level2: LOD\Windhelm\WHpit1_LOD.nif
+  Level3: LOD\Windhelm\WHpit1_LOD.nif
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- HasDistantLOD

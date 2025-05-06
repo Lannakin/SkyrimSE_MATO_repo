@@ -1,0 +1,24 @@
+FormKey: 105569:Skyrim.esm
+MajorRecordFlagsRaw: 32768
+EditorID: WinterholdExtTower01
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- VisibleWhenDistant
+ObjectBounds:
+  First: -1354, 767, -384
+  Second: 1354, 3882, 3392
+Model:
+  File: Architecture\Winterhold\WinterholdExtTower01.nif
+  Data: 0x30DDE08864647300BBEC2C33BE1D0DB064647300BBEC2C338A8CE91164647300BBEC2C33E7A34BB264647300BBEC2C333EE9A83564647300BBEC2C33CD793A0F64647300BBEC2C3384B8A1AC64647300BBEC2C3394C77C0D64647300BBEC2C33986C920064647300BBEC2C333720B56A64647300BBEC2C33EF7B957A64647300BBEC2C33
+MaxAngle: 80
+Material: 108A84:Skyrim.esm
+Unused: '[]'
+Lod:
+  Level0: LOD\Winterhold\WinterholdExtTower01_LOD.nif
+  Level1: LOD\Winterhold\WinterholdExtTower01_LOD.nif
+  Level2: LOD\Winterhold\WinterholdExtTower01_LOD.nif
+  Level3: ''
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- HasDistantLOD

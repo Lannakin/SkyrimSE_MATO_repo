@@ -1,0 +1,21 @@
+FormKey: 0C5999:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: ShrineMehrunes01
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -747, -708, -16
+  Second: 750, 690, 1575
+Model:
+  File: Clutter\Mehrunes\ShrineMehrunes01.nif
+  Data: 0x8F80520D64647300BFFA25DA32078AC664647300BFFA25DAAE7EDBF464647300BFFA25DA4334101064647300BFFA25DA968A540264647300494699AF32485FBD64647300494699AF
+MaxAngle: 120
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

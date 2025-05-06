@@ -1,0 +1,21 @@
+FormKey: 0998CB:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: TreeTundraDriftWood02Sulfur
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -90, -70, -243
+  Second: 39, 61, 282
+Model:
+  File: Landscape\Trees\TundraDriftWood02.nif
+  Data: 0x6460C60C646473003BAC5C0AF9CE0ADB646473003BAC5C0A86CBC122646473003BAC5C0AF00B46F6646473003BAC5C0A
+MaxAngle: 90
+Material: 0998A6:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

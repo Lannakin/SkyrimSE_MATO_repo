@@ -1,0 +1,14 @@
+FormKey: 07E894:Skyrim.esm
+EditorID: HHStepB_HeavySN
+FormVersion: 39
+ObjectBounds:
+  First: -67, -71, -24
+  Second: 67, 71, 24
+Model:
+  File: Architecture\HighHrothgar\HHStepB.nif
+  Data: 0x08F44DD2646473002CE219B8846320E5646473002CE219B8
+MaxAngle: 110
+Material: 02A27D:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

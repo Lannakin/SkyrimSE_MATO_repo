@@ -1,0 +1,28 @@
+FormKey: 0196CD:Dragonborn.esm
+MajorRecordFlagsRaw: 100352
+EditorID: GlacierStraightLg01_Ice
+FormVersion: 43
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- VisibleWhenDistant
+- 0x10000
+ObjectBounds:
+  First: -3849, -1497, -1590
+  Second: 3580, 1553, 2038
+Model:
+  File: Landscape\Ice\GlacierStraightLg01.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 75
+Material: 02BD1D:Skyrim.esm
+Unused: '[]'
+Lod:
+  Level0: LOD\Ice\GlacierStraightLg01_LOD_0.nif
+  Level1: LOD\Ice\GlacierStraightLg01_LOD_1.nif
+  Level2: LOD\Ice\GlacierStraightLg01_LOD_2.nif
+  Level3: ''
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- HasDistantLOD
+- 0x10000

@@ -1,0 +1,18 @@
+FormKey: 0F23E8:Skyrim.esm
+MajorRecordFlagsRaw: 134217728
+EditorID: ChoppingBlock01_LightSN
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- 0x8000000
+ObjectBounds:
+  First: -26, -26, 0
+  Second: 26, 26, 32
+Model:
+  File: Clutter\Chopping Block\ChoppingBlock01.nif
+  Data: 0x5386A5E764647300523D2822E3C2640264647300523D2822
+Material: 026FDC:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- NavMeshGenerationBoundingBox

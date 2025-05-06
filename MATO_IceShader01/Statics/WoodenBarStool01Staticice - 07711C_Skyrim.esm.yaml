@@ -1,0 +1,23 @@
+FormKey: 07711C:Skyrim.esm
+MajorRecordFlagsRaw: 134285312
+EditorID: WoodenBarStool01Staticice
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+- 0x8000000
+ObjectBounds:
+  First: -14, -14, 0
+  Second: 14, 14, 47
+Model:
+  File: Furniture\WoodenBarStool01.nif
+  Data: 0x41B147186464730083F8F725DDE82DC26464730083F8F725
+MaxAngle: 120
+Material: 02BD1D:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000
+- NavMeshGenerationBoundingBox

@@ -1,0 +1,11 @@
+FormKey: 000BA5:ccbgssse008-wraithguard.esl
+EditorID: ccBGSSSE008_DweClutterBowlShape01Snow
+ObjectBounds:
+  First: -54, -54, -18
+  Second: 54, 54, 14
+Model:
+  File: Dungeons\Dwemer\Clutter\DweClutterBowlShape01.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Material: 02BD1D:Skyrim.esm
+Unused: 0x000000

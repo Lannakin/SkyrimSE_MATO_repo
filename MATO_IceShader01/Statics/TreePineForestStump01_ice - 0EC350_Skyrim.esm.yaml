@@ -1,0 +1,21 @@
+FormKey: 0EC350:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: TreePineForestStump01_ice
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -318, -303, -76
+  Second: 323, 268, 421
+Model:
+  File: Landscape\Trees\TreePineForestStump01Snow.nif
+  Data: 0xA34254B7646473003BAC5C0A0675D18A646473003BAC5C0A3DAFBD44646473003BAC5C0ABEBFA8BB646473003BAC5C0A0A19D717646473003B114A87595AAD09646473003B114A8791CBFF6C646473003BAC5C0A58C1C5F3646473003BAC5C0A
+MaxAngle: 90
+Material: 02BD1D:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

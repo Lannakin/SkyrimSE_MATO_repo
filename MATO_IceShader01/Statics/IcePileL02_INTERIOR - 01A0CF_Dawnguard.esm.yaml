@@ -1,0 +1,24 @@
+FormKey: 01A0CF:Dawnguard.esm
+MajorRecordFlagsRaw: 67584
+EditorID: IcePileL02_INTERIOR
+FormVersion: 43
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -465, -415, -83
+  Second: 445, 491, 90
+Model:
+  File: Landscape\Ice\IcePileL02.nif
+  Data: 0x020000000000000000000000
+  AlternateTextures:
+  - Name: IcePileL02:1
+    NewTexture: 10D821:Skyrim.esm
+MaxAngle: 70
+Material: 02BD1D:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

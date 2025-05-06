@@ -1,0 +1,24 @@
+FormKey: 10AA3B:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: RockCliff02HeavyIce
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -358, -1157, -27
+  Second: 659, 1017, 733
+Model:
+  File: Landscape\Rocks\RockCliff02.nif
+  Data: 0x98971882646473003B114A872989DA40646473003B114A87968A540264647300494699AF32485FBD64647300494699AFD2E1CF68646473003B114A8778102AF3646473003B114A87
+  AlternateTextures:
+  - Name: RockCliff02:0
+    NewTexture: 000AE1:Skyrim.esm
+MaxAngle: 80
+Material: 02BD1D:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

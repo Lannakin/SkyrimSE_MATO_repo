@@ -1,0 +1,14 @@
+FormKey: 030E6C:Dragonborn.esm
+EditorID: DLC2CaveIFBalconyShelf02_ice
+FormVersion: 43
+ObjectBounds:
+  First: -149, -423, -107
+  Second: 149, 423, 107
+Model:
+  File: Dungeons\Caves\Ice\FrozenBalcony\CaveIFBalconyShelf02.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 120
+Material: 02BD1D:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

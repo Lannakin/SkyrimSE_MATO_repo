@@ -1,0 +1,28 @@
+FormKey: 019C99:Dawnguard.esm
+MajorRecordFlagsRaw: 100352
+EditorID: IcebergLedge01_LightSNINTERIOR
+FormVersion: 43
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- VisibleWhenDistant
+- 0x10000
+ObjectBounds:
+  First: -1173, 14, -1020
+  Second: 1323, 1474, 385
+Model:
+  File: Landscape\Ice\IcebergLedge01.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 60
+Material: 02BD1D:Skyrim.esm
+Unused: '[]'
+Lod:
+  Level0: LOD\Ice\IcebergLedge01_LOD.nif
+  Level1: LOD\Ice\IcebergLedge01_LOD.nif
+  Level2: ''
+  Level3: ''
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- HasDistantLOD
+- 0x10000

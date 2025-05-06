@@ -1,0 +1,21 @@
+FormKey: 05DFE7:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: NorRmShaftMidCapBot01Snow
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -208, -208, -46
+  Second: 208, 208, -32
+Model:
+  File: Dungeons\Nordic\Shafts\NorRmShaftMidCapBot01.nif
+  Data: 0x49EB3AB7646473001E8C9F2742754A81646473001E8C9F27A247EF46646473001E8C9F277341A0E3646473001E8C9F278B095AD6646473001E8C9F27BA228236646473001E8C9F27
+MaxAngle: 90
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

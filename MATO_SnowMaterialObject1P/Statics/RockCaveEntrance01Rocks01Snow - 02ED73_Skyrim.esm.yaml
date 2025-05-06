@@ -1,0 +1,24 @@
+FormKey: 02ED73:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: RockCaveEntrance01Rocks01Snow
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -428, -800, -232
+  Second: 974, 727, 1011
+Model:
+  File: Landscape\Rocks\RockCaveEntrance01.nif
+  Data: 0x98971882646473003B114A872989DA40646473003B114A87968A540264647300494699AF32485FBD64647300494699AF2CDB5D9B64647300494699AF6BF619BF64647300494699AFD2E1CF68646473003B114A8778102AF3646473003B114A87
+  AlternateTextures:
+  - Name: RockCaveEntrance01:0
+    NewTexture: 06A1AE:Skyrim.esm
+MaxAngle: 90
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

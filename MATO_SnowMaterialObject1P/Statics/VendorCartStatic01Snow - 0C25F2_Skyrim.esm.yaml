@@ -1,0 +1,14 @@
+FormKey: 0C25F2:Skyrim.esm
+EditorID: VendorCartStatic01Snow
+FormVersion: 39
+ObjectBounds:
+  First: -50, -82, -40
+  Second: 50, 146, 107
+Model:
+  File: Clutter\Carts\VendorCartStatic01.nif
+  Data: 0x47B6D405646473008B73840D6BC7130A646473008B73840D4B340D60646473008B73840DB20F10A5646473008B73840D
+MaxAngle: 90
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

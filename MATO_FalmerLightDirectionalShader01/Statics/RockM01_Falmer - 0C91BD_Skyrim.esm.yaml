@@ -1,0 +1,21 @@
+FormKey: 0C91BD:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: RockM01_Falmer
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -128, -74, -13
+  Second: 119, 90, 110
+Model:
+  File: Landscape\Rocks\RockM01.nif
+  Data: 0x968A540264647300494699AF32485FBD64647300494699AF
+MaxAngle: 90
+Material: 0B9EF3:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

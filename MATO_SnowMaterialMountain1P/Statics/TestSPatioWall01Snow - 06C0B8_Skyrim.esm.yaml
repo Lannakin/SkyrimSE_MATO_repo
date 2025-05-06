@@ -1,0 +1,18 @@
+FormKey: 06C0B8:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: TestSPatioWall01Snow
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -27, -242, -128
+  Second: 27, 242, 148
+Model:
+  File: Architecture\Solitude\SPatioWall01.nif
+  Data: 0x02000000060000000000000010C429D064647300C5C78A0D15C9E24164647300C5C78A0DA31453F964647300C5C78A0DC0CFD90864647300C5C78A0D761DE30C64647300C5C78A0D8EB34A8D64647300C5C78A0D
+MaxAngle: 90
+Material: 04331F:Skyrim.esm
+Unused: 0x000000
+MajorFlags:
+- 0x800
+- 0x10000

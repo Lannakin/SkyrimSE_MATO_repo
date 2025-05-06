@@ -1,0 +1,21 @@
+FormKey: 06CDEC:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: RoadStraightLongRamp01ice
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -486, -1024, -42
+  Second: 486, 1012, 144
+Model:
+  File: Landscape\Roads\RoadStraightLongRamp01.nif
+  Data: 0x0589541F64647300444F7D3951DD3A7E64647300444F7D3998971882646473003B114A872989DA40646473003B114A87
+MaxAngle: 44
+Material: 02BD1D:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

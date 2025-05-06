@@ -1,0 +1,14 @@
+FormKey: 0196FD:Dragonborn.esm
+EditorID: CaveIFWallDoorB01_Ice
+FormVersion: 43
+ObjectBounds:
+  First: -164, -392, 0
+  Second: 40, 394, 768
+Model:
+  File: Dungeons\Caves\Ice\FrozenWall\CaveIFWallDoorB01.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Material: 02BD1D:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

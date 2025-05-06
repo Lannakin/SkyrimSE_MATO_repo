@@ -1,0 +1,11 @@
+FormKey: 000BAC:ccbgssse008-wraithguard.esl
+EditorID: ccBGSSSE008_StaticSpiderCenturion
+ObjectBounds:
+  First: -57, -55, -28
+  Second: 57, 55, 28
+Model:
+  File: Actors\DwarvenSpider\DwarvenSpiderStatic.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Material: 02BD1D:Skyrim.esm
+Unused: 0x000000

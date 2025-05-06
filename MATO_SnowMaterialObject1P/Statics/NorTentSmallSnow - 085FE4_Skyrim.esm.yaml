@@ -1,0 +1,21 @@
+FormKey: 085FE4:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: NorTentSmallSnow
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -133, -131, -20
+  Second: 136, 137, 161
+Model:
+  File: Architecture\Tents\SmallNordicTent01.nif
+  Data: 0xD49C85C5646473008D32D4B33517C48B646473008D32D4B3
+MaxAngle: 70
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

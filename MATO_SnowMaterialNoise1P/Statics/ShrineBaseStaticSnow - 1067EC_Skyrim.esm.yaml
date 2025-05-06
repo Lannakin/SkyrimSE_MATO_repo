@@ -1,0 +1,14 @@
+FormKey: 1067EC:Skyrim.esm
+EditorID: ShrineBaseStaticSnow
+FormVersion: 40
+ObjectBounds:
+  First: -20, -21, 0
+  Second: 20, 20, 55
+Model:
+  File: Clutter\Shrines\ShrineBase.nif
+  Data: 0x0200000005000000010000000D1A56B9646473001E8C9F27A533E5DF646473001E8C9F27018B39A6646473001E8C9F2740B8D5FE6464730081A1A136AA87EAA26464730081A1A13631000000
+MaxAngle: 90
+Material: 026FDC:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

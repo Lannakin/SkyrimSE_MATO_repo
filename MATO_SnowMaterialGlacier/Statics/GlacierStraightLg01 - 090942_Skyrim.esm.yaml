@@ -1,0 +1,27 @@
+FormKey: 090942:Skyrim.esm
+MajorRecordFlagsRaw: 100352
+EditorID: GlacierStraightLg01
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- VisibleWhenDistant
+- 0x10000
+ObjectBounds:
+  First: -4253, -4090, -3894
+  Second: 3984, 4147, 4343
+Model:
+  File: Landscape\Ice\GlacierStraightLg01.nif
+  Data: 0x0200000005000000000000002E165085646473003B114A87E934FA68646473003B114A87B83F1D4D646473003B114A87E5989040646473003B114A8719B759FE64647300262C333B
+MaxAngle: 75
+Material: 05E3F0:Skyrim.esm
+Flags:
+- ConsideredSnow
+Unused: 0x000000
+Lod:
+  Level0: LOD\Ice\GlacierStraightLg01_LOD_0.nif
+  Level1: LOD\Ice\GlacierStraightLg01_LOD_1.nif
+  Level2: LOD\Ice\GlacierStraightLg01_LOD_2.nif
+  Level3: ''
+MajorFlags:
+- 0x800
+- HasDistantLOD
+- 0x10000

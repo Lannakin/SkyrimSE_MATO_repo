@@ -1,0 +1,28 @@
+FormKey: 05E3F1:Skyrim.esm
+MajorRecordFlagsRaw: 100352
+EditorID: IcebergLedge01_HeavySN
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- VisibleWhenDistant
+- 0x10000
+ObjectBounds:
+  First: -1173, 14, -1020
+  Second: 1323, 1474, 385
+Model:
+  File: Landscape\Ice\IcebergLedge01.nif
+  Data: 0x2E165085646473003B114A87E934FA68646473003B114A87B83F1D4D646473003B114A87E5989040646473003B114A8719B759FE64647300262C333B
+MaxAngle: 80
+Material: 05E3F4:Skyrim.esm
+Unused: '[]'
+Lod:
+  Level0: LOD\Ice\IcebergLedge01_LOD.nif
+  Level1: LOD\Ice\IcebergLedge01_LOD.nif
+  Level2: ''
+  Level3: ''
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- HasDistantLOD
+- 0x10000

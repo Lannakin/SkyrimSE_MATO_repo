@@ -1,0 +1,21 @@
+FormKey: 0CE8DB:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: BlackreachEWall03HoleBlackreach
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -1024, -872, 0
+  Second: 1024, -512, 3055
+Model:
+  File: Dungeons\Caves\Blackreach\BlackreachEWall03Hole.nif
+  Data: 0x968A540264647300494699AF32485FBD64647300494699AF
+MaxAngle: 35
+Material: 0B9EF3:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

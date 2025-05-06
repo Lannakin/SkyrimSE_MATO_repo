@@ -1,0 +1,21 @@
+FormKey: 0B9EED:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: CaveGShaftStraight01Falmer
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -675, -715, 0
+  Second: 723, 758, 768
+Model:
+  File: Dungeons\Caves\Green\Shafts\CaveGShaftStraight01.nif
+  Data: 0xE1D8CCD0646473001E61553243454458646473001E615532
+MaxAngle: 45
+Material: 0B9E42:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

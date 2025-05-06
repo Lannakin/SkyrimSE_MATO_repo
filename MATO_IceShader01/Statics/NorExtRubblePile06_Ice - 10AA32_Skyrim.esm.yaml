@@ -1,0 +1,21 @@
+FormKey: 10AA32:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: NorExtRubblePile06_Ice
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -183, -100, 0
+  Second: 142, 148, 80
+Model:
+  File: Dungeons\Nordic\Exterior\Rubble\NorExtRubblePile06.nif
+  Data: 0x2340782D646473001E8C9F274D165C5F646473001E8C9F27991171B4646473001E8C9F2723C2D85C646473001E8C9F27FD743409646473001E8C9F277C901563646473001E8C9F27
+MaxAngle: 80
+Material: 02BD1D:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

@@ -1,0 +1,14 @@
+FormKey: 0198CF:Dawnguard.esm
+EditorID: SERuinsTempleStaircase01
+FormVersion: 43
+ObjectBounds:
+  First: -1113, -1065, -576
+  Second: 1113, 138, 47
+Model:
+  File: DLC01\Architecture\SnowElfRuins\SERuinsTempleStaircase01.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 75
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

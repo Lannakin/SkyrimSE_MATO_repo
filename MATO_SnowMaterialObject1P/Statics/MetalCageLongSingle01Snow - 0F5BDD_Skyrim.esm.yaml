@@ -1,0 +1,14 @@
+FormKey: 0F5BDD:Skyrim.esm
+EditorID: MetalCageLongSingle01Snow
+FormVersion: 39
+ObjectBounds:
+  First: -104, -128, 0
+  Second: 103, 128, 198
+Model:
+  File: Clutter\Common\MetalCageLongSingle01.nif
+  Data: 0xD7D3D11D646473008EAEA792A3C08A46646473008EAEA792
+MaxAngle: 90
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

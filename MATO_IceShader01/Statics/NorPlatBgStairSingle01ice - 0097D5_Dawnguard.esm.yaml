@@ -1,0 +1,14 @@
+FormKey: 0097D5:Dawnguard.esm
+EditorID: NorPlatBgStairSingle01ice
+FormVersion: 43
+ObjectBounds:
+  First: -13, -169, -256
+  Second: 576, 169, 223
+Model:
+  File: Dungeons\Nordic\Platforms\NorPlatBgStairSingle01.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Material: 02BD1D:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

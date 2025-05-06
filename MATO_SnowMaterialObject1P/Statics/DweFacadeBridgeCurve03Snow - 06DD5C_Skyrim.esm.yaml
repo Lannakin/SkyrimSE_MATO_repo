@@ -1,0 +1,28 @@
+FormKey: 06DD5C:Skyrim.esm
+MajorRecordFlagsRaw: 100352
+EditorID: DweFacadeBridgeCurve03Snow
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- VisibleWhenDistant
+- 0x10000
+ObjectBounds:
+  First: -667, -667, -55
+  Second: 32, 31, 32
+Model:
+  File: Dungeons\Dwemer\Facades\DweFacadeBridgeCurve03.nif
+  Data: 0x53E3C6CA646473006A02F2EB577ABC3F646473006A02F2EBEAC080E9646473006A02F2EB923DDCA8646473006A02F2EB32D5754F646473006A02F2EB9B30E08C646473006A02F2EB188FFC7C64647300262C333B6646A523646473006A02F2EBE506313B646473006A02F2EB
+MaxAngle: 90
+Material: 025129:Skyrim.esm
+Unused: '[]'
+Lod:
+  Level0: LOD\Dwemer\DweFacadeBridgeCurve03_LOD.nif
+  Level1: LOD\Dwemer\DweFacadeBridgeCurve03_LOD_1.nif
+  Level2: LOD\Dwemer\DweFacadeBridgeCurve03_LOD_1.nif
+  Level3: ''
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- HasDistantLOD
+- 0x10000

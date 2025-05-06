@@ -1,0 +1,21 @@
+FormKey: 0CF77D:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: HagravenFence01_HeavySN
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -7, -74, -10
+  Second: 7, 74, 112
+Model:
+  File: Clutter\Hagraven\HagravenFence01.nif
+  Data: 0x86CBC122646473003BAC5C0AF00B46F6646473003BAC5C0A9B9F424A646473001E8C9F27829A2C65646473001E8C9F2727E079DE64647300BFFA25DA
+MaxAngle: 100
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

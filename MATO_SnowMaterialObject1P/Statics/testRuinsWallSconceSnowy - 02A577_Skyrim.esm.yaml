@@ -1,0 +1,21 @@
+FormKey: 02A577:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: testRuinsWallSconceSnowy
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -46, -55, -83
+  Second: 46, 55, 83
+Model:
+  File: Clutter\Ruins\RuinWallSconce01.nif
+  Data: 0xAEE0525C646473003BBB212F8922A707646473003BBB212F
+MaxAngle: 90
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

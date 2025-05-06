@@ -1,0 +1,20 @@
+FormKey: 0946B6:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: CaveGDirtMound01iceBlend
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -102, -153, -17
+  Second: 125, 126, 19
+Model:
+  File: Dungeons\Caves\Green\DirtMound\CaveGDirtMound01.nif
+  Data: 0x4A1872C7646473001E6155326FF5D38E646473001E615532
+Material: 02BD1D:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

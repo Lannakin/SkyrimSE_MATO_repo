@@ -1,0 +1,14 @@
+FormKey: 0BFC17:Skyrim.esm
+EditorID: HHStairs01snow
+FormVersion: 39
+ObjectBounds:
+  First: -134, -112, -71
+  Second: 132, 105, 75
+Model:
+  File: Architecture\HighHrothgar\HHStairs01.nif
+  Data: 0xB2A5444B646473002CE219B8DDDD66E7646473002CE219B8
+MaxAngle: 90
+Material: 06F158:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

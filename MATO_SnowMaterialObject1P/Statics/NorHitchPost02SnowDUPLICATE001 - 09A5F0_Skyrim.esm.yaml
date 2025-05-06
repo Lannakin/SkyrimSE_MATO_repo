@@ -1,0 +1,21 @@
+FormKey: 09A5F0:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: NorHitchPost02SnowDUPLICATE001
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -18, -16, -16
+  Second: 16, 16, 98
+Model:
+  File: Dungeons\Nordic\Clutter\NorHitchPost02.nif
+  Data: 0x9CA7FF57646473001E8C9F2766A96F02646473001E8C9F272340782D646473001E8C9F274D165C5F646473001E8C9F27
+MaxAngle: 110
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

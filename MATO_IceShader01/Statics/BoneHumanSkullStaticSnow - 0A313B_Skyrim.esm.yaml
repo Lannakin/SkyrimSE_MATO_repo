@@ -1,0 +1,19 @@
+FormKey: 0A313B:Skyrim.esm
+MajorRecordFlagsRaw: 134217728
+EditorID: BoneHumanSkullStaticSnow
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- 0x8000000
+ObjectBounds:
+  First: -6, -11, -32
+  Second: 6, 7, -17
+Model:
+  File: Clutter\Bones\HumanSkullStatic.nif
+  Data: 0x4376FAB8646473006FD33E35F17D1BF5646473006FD33E35
+MaxAngle: 45
+Material: 02BD1D:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- NavMeshGenerationBoundingBox

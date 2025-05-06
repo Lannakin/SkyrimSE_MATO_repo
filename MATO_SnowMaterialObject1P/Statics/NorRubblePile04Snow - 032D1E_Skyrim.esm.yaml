@@ -1,0 +1,21 @@
+FormKey: 032D1E:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: NorRubblePile04Snow
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -396, -217, 0
+  Second: 307, 321, 129
+Model:
+  File: Dungeons\Nordic\Rubble\NorRubblePile04.nif
+  Data: 0xCC14672B646473001E8C9F279C6ABCEA646473001E8C9F27BDA6C1E5646473001E8C9F272D3EF7F9646473001E8C9F2747253D90646473001E8C9F277C901563646473001E8C9F27
+MaxAngle: 60
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

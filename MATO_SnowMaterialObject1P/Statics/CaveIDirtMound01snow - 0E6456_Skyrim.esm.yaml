@@ -1,0 +1,21 @@
+FormKey: 0E6456:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: CaveIDirtMound01snow
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -102, -153, -17
+  Second: 125, 126, 19
+Model:
+  File: Dungeons\Caves\Ice\DirtMound\CaveIDirtMound01.nif
+  Data: 0xF0497B5E646473001E615532364B958C646473001E6155326E5786D4646473001E615532
+MaxAngle: 90
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

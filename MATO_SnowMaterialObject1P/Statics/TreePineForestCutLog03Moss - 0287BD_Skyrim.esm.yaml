@@ -1,0 +1,23 @@
+FormKey: 0287BD:Skyrim.esm
+MajorRecordFlagsRaw: 134285312
+EditorID: TreePineForestCutLog03Moss
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+- 0x8000000
+ObjectBounds:
+  First: -55, -864, -53
+  Second: 53, 864, 53
+Model:
+  File: Landscape\Trees\TreePineForestCutLog03.nif
+  Data: 0x22B78935646473003BAC5C0A42589E65646473003BAC5C0A261B5160646473003BAC5C0A5D2792DE646473003BAC5C0A
+MaxAngle: 60
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000
+- NavMeshGenerationBoundingBox

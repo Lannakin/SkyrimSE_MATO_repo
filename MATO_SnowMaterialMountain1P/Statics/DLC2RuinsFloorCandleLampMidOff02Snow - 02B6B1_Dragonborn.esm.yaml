@@ -1,0 +1,19 @@
+FormKey: 02B6B1:Dragonborn.esm
+MajorRecordFlagsRaw: 134217728
+EditorID: DLC2RuinsFloorCandleLampMidOff02Snow
+FormVersion: 43
+SkyrimMajorRecordFlags:
+- 0x8000000
+ObjectBounds:
+  First: -10, -11, 0
+  Second: 11, 11, 79
+Model:
+  File: Clutter\Ruins\RuinsFloorCandleLampMidOff02.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Material: 04331F:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- NavMeshGenerationBoundingBox

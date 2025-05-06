@@ -1,0 +1,11 @@
+FormKey: 000B9E:ccbgssse008-wraithguard.esl
+EditorID: ccBGSSSE008_DweClutterTrough01snow
+ObjectBounds:
+  First: -144, -144, 0
+  Second: 144, 144, 61
+Model:
+  File: Dungeons\Dwemer\Clutter\DweClutterTrough01.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Material: 02BD1D:Skyrim.esm
+Unused: 0x000000

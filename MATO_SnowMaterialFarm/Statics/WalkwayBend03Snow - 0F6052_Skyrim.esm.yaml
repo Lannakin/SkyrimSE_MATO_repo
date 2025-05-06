@@ -1,0 +1,14 @@
+FormKey: 0F6052:Skyrim.esm
+EditorID: WalkwayBend03Snow
+FormVersion: 39
+ObjectBounds:
+  First: -386, -170, -256
+  Second: 387, 138, 6
+Model:
+  File: Architecture\Farmhouse\Walkway\WalkwayBend03.nif
+  Data: 0x48F9307C646473004E28BE1241FEE86B646473004E28BE12A54FDECC646473004E28BE12B7D53AA2646473004E28BE12CF51173D646473004E28BE12309A27C7646473004E28BE12
+MaxAngle: 90
+Material: 06F158:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

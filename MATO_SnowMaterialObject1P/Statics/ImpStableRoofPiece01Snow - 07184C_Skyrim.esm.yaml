@@ -1,0 +1,21 @@
+FormKey: 07184C:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: ImpStableRoofPiece01Snow
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -185, -177, 241
+  Second: 171, 193, 298
+Model:
+  File: Dungeons\Imperial\StableKit\ImpStableRoofPiece01.nif
+  Data: 0x88927850646473004E28BE1297BD727A646473004E28BE121EA27F27646473004E28BE12A0D7B07B646473004E28BE122A4BC53F64647300E6A483C731664C1964647300E6A483C7
+MaxAngle: 90
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

@@ -1,0 +1,21 @@
+FormKey: 02E21D:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: testNorRmShaftMid01icy
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -208, -208, -416
+  Second: 208, 208, -32
+Model:
+  File: Dungeons\Nordic\Shafts\NorRmShaftMid01.nif
+  Data: 0xA247EF46646473001E8C9F277341A0E3646473001E8C9F27
+MaxAngle: 90
+Material: 02BD1D:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

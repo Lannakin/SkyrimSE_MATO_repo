@@ -1,0 +1,21 @@
+FormKey: 06F11B:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: CaveGWallStraight02ice
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -17, -386, 0
+  Second: 128, 384, 490
+Model:
+  File: Dungeons\Caves\Green\SmallWall\CaveGWallStraight02.nif
+  Data: 0x6E2CA6A0646473001E615532A8878F5E646473001E615532
+MaxAngle: 120
+Material: 02BD1D:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

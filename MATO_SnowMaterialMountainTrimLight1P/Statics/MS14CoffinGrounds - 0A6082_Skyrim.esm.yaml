@@ -1,0 +1,14 @@
+FormKey: 0A6082:Skyrim.esm
+EditorID: MS14CoffinGrounds
+FormVersion: 39
+ObjectBounds:
+  First: -337, -317, -84
+  Second: 372, 335, 69
+Model:
+  File: Clutter\Quest\MS14CoffinGrounds.nif
+  Data: 0x98971882646473003B114A872989DA40646473003B114A870A19D717646473003B114A87595AAD09646473003B114A87
+MaxAngle: 60
+Material: 04CCBE:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

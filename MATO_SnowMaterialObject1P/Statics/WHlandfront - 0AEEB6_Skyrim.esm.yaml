@@ -1,0 +1,21 @@
+FormKey: 0AEEB6:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: WHlandfront
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -2254, -2131, -274
+  Second: 679, 1422, 223
+Model:
+  File: Architecture\Windhelm\WHlandfront.nif
+  Data: 0x89C33E8F64647300D2D0A39FF232057F64647300D2D0A39F6EEAFDA464647300D2D0A39F76E4882C64647300D2D0A39F35E0796264647300D2D0A39F734F129564647300D2D0A39FC5E04B5764647300D2D0A39FFC9BAE8164647300D2D0A39F
+MaxAngle: 90
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

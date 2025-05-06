@@ -1,0 +1,11 @@
+FormKey: 000B9D:ccbgssse008-wraithguard.esl
+EditorID: ccBGSSSE008_DweFloorRaised02SnowLight
+ObjectBounds:
+  First: -280, -246, 0
+  Second: 256, 286, 19
+Model:
+  File: Dungeons\Dwemer\Rubble\DweFloorRaised02.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Material: 02BD1D:Skyrim.esm
+Unused: 0x000000

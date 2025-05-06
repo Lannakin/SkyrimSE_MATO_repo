@@ -1,0 +1,11 @@
+FormKey: 00081D:ccedhsse002-splkntset.esl
+EditorID: ccEDHSSE002_FlowerRed
+ObjectBounds:
+  First: -3, -3, -7
+  Second: 3, 3, 7
+Model:
+  File: Plants\MountainFlower01Red.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 40
+Material: 026FDC:Skyrim.esm
+Unused: 0x000000

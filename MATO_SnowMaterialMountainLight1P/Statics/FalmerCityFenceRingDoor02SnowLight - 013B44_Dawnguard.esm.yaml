@@ -1,0 +1,14 @@
+FormKey: 013B44:Dawnguard.esm
+EditorID: FalmerCityFenceRingDoor02SnowLight
+FormVersion: 43
+ObjectBounds:
+  First: -307, -312, -214
+  Second: 307, 293, 255
+Model:
+  File: DLC01\Architecture\FalmerHuts\FalmerCityFenceRingDoor02.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 80
+Material: 045AB3:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

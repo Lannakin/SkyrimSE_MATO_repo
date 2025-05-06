@@ -1,0 +1,14 @@
+FormKey: 0C99D2:Skyrim.esm
+EditorID: DweCenturionBust01snow
+FormVersion: 39
+ObjectBounds:
+  First: -54, -85, -62
+  Second: 54, 74, 87
+Model:
+  File: Dungeons\Dwemer\Clutter\DweCenturionBust01.nif
+  Data: 0x4DFA43A064647300E216086BCD87968F64647300E216086B188FFC7C64647300262C333B77D69F1664647300E216086B
+MaxAngle: 120
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

@@ -1,0 +1,14 @@
+FormKey: 01EEEE:Dragonborn.esm
+EditorID: DLC2RieklingTotemSkullSnow
+FormVersion: 43
+ObjectBounds:
+  First: -18, -14, 0
+  Second: 20, 11, 153
+Model:
+  File: DLC02\Clutter\Riekling\DLC2RieklingTotemSkull.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

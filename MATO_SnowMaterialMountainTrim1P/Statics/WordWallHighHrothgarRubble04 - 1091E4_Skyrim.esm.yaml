@@ -1,0 +1,14 @@
+FormKey: 1091E4:Skyrim.esm
+EditorID: WordWallHighHrothgarRubble04
+FormVersion: 39
+ObjectBounds:
+  First: -125, -242, -90
+  Second: 125, 242, 90
+Model:
+  File: Dungeons\Nordic\Chambers\WordWallHighHrothgarRubble04.nif
+  Data: 0xB5707F5A646473001E8C9F277A7C9E5E646473001E8C9F27
+MaxAngle: 120
+Material: 04CCC9:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

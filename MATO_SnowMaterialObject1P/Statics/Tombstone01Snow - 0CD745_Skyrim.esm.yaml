@@ -1,0 +1,19 @@
+FormKey: 0CD745:Skyrim.esm
+MajorRecordFlagsRaw: 134217728
+EditorID: Tombstone01Snow
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- 0x8000000
+ObjectBounds:
+  First: -42, -28, -45
+  Second: 28, 28, 161
+Model:
+  File: Clutter\Tombstones\Tombstone01.nif
+  Data: 0x968A540264647300494699AF32485FBD64647300494699AFCE3B386164647300D6E93BAD187F5B7364647300D6E93BAD
+MaxAngle: 90
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- NavMeshGenerationBoundingBox

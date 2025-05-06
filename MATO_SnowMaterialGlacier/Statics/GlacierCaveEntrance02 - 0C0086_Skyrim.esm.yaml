@@ -1,0 +1,23 @@
+FormKey: 0C0086:Skyrim.esm
+MajorRecordFlagsRaw: 32768
+EditorID: GlacierCaveEntrance02
+SkyrimMajorRecordFlags:
+- VisibleWhenDistant
+ObjectBounds:
+  First: -1893, -1784, -1384
+  Second: 1880, 1989, 2390
+Model:
+  File: Landscape\Ice\GlacierCaveEntrance02.nif
+  Data: 0x0200000009000000000000000A19D717646473003B114A87595AAD09646473003B114A872E165085646473003B114A87E934FA68646473003B114A87B83F1D4D646473003B114A87E5989040646473003B114A8719B759FE64647300262C333B56BA7C42646473003B114A87F8EF7C50646473003B114A87
+MaxAngle: 75
+Material: 05E3F0:Skyrim.esm
+Flags:
+- ConsideredSnow
+Unused: 0x000000
+Lod:
+  Level0: LOD\Ice\GlacierCaveEntrance02_LOD_0.nif
+  Level1: LOD\Ice\GlacierCaveEntrance02_LOD_1.nif
+  Level2: ''
+  Level3: ''
+MajorFlags:
+- HasDistantLOD

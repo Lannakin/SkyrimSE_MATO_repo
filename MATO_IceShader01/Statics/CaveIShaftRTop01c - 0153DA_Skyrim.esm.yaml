@@ -1,0 +1,21 @@
+FormKey: 0153DA:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: CaveIShaftRTop01c
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -792, -846, 0
+  Second: 929, 870, 892
+Model:
+  File: Dungeons\Caves\Ice\ShaftRock\CaveIShaftRTop01c.nif
+  Data: 0x92782E79646473001E6155327C65808A646473001E6155326E5786D4646473001E61553256F52BC9646473001E615532742F8659646473001E615532
+MaxAngle: 90
+Material: 02BD1D:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

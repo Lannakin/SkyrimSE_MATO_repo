@@ -1,0 +1,21 @@
+FormKey: 0AFCC1:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: RiftenRWRoomBSupportBase01ice
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -488, -39, -256
+  Second: -456, 39, 0
+Model:
+  File: Dungeons\Riften\RatwayBarrel\RiftenRWRoomBSupportBase01.nif
+  Data: 0xB89623C264647300AD95A8F926DD59A264647300AD95A8F9
+MaxAngle: 120
+Material: 02BD1D:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

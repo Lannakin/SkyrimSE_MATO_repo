@@ -1,0 +1,32 @@
+FormKey: 0BDAB4:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: RockPileM03Rocks_HeavySN
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -361, -361, -373
+  Second: 361, 361, 350
+Model:
+  File: Landscape\Rocks\RockPileM03.nif
+  Data: 0x02000000060000000000000098971882646473003B114A872989DA40646473003B114A87D2E1CF68646473003B114A8778102AF3646473003B114A87968A540264647300494699AF32485FBD64647300494699AF
+  AlternateTextures:
+  - Name: RockPileM03:0
+    NewTexture: 000891:Skyrim.esm
+  - Name: RockPileM03:1 - L2_RockPileM03:1
+    NewTexture: 002E34:Update.esm
+    Index: 3
+  - Name: RockPileM03:8
+    NewTexture: 000891:Skyrim.esm
+    Index: 1
+  - Name: RockPileM03:9
+    NewTexture: 000891:Skyrim.esm
+    Index: 2
+MaxAngle: 50
+Material: 04CCC9:Skyrim.esm
+Flags:
+- ConsideredSnow
+Unused: 0x000000
+MajorFlags:
+- 0x800
+- 0x10000

@@ -1,0 +1,25 @@
+FormKey: 01EF3F:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: DirtCliffsCornerIn01GrassSnow02
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -918, -650, -238
+  Second: 1211, 1033, 198
+Model:
+  File: Landscape\DirtCliffs\DirtCliffsCornerIn01.nif
+  Data: 0x2FCA2C78646473001399225F2B6684FE646473001399225F1F2DA7B2646473001399225F88EDAC1F646473001399225FC44CCBA1646473003B114A87FEB3D547646473003B114A87
+  AlternateTextures:
+  - Name: DirtCliffsCornerIn01:1
+    NewTexture: 000889:Skyrim.esm
+    Index: 4
+MaxAngle: 90
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

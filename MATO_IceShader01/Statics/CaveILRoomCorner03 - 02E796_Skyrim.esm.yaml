@@ -1,0 +1,21 @@
+FormKey: 02E796:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: CaveILRoomCorner03
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -256, -217, 1
+  Second: 208, 256, 942
+Model:
+  File: Dungeons\Caves\Ice\LargeRoom\CaveILRoomCorner03.nif
+  Data: 0xF0497B5E646473001E615532364B958C646473001E6155326E5786D4646473001E61553256F52BC9646473001E615532742F8659646473001E615532
+MaxAngle: 120
+Material: 02BD1D:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

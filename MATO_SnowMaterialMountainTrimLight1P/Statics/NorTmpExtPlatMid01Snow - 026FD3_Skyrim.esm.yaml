@@ -1,0 +1,28 @@
+FormKey: 026FD3:Skyrim.esm
+MajorRecordFlagsRaw: 100352
+EditorID: NorTmpExtPlatMid01Snow
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- VisibleWhenDistant
+- 0x10000
+ObjectBounds:
+  First: -512, -512, 0
+  Second: 512, 512, 0
+Model:
+  File: Dungeons\Nordic\Exterior\NorTmpExtPlatMid01.nif
+  Data: 0xF89D93FC646473001E8C9F272AFFE6E1646473001E8C9F27
+MaxAngle: 100
+Material: 04CCBE:Skyrim.esm
+Unused: '[]'
+Lod:
+  Level0: Lod\NordicExterior\NorTmpExtPlatMid01_LOD.nif
+  Level1: Lod\NordicExterior\NorTmpExtPlatMid01_LOD.nif
+  Level2: Lod\NordicExterior\NorTmpExtPlatMid01_LOD.nif
+  Level3: ''
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- HasDistantLOD
+- 0x10000

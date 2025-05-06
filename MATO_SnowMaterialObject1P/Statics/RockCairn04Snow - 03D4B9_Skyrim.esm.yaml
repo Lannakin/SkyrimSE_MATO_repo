@@ -1,0 +1,23 @@
+FormKey: 03D4B9:Skyrim.esm
+MajorRecordFlagsRaw: 134285312
+EditorID: RockCairn04Snow
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+- 0x8000000
+ObjectBounds:
+  First: -49, -67, -2
+  Second: 49, 67, 179
+Model:
+  File: Landscape\Rocks\Cairns\RockCairn04.nif
+  Data: 0x968A540264647300494699AF32485FBD64647300494699AF
+MaxAngle: 90
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000
+- NavMeshGenerationBoundingBox

@@ -1,0 +1,24 @@
+FormKey: 024BBA:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: RockPileS01DirtSnowPathSnowLight
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -102, -153, -17
+  Second: 125, 126, 42
+Model:
+  File: Landscape\Rocks\RockPileS01.nif
+  Data: 0x98971882646473003B114A872989DA40646473003B114A87968A540264647300494699AF32485FBD64647300494699AF
+  AlternateTextures:
+  - Name: RockPileS01:0
+    NewTexture: 01B081:Skyrim.esm
+MaxAngle: 40
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

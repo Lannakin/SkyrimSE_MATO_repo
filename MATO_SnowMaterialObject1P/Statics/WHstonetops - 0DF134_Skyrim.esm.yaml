@@ -1,0 +1,14 @@
+FormKey: 0DF134:Skyrim.esm
+EditorID: WHstonetops
+FormVersion: 39
+ObjectBounds:
+  First: -191, -361, -147
+  Second: 191, 361, 147
+Model:
+  File: Architecture\Windhelm\WHstonetops.nif
+  Data: 0xC5E04B5764647300D2D0A39FFC9BAE8164647300D2D0A39F
+MaxAngle: 90
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

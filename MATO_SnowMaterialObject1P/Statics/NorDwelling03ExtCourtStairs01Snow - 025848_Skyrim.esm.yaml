@@ -1,0 +1,21 @@
+FormKey: 025848:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: NorDwelling03ExtCourtStairs01Snow
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -37, -396, -87
+  Second: 413, 396, 288
+Model:
+  File: Dungeons\Nordic\Exterior\Dwellings\NorDwelling03ExtCourtStairs01.nif
+  Data: 0x991171B4646473001E8C9F2723C2D85C646473001E8C9F272340782D646473001E8C9F274D165C5F646473001E8C9F27
+MaxAngle: 90
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

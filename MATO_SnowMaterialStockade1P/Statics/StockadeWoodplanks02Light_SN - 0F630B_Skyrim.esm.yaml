@@ -1,0 +1,17 @@
+FormKey: 0F630B:Skyrim.esm
+EditorID: StockadeWoodplanks02Light_SN
+FormVersion: 39
+ObjectBounds:
+  First: -3, -67, -35
+  Second: 3, 63, 36
+Model:
+  File: Dungeons\Mines\Clutter\MineWoodplanks02.nif
+  Data: 0x71067067646473005805E45AED56F3F3646473002B043E36
+  AlternateTextures:
+  - Name: MineWoodplanks02:13
+    NewTexture: 02A307:Skyrim.esm
+MaxAngle: 90
+Material: 02A27D:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

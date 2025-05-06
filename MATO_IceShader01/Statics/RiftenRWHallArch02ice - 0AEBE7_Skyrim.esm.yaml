@@ -1,0 +1,21 @@
+FormKey: 0AEBE7:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: RiftenRWHallArch02ice
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -128, -33, -6
+  Second: 128, 33, 209
+Model:
+  File: Dungeons\Riften\RatwayHall\RiftenRWHallArch02.nif
+  Data: 0x94A5297464647300AD95A8F934A5784464647300AD95A8F9A472ACFD64647300AD95A8F9959949E364647300AD95A8F96837B71E64647300AD95A8F9D357B08264647300AD95A8F9
+MaxAngle: 120
+Material: 02BD1D:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

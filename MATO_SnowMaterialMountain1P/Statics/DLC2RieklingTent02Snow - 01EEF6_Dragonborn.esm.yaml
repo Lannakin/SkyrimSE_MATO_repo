@@ -1,0 +1,14 @@
+FormKey: 01EEF6:Dragonborn.esm
+EditorID: DLC2RieklingTent02Snow
+FormVersion: 43
+ObjectBounds:
+  First: -116, -102, -20
+  Second: 116, 100, 211
+Model:
+  File: DLC02\Architecture\Riekling\DLC2RieklingTent02.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Material: 04331F:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

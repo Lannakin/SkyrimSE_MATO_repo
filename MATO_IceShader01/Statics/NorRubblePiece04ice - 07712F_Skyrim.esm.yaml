@@ -1,0 +1,23 @@
+FormKey: 07712F:Skyrim.esm
+MajorRecordFlagsRaw: 134285312
+EditorID: NorRubblePiece04ice
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+- 0x8000000
+ObjectBounds:
+  First: -131, -74, -79
+  Second: 131, 74, 79
+Model:
+  File: Dungeons\Nordic\Rubble\NorRubblePiece04.nif
+  Data: 0x80D51CB3646473001E8C9F27C800135A646473001E8C9F27
+MaxAngle: 120
+Material: 02BD1D:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000
+- NavMeshGenerationBoundingBox

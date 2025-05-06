@@ -1,0 +1,24 @@
+FormKey: 098354:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: RockCliffMineEntranceHvSnow
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -1080, -595, -869
+  Second: 964, 1448, 1174
+Model:
+  File: Landscape\Rocks\RockCliffMineEntrance.nif
+  Data: 0x02000000060000000000000098971882646473003B114A872989DA40646473003B114A87968A540264647300494699AF32485FBD64647300494699AFD2E1CF68646473003B114A8778102AF3646473003B114A87
+  AlternateTextures:
+  - Name: RockCliffMineEntrance:1
+    NewTexture: 002E34:Update.esm
+    Index: 1
+MaxAngle: 90
+Material: 04CCC9:Skyrim.esm
+Flags:
+- ConsideredSnow
+Unused: 0x000000
+MajorFlags:
+- 0x800
+- 0x10000

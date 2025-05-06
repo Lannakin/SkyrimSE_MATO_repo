@@ -1,0 +1,21 @@
+FormKey: 02F1B5:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: NorTowerRuinsIntTopFloor01Snow
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -485, -488, 889
+  Second: 392, 486, 1831
+Model:
+  File: Dungeons\Nordic\Exterior\Towers\NorTowerRuinsIntTopFloor01.nif
+  Data: 0xBDA6C1E5646473001E8C9F272D3EF7F9646473001E8C9F27991171B4646473001E8C9F2723C2D85C646473001E8C9F27F89D93FC646473001E8C9F272AFFE6E1646473001E8C9F272340782D646473001E8C9F274D165C5F646473001E8C9F27
+MaxAngle: 65
+Material: 026FDC:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

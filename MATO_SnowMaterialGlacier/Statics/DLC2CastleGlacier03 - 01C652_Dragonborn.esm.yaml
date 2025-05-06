@@ -1,0 +1,14 @@
+FormKey: 01C652:Dragonborn.esm
+EditorID: DLC2CastleGlacier03
+FormVersion: 43
+ObjectBounds:
+  First: -793, -2472, -40
+  Second: 1181, 2472, 2620
+Model:
+  File: DLC02\Dungeons\IceCastle\DLC2CastleGlacier03.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Material: 05E3F0:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

@@ -1,0 +1,21 @@
+FormKey: 07A870:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: CaveGEDoor01Holeice
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -1024, 422, 0
+  Second: 1023, 872, 3135
+Model:
+  File: Dungeons\Caves\Green\Epic\CaveGEDoor01Hole.nif
+  Data: 0x77E8CBA7646473001E615532742F8659646473001E615532
+MaxAngle: 120
+Material: 02BD1D:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

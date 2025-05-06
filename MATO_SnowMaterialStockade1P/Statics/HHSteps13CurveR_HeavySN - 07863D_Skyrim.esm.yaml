@@ -1,0 +1,14 @@
+FormKey: 07863D:Skyrim.esm
+EditorID: HHSteps13CurveR_HeavySN
+FormVersion: 39
+ObjectBounds:
+  First: -635, -75, -24
+  Second: -83, 374, 102
+Model:
+  File: Architecture\HighHrothgar\HHSteps13CurveR.nif
+  Data: 0x08F44DD2646473002CE219B8846320E5646473002CE219B8
+MaxAngle: 110
+Material: 02A27D:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

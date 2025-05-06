@@ -1,0 +1,21 @@
+FormKey: 02C299:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: CaveIRockL01
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -165, -208, -59
+  Second: 167, 217, 232
+Model:
+  File: Dungeons\Caves\Ice\Rocks\CaveIRockL01.nif
+  Data: 0xC4B72DA5646473001E61553232485FBD64647300494699AF6E5786D4646473001E615532
+MaxAngle: 60
+Material: 02BD1D:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

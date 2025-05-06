@@ -1,0 +1,21 @@
+FormKey: 0487EE:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: BlackreachEMid01_Blackreach
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -1024, -1024, 3560
+  Second: 1024, 1024, 3756
+Model:
+  File: Dungeons\Caves\Blackreach\BlackreachEMid01.nif
+  Data: 0x968A540264647300494699AF32485FBD64647300494699AF
+MaxAngle: 45
+Material: 0B9EF3:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

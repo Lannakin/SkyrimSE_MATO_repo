@@ -1,0 +1,14 @@
+FormKey: 0FDCC5:Skyrim.esm
+EditorID: RuinsBrokenShelf02Snow
+FormVersion: 39
+ObjectBounds:
+  First: -102, -35, 0
+  Second: 96, 52, 74
+Model:
+  File: Clutter\Ruins\RuinsFurnitureRubble06.nif
+  Data: 0xE9B5E0B9646473003BBB212F82BB9EA3646473003BBB212F76798155646473003BBB212FAD4F95C7646473003BBB212F
+MaxAngle: 45
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

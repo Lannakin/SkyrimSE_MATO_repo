@@ -1,0 +1,20 @@
+FormKey: 0C54B0:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: MineCBoulderPileS02IceBlend
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -121, -133, -22
+  Second: 129, 118, 56
+Model:
+  File: Dungeons\Mines\Rocks\MineCBoulderPileS02.nif
+  Data: 0xB7C91241646473005805E45ABD0E15DE646473005805E45AA140CC16646473005805E45A30D7E956646473005805E45A
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

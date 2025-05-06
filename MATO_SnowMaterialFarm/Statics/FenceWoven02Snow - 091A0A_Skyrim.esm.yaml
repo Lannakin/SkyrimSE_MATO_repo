@@ -1,0 +1,21 @@
+FormKey: 091A0A:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: FenceWoven02Snow
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -77, -5, 0
+  Second: 81, 7, 104
+Model:
+  File: Architecture\Farmhouse\FenceWoven02.NIF
+  Data: 0xA54FDECC646473004E28BE12B7D53AA2646473004E28BE12CDC076C4646473004E28BE1201A21972646473004E28BE12
+MaxAngle: 120
+Material: 06F158:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

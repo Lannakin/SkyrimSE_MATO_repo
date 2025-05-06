@@ -1,0 +1,21 @@
+FormKey: 0A2FEF:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: FalmerTotem01Snow
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -15, -10, -6
+  Second: 12, 9, 87
+Model:
+  File: Clutter\FalmerTotems\falmertotem.nif
+  Data: 0xB6D8FFFF646473000060E0E9E3A1BEAD646473000060E0E9471962D4646473000060E0E9
+MaxAngle: 110
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

@@ -1,0 +1,14 @@
+FormKey: 0E8EBA:Skyrim.esm
+EditorID: WHlanddead9
+FormVersion: 39
+ObjectBounds:
+  First: -958, -2308, -450
+  Second: 249, -393, 430
+Model:
+  File: Architecture\Windhelm\WHlanddead9.nif
+  Data: 0xF635EBF564647300D2D0A39F377A7C8364647300D2D0A39F276A720D64647300D2D0A39F953A8BE064647300D2D0A39F
+MaxAngle: 90
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

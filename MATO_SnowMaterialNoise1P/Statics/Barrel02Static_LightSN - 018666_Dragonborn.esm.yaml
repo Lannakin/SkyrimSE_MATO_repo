@@ -1,0 +1,14 @@
+FormKey: 018666:Dragonborn.esm
+EditorID: Barrel02Static_LightSN
+FormVersion: 43
+ObjectBounds:
+  First: -27, -27, 0
+  Second: 27, 27, 80
+Model:
+  File: Clutter\Barrel02.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 40
+Material: 026FDC:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

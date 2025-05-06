@@ -1,0 +1,21 @@
+FormKey: 0770DD:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: NorSarcophagusTopice
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -92, -42, 0
+  Second: 92, 42, 10
+Model:
+  File: Clutter\Ruins\RuinsSarcophagus_Top01.nif
+  Data: 0xCF9F3D11646473003BBB212FAD59FBBB646473003BBB212F76798155646473003BBB212FAD4F95C7646473003BBB212F
+MaxAngle: 120
+Material: 02BD1D:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

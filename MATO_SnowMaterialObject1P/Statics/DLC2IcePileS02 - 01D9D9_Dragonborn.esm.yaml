@@ -1,0 +1,14 @@
+FormKey: 01D9D9:Dragonborn.esm
+EditorID: DLC2IcePileS02
+FormVersion: 43
+ObjectBounds:
+  First: -121, -133, -22
+  Second: 129, 118, 56
+Model:
+  File: DLC02\Landscape\Glaciers\DLC2IcePileS02.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

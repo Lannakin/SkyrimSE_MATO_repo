@@ -1,0 +1,14 @@
+FormKey: 0825D6:Skyrim.esm
+EditorID: NorBridgeMidStair01SnowLt
+FormVersion: 39
+ObjectBounds:
+  First: -224, -321, -398
+  Second: 241, 149, -11
+Model:
+  File: Dungeons\Nordic\Bridges\NorBridgeMidStair01.nif
+  Data: 0x49EB3AB7646473001E8C9F2742754A81646473001E8C9F2732F0C625646473001E8C9F276F8EE4C7646473001E8C9F27BDA6C1E5646473001E8C9F272D3EF7F9646473001E8C9F27
+MaxAngle: 60
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

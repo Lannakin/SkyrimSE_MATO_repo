@@ -1,0 +1,31 @@
+FormKey: 0B77C0:Skyrim.esm
+MajorRecordFlagsRaw: 100352
+EditorID: RockCaveEntrance02SnowRocks01_HeavySN
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- VisibleWhenDistant
+- 0x10000
+ObjectBounds:
+  First: -1207, -1084, -264
+  Second: 948, 1181, 1106
+Model:
+  File: Landscape\Rocks\RockCaveEntrance02.nif
+  Data: 0x98971882646473003B114A872989DA40646473003B114A872CDB5D9B64647300494699AF6BF619BF64647300494699AFD2E1CF68646473003B114A8778102AF3646473003B114A87968A540264647300494699AF32485FBD64647300494699AF
+  AlternateTextures:
+  - Name: RockCaveEntrance02:0
+    NewTexture: 06A1AE:Skyrim.esm
+MaxAngle: 90
+Material: 025129:Skyrim.esm
+Unused: '[]'
+Lod:
+  Level0: LOD\Rocks\RockCaveEntrance02_LOD_0.nif
+  Level1: LOD\Rocks\RockCaveEntrance02_LOD_1.nif
+  Level2: ''
+  Level3: ''
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- HasDistantLOD
+- 0x10000

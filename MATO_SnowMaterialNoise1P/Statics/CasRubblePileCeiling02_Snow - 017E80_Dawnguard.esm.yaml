@@ -1,0 +1,14 @@
+FormKey: 017E80:Dawnguard.esm
+EditorID: CasRubblePileCeiling02_Snow
+FormVersion: 43
+ObjectBounds:
+  First: -223, -180, -76
+  Second: 203, 141, 26
+Model:
+  File: DLC01\Dungeons\Castle\Rubble\CasRubblePileCeiling02.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 70
+Material: 026FDC:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

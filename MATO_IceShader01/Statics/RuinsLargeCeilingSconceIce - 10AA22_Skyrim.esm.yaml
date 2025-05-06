@@ -1,0 +1,21 @@
+FormKey: 10AA22:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: RuinsLargeCeilingSconceIce
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -49, -107, 0
+  Second: 49, 107, 102
+Model:
+  File: Clutter\Ruins\RuinCeilingSconce01.nif
+  Data: 0xCF9F3D11646473003BBB212FAD59FBBB646473003BBB212FE3FB5ADE646473003BBB212F255815C8646473003BBB212F
+MaxAngle: 90
+Material: 02BD1D:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

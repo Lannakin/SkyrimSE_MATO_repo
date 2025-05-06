@@ -1,0 +1,22 @@
+FormKey: 10E9EB:Skyrim.esm
+MajorRecordFlagsRaw: 134217728
+EditorID: NorExtRubblePiece03_HeavySN
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- 0x8000000
+ObjectBounds:
+  First: -181, -61, -85
+  Second: 181, 61, 85
+Model:
+  File: Dungeons\Nordic\Rubble\NorRubblePiece03.nif
+  Data: 0x80D51CB3646473001E8C9F27C800135A646473001E8C9F27
+  AlternateTextures:
+  - Name: NorRubblePiece03:0
+    NewTexture: 10E9E4:Skyrim.esm
+MaxAngle: 80
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- NavMeshGenerationBoundingBox

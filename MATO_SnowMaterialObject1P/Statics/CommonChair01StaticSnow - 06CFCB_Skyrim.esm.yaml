@@ -1,0 +1,19 @@
+FormKey: 06CFCB:Skyrim.esm
+MajorRecordFlagsRaw: 134217728
+EditorID: CommonChair01StaticSnow
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- 0x8000000
+ObjectBounds:
+  First: -21, -20, 0
+  Second: 21, 20, 70
+Model:
+  File: Furniture\Common\CommonChair01.nif
+  Data: 0xB14DA5D0646473008EAEA792B57F9A62646473008EAEA792
+MaxAngle: 90
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- NavMeshGenerationBoundingBox

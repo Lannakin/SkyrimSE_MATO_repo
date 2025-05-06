@@ -1,0 +1,23 @@
+FormKey: 0C7A2E:Skyrim.esm
+MajorRecordFlagsRaw: 134285312
+EditorID: CaveLamp02_LightSN
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+- 0x8000000
+ObjectBounds:
+  First: -39, -38, -87
+  Second: 39, 38, 87
+Model:
+  File: Clutter\Caves\Cave_Lamp02.nif
+  Data: 0x8229361C6464730047F8545957732EDC6464730047F85459
+MaxAngle: 90
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000
+- NavMeshGenerationBoundingBox

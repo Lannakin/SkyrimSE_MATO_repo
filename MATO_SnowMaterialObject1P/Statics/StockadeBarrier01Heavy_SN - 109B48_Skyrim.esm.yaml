@@ -1,0 +1,25 @@
+FormKey: 109B48:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: StockadeBarrier01Heavy_SN
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -141, -50, 0
+  Second: 140, 50, 87
+Model:
+  File: Clutter\Stockade\StockadeBarrier01.nif
+  Data: 0x7568EF7264647300E6A483C7F21B088664647300E6A483C72A4BC53F64647300E6A483C731664C1964647300E6A483C7
+  AlternateTextures:
+  - Name: StockadeBarrier01:0 - L1_Wood:0
+    NewTexture: 02A27E:Skyrim.esm
+    Index: 1
+MaxAngle: 90
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

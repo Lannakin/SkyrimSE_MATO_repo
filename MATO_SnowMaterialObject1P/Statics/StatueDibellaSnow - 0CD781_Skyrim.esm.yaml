@@ -1,0 +1,14 @@
+FormKey: 0CD781:Skyrim.esm
+EditorID: StatueDibellaSnow
+FormVersion: 39
+ObjectBounds:
+  First: -28, -29, 0
+  Second: 36, 33, 242
+Model:
+  File: Clutter\Statues\StatueDibella.nif
+  Data: 0xC7BC8D6164647300E04DF5D767D245D164647300E04DF5D7
+MaxAngle: 120
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

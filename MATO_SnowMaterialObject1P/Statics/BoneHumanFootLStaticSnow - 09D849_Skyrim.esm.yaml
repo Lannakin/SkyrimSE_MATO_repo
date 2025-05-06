@@ -1,0 +1,19 @@
+FormKey: 09D849:Skyrim.esm
+MajorRecordFlagsRaw: 134217728
+EditorID: BoneHumanFootLStaticSnow
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- 0x8000000
+ObjectBounds:
+  First: -4, -14, -4
+  Second: 6, 12, 3
+Model:
+  File: Clutter\Bones\HumanFootLeftStatic.nif
+  Data: 0x4376FAB8646473006FD33E35F17D1BF5646473006FD33E35
+MaxAngle: 60
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- NavMeshGenerationBoundingBox

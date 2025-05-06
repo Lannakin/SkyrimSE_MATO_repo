@@ -1,0 +1,24 @@
+FormKey: 105568:Skyrim.esm
+MajorRecordFlagsRaw: 32768
+EditorID: WinterholdExtEntRing01
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- VisibleWhenDistant
+ObjectBounds:
+  First: -759, -6080, -1536
+  Second: 759, -1151, 1536
+Model:
+  File: Architecture\Winterhold\WinterholdExtEntRing01.nif
+  Data: 0x30DDE08864647300BBEC2C33BE1D0DB064647300BBEC2C338A8CE91164647300BBEC2C33E7A34BB264647300BBEC2C336D79991D64647300BBEC2C332FCCA36E64647300BBEC2C333EE9A83564647300BBEC2C33CD793A0F64647300BBEC2C3384B8A1AC64647300BBEC2C3394C77C0D64647300BBEC2C33
+MaxAngle: 80
+Material: 108A84:Skyrim.esm
+Unused: '[]'
+Lod:
+  Level0: LOD\Winterhold\WinterholdExtEntRing01_LOD.nif
+  Level1: LOD\Winterhold\WinterholdExtEntRing01_LOD.nif
+  Level2: LOD\Winterhold\WinterholdExtEntRing01_LOD.nif
+  Level3: ''
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- HasDistantLOD

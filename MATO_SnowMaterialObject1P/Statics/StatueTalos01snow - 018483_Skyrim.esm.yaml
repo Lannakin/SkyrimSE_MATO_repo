@@ -1,0 +1,21 @@
+FormKey: 018483:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: StatueTalos01snow
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -94, -144, 0
+  Second: 94, 144, 264
+Model:
+  File: Clutter\Statues\StatueTalos01.nif
+  Data: 0x805B925064647300E04DF5D7614D135064647300E04DF5D7
+MaxAngle: 90
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

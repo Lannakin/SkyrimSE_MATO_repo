@@ -1,0 +1,21 @@
+FormKey: 0A2FEC:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: FalmerTentLargeSnow
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -246, -231, -7
+  Second: 246, 237, 396
+Model:
+  File: Architecture\Falmer Hut\LargeHut.nif
+  Data: 0x3A504418646473003EA5A32D0D9AEBD9646473003EA5A32D
+MaxAngle: 70
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

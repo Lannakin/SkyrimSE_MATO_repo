@@ -1,0 +1,21 @@
+FormKey: 062A0A:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: RuinsBrokenTable01snow
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -82, -58, 0
+  Second: 109, 58, 55
+Model:
+  File: Clutter\Ruins\RuinsFurnitureRubble03.nif
+  Data: 0xE9B5E0B9646473003BBB212F82BB9EA3646473003BBB212F76798155646473003BBB212FAD4F95C7646473003BBB212F
+MaxAngle: 60
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

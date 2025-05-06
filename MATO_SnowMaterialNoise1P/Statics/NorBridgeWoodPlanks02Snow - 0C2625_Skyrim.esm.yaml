@@ -1,0 +1,14 @@
+FormKey: 0C2625:Skyrim.esm
+EditorID: NorBridgeWoodPlanks02Snow
+FormVersion: 39
+ObjectBounds:
+  First: -31, -125, -5
+  Second: 31, 125, 0
+Model:
+  File: Dungeons\Nordic\Bridges\NorBridgeWoodPlanks02.nif
+  Data: 0xBDA6C1E5646473001E8C9F272D3EF7F9646473001E8C9F27
+MaxAngle: 65
+Material: 026FDC:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

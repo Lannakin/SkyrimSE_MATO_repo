@@ -1,0 +1,27 @@
+FormKey: 02A295:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: StockadeStairs01Light_SN
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -68, -167, 0
+  Second: 23, 107, 198
+Model:
+  File: Clutter\Stockade\StockadeStairs01.nif
+  Data: 0x2A4BC53F64647300E6A483C731664C1964647300E6A483C764E6782464647300E6A483C752C0D1DF64647300E6A483C77568EF7264647300E6A483C7F21B088664647300E6A483C7
+  AlternateTextures:
+  - Name: StockadeStairs01:1
+    NewTexture: 02A27E:Skyrim.esm
+    Index: 1
+  - Name: StockadeStairs01:0
+    NewTexture: 02A27E:Skyrim.esm
+MaxAngle: 60
+Material: 02A27D:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

@@ -1,0 +1,21 @@
+FormKey: 06F75E:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: ImpExtIceWindow01
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: 0, -40, -84
+  Second: 33, 38, 84
+Model:
+  File: Dungeons\Imperial\ExteriorIce\ImpExtIceWindow01Dark.nif
+  Data: 0xBE028B31646473002B043E3603BC2112646473002B043E36ED26B559646473002B043E36D117B6F1646473002B043E368E3A323064647300D2D0A39F815125F464647300D2D0A39F7B895F2464647300D2D0A39FB8EC307B64647300262C333B
+MaxAngle: 100
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

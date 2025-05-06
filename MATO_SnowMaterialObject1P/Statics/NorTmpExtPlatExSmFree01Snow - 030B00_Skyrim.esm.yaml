@@ -1,0 +1,21 @@
+FormKey: 030B00:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: NorTmpExtPlatExSmFree01Snow
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -217, -179, -1023
+  Second: 217, 128, -109
+Model:
+  File: Dungeons\Nordic\Exterior\NorTmpExtPlatExSmFree01.nif
+  Data: 0x991171B4646473001E8C9F2723C2D85C646473001E8C9F27F89D93FC646473001E8C9F272AFFE6E1646473001E8C9F27
+MaxAngle: 90
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

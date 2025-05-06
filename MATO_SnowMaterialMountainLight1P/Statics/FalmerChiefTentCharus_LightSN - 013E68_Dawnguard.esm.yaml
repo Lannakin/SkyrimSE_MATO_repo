@@ -1,0 +1,14 @@
+FormKey: 013E68:Dawnguard.esm
+EditorID: FalmerChiefTentCharus_LightSN
+FormVersion: 43
+ObjectBounds:
+  First: -318, -258, -1
+  Second: 318, 220, 555
+Model:
+  File: DLC01\Architecture\FalmerHuts\FalmerChiefTentCharus.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Material: 045AB3:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

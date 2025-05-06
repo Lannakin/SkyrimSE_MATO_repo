@@ -1,0 +1,17 @@
+FormKey: 0897C6:Skyrim.esm
+EditorID: DirtCliffsIsland01VolcanicDirt01Sulfur
+FormVersion: 39
+ObjectBounds:
+  First: -702, -352, -18
+  Second: 731, 358, 272
+Model:
+  File: Landscape\DirtCliffs\DirtCliffsIsland01.nif
+  Data: 0x2FCA2C78646473001399225F2B6684FE646473001399225F1F2DA7B2646473001399225F88EDAC1F646473001399225FC44CCBA1646473003B114A87FEB3D547646473003B114A87
+  AlternateTextures:
+  - Name: DirtCliffsIsland01:1
+    NewTexture: 06EA7F:Skyrim.esm
+    Index: 4
+Material: 0998A6:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

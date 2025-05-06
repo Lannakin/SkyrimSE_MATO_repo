@@ -1,0 +1,20 @@
+FormKey: 10AAE9:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: CaveIRockPileS02LightIce
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -121, -133, -22
+  Second: 129, 118, 56
+Model:
+  File: Dungeons\Caves\Ice\Rocks\CaveIRockPileS02.nif
+  Data: 0xC4B72DA5646473001E61553232485FBD64647300494699AF6E5786D4646473001E615532F0497B5E646473001E615532364B958C646473001E615532
+Material: 02BD1D:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

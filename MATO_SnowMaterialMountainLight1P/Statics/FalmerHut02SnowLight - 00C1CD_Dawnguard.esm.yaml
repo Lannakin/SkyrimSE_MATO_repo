@@ -1,0 +1,14 @@
+FormKey: 00C1CD:Dawnguard.esm
+EditorID: FalmerHut02SnowLight
+FormVersion: 43
+ObjectBounds:
+  First: -195, -181, -3
+  Second: 195, 182, 284
+Model:
+  File: DLC01\Architecture\FalmerHuts\FalmerHut02.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 45
+Material: 045AB3:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

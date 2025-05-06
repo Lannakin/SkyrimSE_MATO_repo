@@ -1,0 +1,14 @@
+FormKey: 002F76:Dawnguard.esm
+EditorID: CaveGEBalconyStraight02ice
+FormVersion: 43
+ObjectBounds:
+  First: -41, -256, -209
+  Second: 256, 256, 6
+Model:
+  File: Dungeons\Caves\Green\EpicBalcony\CaveGEBalconyStraight02.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Material: 02BD1D:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

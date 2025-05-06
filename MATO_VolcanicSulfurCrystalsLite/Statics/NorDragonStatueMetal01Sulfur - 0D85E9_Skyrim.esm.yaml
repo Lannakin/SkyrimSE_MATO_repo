@@ -1,0 +1,14 @@
+FormKey: 0D85E9:Skyrim.esm
+EditorID: NorDragonStatueMetal01Sulfur
+FormVersion: 39
+ObjectBounds:
+  First: -193, -181, 0
+  Second: 137, 174, 555
+Model:
+  File: Dungeons\Nordic\RuinsDragonStatueMetal01.nif
+  Data: 0x05E3BBFC64647300E4F2A513F8B65DD364647300E4F2A513
+MaxAngle: 40
+Material: 0998A6:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

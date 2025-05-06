@@ -1,0 +1,14 @@
+FormKey: 00541E:Dawnguard.esm
+EditorID: DLC1_GlacierCaveEntrance02_INTERIOR
+Model:
+  File: Landscape\Ice\GlacierCaveEntrance02.nif
+  Data: 0x020000000000000000000000
+  AlternateTextures:
+  - Name: GlacierCaveEntrance02:8
+    NewTexture: 10D821:Skyrim.esm
+    Index: 3
+MaxAngle: 80
+Material: 02BD1D:Skyrim.esm
+Flags:
+- ConsideredSnow
+Unused: 0x000000

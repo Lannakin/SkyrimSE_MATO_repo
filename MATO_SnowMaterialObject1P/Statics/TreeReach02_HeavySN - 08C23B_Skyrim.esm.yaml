@@ -1,0 +1,21 @@
+FormKey: 08C23B:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: TreeReach02_HeavySN
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -281, -255, -140
+  Second: 253, 312, 680
+Model:
+  File: Landscape\Trees\ReachTree02.nif
+  Data: 0x968A540264647300494699AF32485FBD64647300494699AF86CBC122646473003BAC5C0AF00B46F6646473003BAC5C0A6460C60C646473003BAC5C0AF9CE0ADB646473003BAC5C0A22EE7DE1646473003BAC5C0AE6652977646473003BAC5C0A
+MaxAngle: 90
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

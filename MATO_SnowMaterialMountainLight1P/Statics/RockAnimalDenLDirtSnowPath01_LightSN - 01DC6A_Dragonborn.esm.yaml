@@ -1,0 +1,25 @@
+FormKey: 01DC6A:Dragonborn.esm
+MajorRecordFlagsRaw: 67584
+EditorID: RockAnimalDenLDirtSnowPath01_LightSN
+FormVersion: 43
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -1197, -1286, -401
+  Second: 994, 1362, 1206
+Model:
+  File: Landscape\Rocks\RockAnimalDen01.nif
+  Data: 0x020000000000000000000000
+  AlternateTextures:
+  - Name: RockAnimalDen01:0 - L2_RockAnimalDen:0
+    NewTexture: 01B081:Skyrim.esm
+    Index: 3
+MaxAngle: 90
+Material: 045AB3:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

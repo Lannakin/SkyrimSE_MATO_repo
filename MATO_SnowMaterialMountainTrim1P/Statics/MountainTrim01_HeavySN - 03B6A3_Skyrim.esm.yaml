@@ -1,0 +1,27 @@
+FormKey: 03B6A3:Skyrim.esm
+MajorRecordFlagsRaw: 100352
+EditorID: MountainTrim01_HeavySN
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- VisibleWhenDistant
+- 0x10000
+ObjectBounds:
+  First: -1245, -1245, -1246
+  Second: 1245, 1245, 1245
+Model:
+  File: Landscape\Mountains\MountainTrim01.nif
+  Data: 0x0200000008000000000000002CDB5D9B64647300494699AF6BF619BF64647300494699AF1F376EE5646473003B114A873B43CEE2646473003B114A870A19D717646473003B114A87595AAD09646473003B114A87968A540264647300494699AF32485FBD64647300494699AF
+MaxAngle: 90
+Material: 04CCC9:Skyrim.esm
+Flags:
+- ConsideredSnow
+Unused: 0x000000
+Lod:
+  Level0: LOD\Mountains\MountainTrim01_LOD_2.nif
+  Level1: ''
+  Level2: ''
+  Level3: ''
+MajorFlags:
+- 0x800
+- HasDistantLOD
+- 0x10000

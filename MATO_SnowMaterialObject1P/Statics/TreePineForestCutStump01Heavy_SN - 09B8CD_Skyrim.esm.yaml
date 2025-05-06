@@ -1,0 +1,25 @@
+FormKey: 09B8CD:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: TreePineForestCutStump01Heavy_SN
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -256, -251, -66
+  Second: 244, 233, 135
+Model:
+  File: Landscape\Trees\TreePineForestCutStump01.nif
+  Data: 0xA34254B7646473003BAC5C0A0675D18A646473003BAC5C0A22B78935646473003BAC5C0A42589E65646473003BAC5C0A261B5160646473003BAC5C0A5D2792DE646473003BAC5C0A
+  AlternateTextures:
+  - Name: TreePineForestCutStump01:0
+    NewTexture: 0F25E1:Skyrim.esm
+    Index: 2
+MaxAngle: 90
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

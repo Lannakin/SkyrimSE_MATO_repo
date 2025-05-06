@@ -1,0 +1,23 @@
+FormKey: 0982D5:Skyrim.esm
+MajorRecordFlagsRaw: 134285312
+EditorID: RuinsSconceAndBaseSnow
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+- 0x8000000
+ObjectBounds:
+  First: -68, -68, 0
+  Second: 68, 68, 108
+Model:
+  File: Clutter\Ruins\RuinSconce01WithBase.nif
+  Data: 0xEAF6A64A646473003BBB212F2D0B6667646473003BBB212F2981855D646473003BBB212F1C7CD049646473003BBB212F
+MaxAngle: 90
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000
+- NavMeshGenerationBoundingBox

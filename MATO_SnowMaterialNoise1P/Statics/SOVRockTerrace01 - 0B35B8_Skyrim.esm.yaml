@@ -1,0 +1,20 @@
+FormKey: 0B35B8:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: SOVRockTerrace01
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -558, -305, -514
+  Second: 558, 305, 258
+Model:
+  File: Architecture\Sovengarde\SOVRockTerrace01.nif
+  Data: 0x56766E5E646473000E19FBF1717DAEC2646473000E19FBF139D301C2646473000E19FBF111C17786646473000E19FBF1
+Material: 026FDC:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

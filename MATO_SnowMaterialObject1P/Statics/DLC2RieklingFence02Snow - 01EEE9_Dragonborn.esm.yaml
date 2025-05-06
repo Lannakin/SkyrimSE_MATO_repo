@@ -1,0 +1,14 @@
+FormKey: 01EEE9:Dragonborn.esm
+EditorID: DLC2RieklingFence02Snow
+FormVersion: 43
+ObjectBounds:
+  First: -55, -6, 1
+  Second: 6, 6, 116
+Model:
+  File: DLC02\Architecture\Riekling\DLC2RieklingFence02.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

@@ -1,0 +1,13 @@
+FormKey: 0D862D:Skyrim.esm
+EditorID: RuinsBrokenThrone01Sulfur
+FormVersion: 39
+ObjectBounds:
+  First: -45, -30, 0
+  Second: 45, 29, 139
+Model:
+  File: Clutter\Ruins\RuinsFurnitureRubble13.nif
+  Data: 0xE9B5E0B9646473003BBB212F82BB9EA3646473003BBB212F
+Material: 0998A6:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

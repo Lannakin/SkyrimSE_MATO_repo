@@ -1,0 +1,23 @@
+FormKey: 028791:Skyrim.esm
+MajorRecordFlagsRaw: 67176448
+EditorID: CaveGRockS01SnowTEMP
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+- 0x4000000
+ObjectBounds:
+  First: -34, -45, -14
+  Second: 55, 43, 122
+Model:
+  File: Dungeons\Caves\Green\Rocks\CaveGRockS01.nif
+  Data: 0x256A6E84646473001E61553232485FBD64647300494699AF
+MaxAngle: 90
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000
+- NavMeshGenerationFilter

@@ -1,0 +1,19 @@
+FormKey: 0D55DB:Skyrim.esm
+MajorRecordFlagsRaw: 134217728
+EditorID: NorBookPedestal_Snow
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- 0x8000000
+ObjectBounds:
+  First: -36, -35, 1
+  Second: 36, 35, 102
+Model:
+  File: Furniture\Nordic\RuinsBookPedestal.nif
+  Data: 0xEAF6A64A646473003BBB212F2D0B6667646473003BBB212FCF9F3D11646473003BBB212FAD59FBBB646473003BBB212FE9B5E0B9646473003BBB212F82BB9EA3646473003BBB212F76798155646473003BBB212FAD4F95C7646473003BBB212F
+MaxAngle: 90
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- NavMeshGenerationBoundingBox

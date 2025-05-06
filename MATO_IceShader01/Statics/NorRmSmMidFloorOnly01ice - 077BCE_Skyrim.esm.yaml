@@ -1,0 +1,21 @@
+FormKey: 077BCE:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: NorRmSmMidFloorOnly01ice
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -128, -128, 0
+  Second: 128, 128, 0
+Model:
+  File: Dungeons\Nordic\SmRooms\NorRmSmMidFloorOnly01.nif
+  Data: 0xCC14672B646473001E8C9F279C6ABCEA646473001E8C9F27
+MaxAngle: 120
+Material: 02BD1D:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

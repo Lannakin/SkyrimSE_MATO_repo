@@ -1,0 +1,21 @@
+FormKey: 034940:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: NorTmpExtPlatGuardHouse01Snow
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -246, -227, -19
+  Second: 246, 227, 383
+Model:
+  File: Dungeons\Nordic\Exterior\NorTmpExtPlatGaurdHouse01.nif
+  Data: 0xBDA6C1E5646473001E8C9F272D3EF7F9646473001E8C9F272340782D646473001E8C9F274D165C5F646473001E8C9F27
+MaxAngle: 75
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

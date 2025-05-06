@@ -1,0 +1,21 @@
+FormKey: 080BC1:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: ImpStoneBlock04ice
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -29, -25, 0
+  Second: 28, 25, 22
+Model:
+  File: Dungeons\Imperial\ClutterKits\ImpStoneBlock04.nif
+  Data: 0x15B9FB5C646473002B043E3603BC2112646473002B043E36
+MaxAngle: 90
+Material: 02BD1D:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

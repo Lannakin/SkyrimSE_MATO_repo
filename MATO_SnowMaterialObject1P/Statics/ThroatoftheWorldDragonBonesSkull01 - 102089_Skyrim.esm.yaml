@@ -1,0 +1,14 @@
+FormKey: 102089:Skyrim.esm
+EditorID: ThroatoftheWorldDragonBonesSkull01
+FormVersion: 39
+ObjectBounds:
+  First: -43, -72, -74
+  Second: 43, 72, 74
+Model:
+  File: Clutter\DeadAnimals\DragonBonesSkull01.nif
+  Data: 0xA919768964647300A302B432D22B878C64647300A302B432
+MaxAngle: 120
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

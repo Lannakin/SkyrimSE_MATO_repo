@@ -1,0 +1,24 @@
+FormKey: 06699F:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: RockShelf01FallForestDirt01
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -393, -519, -36
+  Second: 333, 583, 18
+Model:
+  File: Landscape\Rocks\RockShelf01.nif
+  Data: 0x98971882646473003B114A872989DA40646473003B114A87D2E1CF68646473003B114A8778102AF3646473003B114A872CDB5D9B64647300494699AF6BF619BF64647300494699AF
+  AlternateTextures:
+  - Name: RockShelf01:0
+    NewTexture: 057DCE:Skyrim.esm
+MaxAngle: 40
+Material: 035094:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

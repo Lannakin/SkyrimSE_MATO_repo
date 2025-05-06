@@ -1,0 +1,21 @@
+FormKey: 0BFBA6:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: RuinsPot06Static_LightSN
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -17, -17, 0
+  Second: 17, 18, 65
+Model:
+  File: Clutter\Ruins\RuinsPot06.nif
+  Data: 0x8BB0EA78646473003BBB212F22873F84646473003BBB212F
+MaxAngle: 90
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

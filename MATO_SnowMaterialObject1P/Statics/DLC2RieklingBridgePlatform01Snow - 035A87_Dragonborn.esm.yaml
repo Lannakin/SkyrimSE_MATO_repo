@@ -1,0 +1,14 @@
+FormKey: 035A87:Dragonborn.esm
+EditorID: DLC2RieklingBridgePlatform01Snow
+FormVersion: 43
+ObjectBounds:
+  First: -8, -94, -12
+  Second: 187, 94, 12
+Model:
+  File: DLC02\Architecture\Riekling\DLC2RieklingBridgePlatform01.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

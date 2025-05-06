@@ -1,0 +1,17 @@
+FormKey: 0897CB:Skyrim.esm
+EditorID: RockPileM01Sulpur
+FormVersion: 39
+ObjectBounds:
+  First: -268, -300, -41
+  Second: 267, 306, 51
+Model:
+  File: Landscape\Rocks\RockPileM01.nif
+  Data: 0x98971882646473003B114A872989DA40646473003B114A87D2E1CF68646473003B114A8778102AF3646473003B114A87968A540264647300494699AF32485FBD64647300494699AF
+  AlternateTextures:
+  - Name: RockPileM01:0
+    NewTexture: 06EA82:Skyrim.esm
+MaxAngle: 50
+Material: 0998A6:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

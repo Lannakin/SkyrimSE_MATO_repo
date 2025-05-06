@@ -1,0 +1,21 @@
+FormKey: 076629:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: DweFloorRaised01Snow
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -219, -208, 0
+  Second: 206, 239, 19
+Model:
+  File: Dungeons\Dwemer\Rubble\DweFloorRaised01.nif
+  Data: 0x53E3C6CA646473006A02F2EB577ABC3F646473006A02F2EBFD743409646473001E8C9F277C901563646473001E8C9F27
+MaxAngle: 90
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

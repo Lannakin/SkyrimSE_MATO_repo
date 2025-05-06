@@ -1,0 +1,19 @@
+FormKey: 09DB6C:Skyrim.esm
+MajorRecordFlagsRaw: 134217728
+EditorID: NorTable01NoShadowsnow
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- 0x8000000
+ObjectBounds:
+  First: -109, -58, 0
+  Second: 109, 58, 62
+Model:
+  File: Clutter\Ruins\RuinsTable01.nif
+  Data: 0x76798155646473003BBB212FAD4F95C7646473003BBB212F
+MaxAngle: 60
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- NavMeshGenerationBoundingBox

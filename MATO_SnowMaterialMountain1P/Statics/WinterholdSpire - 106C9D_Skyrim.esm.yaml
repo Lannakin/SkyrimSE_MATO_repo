@@ -1,0 +1,26 @@
+FormKey: 106C9D:Skyrim.esm
+MajorRecordFlagsRaw: 163840
+EditorID: WinterholdSpire
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- VisibleWhenDistant
+- Dangerous_OffLimits_InteriorCell
+ObjectBounds:
+  First: -2493, -3521, -6945
+  Second: 2594, 4252, 60
+Model:
+  File: Landscape\Unique\WinterholdSpire.nif
+  Data: 0x968A540264647300494699AF32485FBD64647300494699AF2CDB5D9B64647300494699AF6BF619BF64647300494699AF
+MaxAngle: 90
+Material: 04331F:Skyrim.esm
+Unused: '[]'
+Lod:
+  Level0: LOD\Mountains\Unique\WinterholdSpire_LOD_0.nif
+  Level1: LOD\Mountains\Unique\WinterholdSpire_LOD_1.nif
+  Level2: LOD\Mountains\Unique\WinterholdSpire_LOD_2.nif
+  Level3: ''
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- HasDistantLOD
+- UsesHdLodTexture

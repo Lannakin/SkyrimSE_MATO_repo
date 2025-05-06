@@ -1,0 +1,21 @@
+FormKey: 018CFD:Dragonborn.esm
+MajorRecordFlagsRaw: 67584
+EditorID: NorDwelling04ExtBaseBLtSnow
+FormVersion: 43
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -1009, -384, -96
+  Second: 1009, 384, 765
+Model:
+  File: Dungeons\Nordic\Exterior\Dwellings\NorDwelling04ExtBaseB.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 60
+Material: 04CCBE:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

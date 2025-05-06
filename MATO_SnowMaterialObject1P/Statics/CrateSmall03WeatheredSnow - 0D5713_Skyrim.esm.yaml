@@ -1,0 +1,27 @@
+FormKey: 0D5713:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: CrateSmall03WeatheredSnow
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -33, -33, -24
+  Second: 33, 32, 24
+Model:
+  File: Clutter\Common\CrateSmall03.nif
+  Data: 0x6CF249B7646473008EAEA7924FB3940F646473008EAEA792FAC24EC0646473008EAEA7922167100C646473008EAEA792
+  AlternateTextures:
+  - Name: CrateSmall03:2
+    NewTexture: 0C2C18:Skyrim.esm
+    Index: 1
+  - Name: CrateSmall03:1
+    NewTexture: 0C2C19:Skyrim.esm
+MaxAngle: 90
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

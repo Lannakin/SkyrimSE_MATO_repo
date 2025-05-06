@@ -1,0 +1,14 @@
+FormKey: 0EA068:Skyrim.esm
+EditorID: NorTentLargeSnow
+FormVersion: 39
+ObjectBounds:
+  First: -294, -225, -5
+  Second: 291, 232, 237
+Model:
+  File: Architecture\Tents\LargeNordicTent01.nif
+  Data: 0x58B178AB646473008D32D4B3FAF22D59646473008D32D4B33ED6A7FC64647300CE706321FF9D5CB964647300CE706321
+MaxAngle: 90
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

@@ -1,0 +1,14 @@
+FormKey: 005E98:Dawnguard.esm
+EditorID: FalmerPGEPillar05
+FormVersion: 43
+ObjectBounds:
+  First: -609, -609, -17
+  Second: 577, 577, 4124
+Model:
+  File: DLC01\Dungeons\FalmerPlayground\FalmerPGEPillar05.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Material: 04CCBE:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

@@ -1,0 +1,19 @@
+FormKey: 0F71E8:Skyrim.esm
+MajorRecordFlagsRaw: 134217728
+EditorID: Tombstone03Light_SN
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- 0x8000000
+ObjectBounds:
+  First: -37, -30, -45
+  Second: 30, 39, 144
+Model:
+  File: Clutter\Tombstones\Tombstone03.nif
+  Data: 0x968A540264647300494699AF32485FBD64647300494699AFCE3B386164647300D6E93BAD187F5B7364647300D6E93BAD
+MaxAngle: 90
+Material: 0C8222:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- NavMeshGenerationBoundingBox

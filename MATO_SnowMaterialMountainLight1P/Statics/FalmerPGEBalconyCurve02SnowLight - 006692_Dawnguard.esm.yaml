@@ -1,0 +1,14 @@
+FormKey: 006692:Dawnguard.esm
+EditorID: FalmerPGEBalconyCurve02SnowLight
+FormVersion: 43
+ObjectBounds:
+  First: -86, -818, -1050
+  Second: 487, 818, 61
+Model:
+  File: DLC01\Dungeons\FalmerPlayground\FalmerPGEBalconyCurve02.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 45
+Material: 045AB3:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

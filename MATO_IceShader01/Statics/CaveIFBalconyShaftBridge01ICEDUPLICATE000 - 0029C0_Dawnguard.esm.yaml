@@ -1,0 +1,14 @@
+FormKey: 0029C0:Dawnguard.esm
+EditorID: CaveIFBalconyShaftBridge01ICEDUPLICATE000
+FormVersion: 43
+ObjectBounds:
+  First: -153, -693, -146
+  Second: 156, 740, 68
+Model:
+  File: Dungeons\Caves\Ice\FrozenBalcony\CaveIFBalconyShaftBridge01.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Material: 02BD1D:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

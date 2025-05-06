@@ -1,0 +1,24 @@
+FormKey: 02A33D:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: StockadeScaffoldBase0Sided01Light_SN
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -130, -135, 0
+  Second: 130, 135, 192
+Model:
+  File: Clutter\Stockade\StockadeScaffoldBase0Sided01.nif
+  Data: 0x2A4BC53F64647300E6A483C731664C1964647300E6A483C77568EF7264647300E6A483C7F21B088664647300E6A483C7
+  AlternateTextures:
+  - Name: StockadeScaffoldBase0Sided01:0
+    NewTexture: 02A27E:Skyrim.esm
+MaxAngle: 90
+Material: 02A27D:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

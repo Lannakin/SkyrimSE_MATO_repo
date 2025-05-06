@@ -1,0 +1,14 @@
+FormKey: 0F9998:Skyrim.esm
+EditorID: CommonTableSquare01Light_SN
+FormVersion: 39
+ObjectBounds:
+  First: -45, -45, 0
+  Second: 45, 45, 63
+Model:
+  File: Clutter\Common\CommonTableSquare01.nif
+  Data: 0xB14DA5D0646473008EAEA792B57F9A62646473008EAEA792
+MaxAngle: 90
+Material: 02A27D:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

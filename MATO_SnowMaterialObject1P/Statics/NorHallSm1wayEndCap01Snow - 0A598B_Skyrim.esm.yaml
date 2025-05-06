@@ -1,0 +1,21 @@
+FormKey: 0A598B:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: NorHallSm1wayEndCap01Snow
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -112, -128, -16
+  Second: 112, 14, 303
+Model:
+  File: Dungeons\Nordic\SmHalls\NorHallSm1wayEndCap01.nif
+  Data: 0x80D51CB3646473001E8C9F27C800135A646473001E8C9F2749EB3AB7646473001E8C9F2742754A81646473001E8C9F27CC14672B646473001E8C9F279C6ABCEA646473001E8C9F27A247EF46646473001E8C9F277341A0E3646473001E8C9F27
+MaxAngle: 90
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

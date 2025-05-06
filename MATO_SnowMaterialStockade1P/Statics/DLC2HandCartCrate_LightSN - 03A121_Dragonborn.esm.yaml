@@ -1,0 +1,19 @@
+FormKey: 03A121:Dragonborn.esm
+MajorRecordFlagsRaw: 134217728
+EditorID: DLC2HandCartCrate_LightSN
+FormVersion: 43
+SkyrimMajorRecordFlags:
+- 0x8000000
+ObjectBounds:
+  First: -34, -48, 8
+  Second: 34, 51, 60
+Model:
+  File: Clutter\Carts\HandCartCrate.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Material: 02A27D:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- NavMeshGenerationBoundingBox

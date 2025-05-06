@@ -1,0 +1,14 @@
+FormKey: 065CC2:Skyrim.esm
+EditorID: NorPlatMid01_HeavySN
+FormVersion: 39
+ObjectBounds:
+  First: -128, -128, 64
+  Second: 128, 128, 64
+Model:
+  File: Dungeons\Nordic\Platforms\NorPlatMid01.nif
+  Data: 0x1816E6DF646473001E8C9F272AFFE6E1646473001E8C9F27
+MaxAngle: 90
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

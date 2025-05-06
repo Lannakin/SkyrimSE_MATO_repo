@@ -1,0 +1,14 @@
+FormKey: 0F6F07:Skyrim.esm
+EditorID: WHdockroof
+FormVersion: 39
+ObjectBounds:
+  First: -1356, -1606, 0
+  Second: 1356, 1606, 0
+Model:
+  File: Architecture\Windhelm\WHdockroof.nif
+  Data: 0x89C33E8F64647300D2D0A39FF232057F64647300D2D0A39F
+MaxAngle: 90
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

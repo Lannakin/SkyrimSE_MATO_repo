@@ -1,0 +1,30 @@
+FormKey: 0CC765:Skyrim.esm
+MajorRecordFlagsRaw: 231424
+EditorID: MountainCliffSm01_Blackreach
+FormVersion: 40
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- VisibleWhenDistant
+- 0x10000
+- Dangerous_OffLimits_InteriorCell
+ObjectBounds:
+  First: -3225, -1300, -1738
+  Second: 3680, 2525, 1695
+Model:
+  File: Landscape\Mountains\MountainCliffSm01.nif
+  Data: 0x020000000400000000000000968A540264647300494699AF32485FBD64647300494699AF2CDB5D9B64647300494699AF6BF619BF64647300494699AF
+MaxAngle: 40
+Material: 0B9EF3:Skyrim.esm
+Unused: '[]'
+Lod:
+  Level0: LOD\Mountains\MountainCliffSm01_LOD_0H.nif
+  Level1: LOD\Mountains\MountainCliffSm01_LOD_1.nif
+  Level2: LOD\Mountains\MountainCliffSm01_LOD_2.nif
+  Level3: ''
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- HasDistantLOD
+- 0x10000
+- UsesHdLodTexture

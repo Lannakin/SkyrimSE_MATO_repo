@@ -1,0 +1,28 @@
+FormKey: 0E9EA9:Skyrim.esm
+MajorRecordFlagsRaw: 100352
+EditorID: ImpExtIceStairs01_NoIceSulfur
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- VisibleWhenDistant
+- 0x10000
+ObjectBounds:
+  First: -127, -260, 0
+  Second: 128, 338, 366
+Model:
+  File: Dungeons\Imperial\ExteriorIce\ImpExtIceStairs01.nif
+  Data: 0xBE028B31646473002B043E3603BC2112646473002B043E36
+MaxAngle: 50
+Material: 0998A6:Skyrim.esm
+Unused: '[]'
+Lod:
+  Level0: LOD\ImperialIce\ImpExtIceStairs01_LOD.nif
+  Level1: LOD\ImperialIce\ImpExtIceStairs01_LOD.nif
+  Level2: LOD\ImperialIce\ImpExtIceStairs01_LOD.nif
+  Level3: ''
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- HasDistantLOD
+- 0x10000

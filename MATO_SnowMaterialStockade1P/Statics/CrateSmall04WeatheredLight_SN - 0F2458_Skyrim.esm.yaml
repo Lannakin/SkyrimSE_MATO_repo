@@ -1,0 +1,27 @@
+FormKey: 0F2458:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: CrateSmall04WeatheredLight_SN
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -33, -33, -24
+  Second: 33, 32, 24
+Model:
+  File: Clutter\Common\CrateSmall04.nif
+  Data: 0xD6A3402E646473008EAEA7924FB3940F646473008EAEA792FAC24EC0646473008EAEA7922167100C646473008EAEA792
+  AlternateTextures:
+  - Name: CrateSmall04:2
+    NewTexture: 0C2C18:Skyrim.esm
+    Index: 1
+  - Name: CrateSmall04:0
+    NewTexture: 0C2C11:Skyrim.esm
+MaxAngle: 100
+Material: 02A27D:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

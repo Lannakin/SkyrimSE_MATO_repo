@@ -1,0 +1,18 @@
+FormKey: 0E410E:Skyrim.esm
+MajorRecordFlagsRaw: 67108864
+EditorID: RuinsLinenSheet02Snow
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- 0x4000000
+ObjectBounds:
+  First: -30, -30, 0
+  Second: 30, 31, 0
+Model:
+  File: Clutter\Ruins\RuinsLinenSheet02.nif
+  Data: 0x623547C0646473003BBB212F85005196646473003BBB212F
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- NavMeshGenerationFilter

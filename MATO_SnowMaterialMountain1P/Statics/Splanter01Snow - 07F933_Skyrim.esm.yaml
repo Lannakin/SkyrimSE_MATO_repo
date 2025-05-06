@@ -1,0 +1,23 @@
+FormKey: 07F933:Skyrim.esm
+MajorRecordFlagsRaw: 134285312
+EditorID: Splanter01Snow
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+- 0x8000000
+ObjectBounds:
+  First: -86, -151, -104
+  Second: 86, 151, 88
+Model:
+  File: Architecture\Solitude\Splanter01.nif
+  Data: 0x10C429D064647300C5C78A0D15C9E24164647300C5C78A0DA31453F964647300C5C78A0DC0CFD90864647300C5C78A0D940C91C664647300C5C78A0D60C8B28B64647300C5C78A0D
+MaxAngle: 90
+Material: 04331F:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000
+- NavMeshGenerationBoundingBox

@@ -1,0 +1,27 @@
+FormKey: 060D86:Skyrim.esm
+MajorRecordFlagsRaw: 100352
+EditorID: GlacierEndLg01
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- VisibleWhenDistant
+- 0x10000
+ObjectBounds:
+  First: -3910, -4423, -2926
+  Second: 3685, 3172, 4669
+Model:
+  File: Landscape\Ice\GlacierEndLg01.nif
+  Data: 0x0200000005000000000000002E165085646473003B114A87E934FA68646473003B114A87B83F1D4D646473003B114A87E5989040646473003B114A8719B759FE64647300262C333B
+MaxAngle: 75
+Material: 05E3F0:Skyrim.esm
+Flags:
+- ConsideredSnow
+Unused: 0x000000
+Lod:
+  Level0: LOD\Ice\GlacierEndLg01_LOD_0.nif
+  Level1: LOD\Ice\GlacierEndLg01_LOD_1.nif
+  Level2: LOD\Ice\GlacierEndLg01_LOD_2.nif
+  Level3: ''
+MajorFlags:
+- 0x800
+- HasDistantLOD
+- 0x10000

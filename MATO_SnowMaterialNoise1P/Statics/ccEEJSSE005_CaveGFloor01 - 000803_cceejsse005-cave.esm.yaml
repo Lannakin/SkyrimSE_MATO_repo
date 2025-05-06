@@ -1,0 +1,11 @@
+FormKey: 000803:cceejsse005-cave.esm
+EditorID: ccEEJSSE005_CaveGFloor01
+ObjectBounds:
+  First: -256, -256, 22
+  Second: 256, 256, 51
+Model:
+  File: Dungeons\Caves\Green\LargeWall\CaveGFloor01.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Material: 026FDC:Skyrim.esm
+Unused: 0x000000

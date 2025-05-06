@@ -1,0 +1,23 @@
+FormKey: 090E72:Skyrim.esm
+MajorRecordFlagsRaw: 134285312
+EditorID: HHColumn01
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+- 0x8000000
+ObjectBounds:
+  First: -48, -48, -284
+  Second: 48, 50, 120
+Model:
+  File: Architecture\HighHrothgar\HHColumn01.nif
+  Data: 0xF0617C2E646473002CE219B8CB9320B9646473002CE219B800DBF39D646473002CE219B86B9B2886646473002CE219B8
+MaxAngle: 90
+Material: 04CCC9:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000
+- NavMeshGenerationBoundingBox

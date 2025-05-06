@@ -1,0 +1,24 @@
+FormKey: 080C9D:Skyrim.esm
+MajorRecordFlagsRaw: 32768
+EditorID: WHgrayquarterLOD02
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- VisibleWhenDistant
+ObjectBounds:
+  First: -1538, -2248, -207
+  Second: 2086, 2358, 507
+Model:
+  File: Architecture\Windhelm\WHgrayquarterLOD02.nif
+  Data: 0x295572A66464730033DDBE5F26916EC86464730033DDBE5F
+MaxAngle: 90
+Material: 025129:Skyrim.esm
+Unused: '[]'
+Lod:
+  Level0: LOD\Windhelm\WHgrayquarter_LOD.nif
+  Level1: LOD\Windhelm\WHgrayquarter_LOD.nif
+  Level2: LOD\Windhelm\WHgrayquarter_LOD.nif
+  Level3: LOD\Windhelm\WHgrayquarter_LOD.nif
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- HasDistantLOD

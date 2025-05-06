@@ -1,0 +1,23 @@
+FormKey: 04208E:Skyrim.esm
+MajorRecordFlagsRaw: 134285312
+EditorID: CaveGBoulderM01Ice
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+- 0x8000000
+ObjectBounds:
+  First: -128, -74, -13
+  Second: 119, 90, 110
+Model:
+  File: Dungeons\Caves\Green\Rocks\CaveGBoulderM01.nif
+  Data: 0x77E8CBA7646473001E615532742F8659646473001E615532
+MaxAngle: 90
+Material: 02BD1D:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000
+- NavMeshGenerationBoundingBox

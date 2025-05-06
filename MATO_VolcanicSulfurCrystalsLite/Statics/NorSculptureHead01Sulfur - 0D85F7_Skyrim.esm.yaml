@@ -1,0 +1,13 @@
+FormKey: 0D85F7:Skyrim.esm
+EditorID: NorSculptureHead01Sulfur
+FormVersion: 39
+ObjectBounds:
+  First: -81, -90, -117
+  Second: 81, 95, 121
+Model:
+  File: Dungeons\Nordic\Clutter\NorSculptureHead01.nif
+  Data: 0x80D51CB3646473001E8C9F27C800135A646473001E8C9F27A9016A9B646473001E8C9F2798A1EB9F646473001E8C9F27
+Material: 0998A6:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

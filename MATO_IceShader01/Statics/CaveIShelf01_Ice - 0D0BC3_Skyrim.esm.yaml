@@ -1,0 +1,21 @@
+FormKey: 0D0BC3:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: CaveIShelf01_Ice
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -290, -294, -67
+  Second: 249, 230, 23
+Model:
+  File: Dungeons\Caves\Ice\Clutter\CaveIShelf01.nif
+  Data: 0x282927E0646473001E615532CE190D8E646473001E6155326E5786D4646473001E615532
+MaxAngle: 90
+Material: 02BD1D:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

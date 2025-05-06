@@ -1,0 +1,14 @@
+FormKey: 06CFBA:Skyrim.esm
+EditorID: DweClutterTrough01snow
+FormVersion: 39
+ObjectBounds:
+  First: -144, -144, 0
+  Second: 144, 144, 61
+Model:
+  File: Dungeons\Dwemer\Clutter\DweClutterTrough01.nif
+  Data: 0x6646A523646473006A02F2EBE506313B646473006A02F2EB87472BE5646473006A02F2EB5032530B646473006A02F2EB04E1375B646473006A02F2EB19414824646473006A02F2EB
+MaxAngle: 90
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

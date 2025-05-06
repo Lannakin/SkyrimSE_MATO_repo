@@ -1,0 +1,21 @@
+FormKey: 0AFC70:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: RiftenRWRoomPillar03ice
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -56, -56, 0
+  Second: 56, 56, 320
+Model:
+  File: Dungeons\Riften\RatwayRoom\RiftenRWRoomPillar03.nif
+  Data: 0x94A5297464647300AD95A8F99461B82464647300AD95A8F902C72A5B64647300AD95A8F97F631FA064647300AD95A8F96837B71E64647300AD95A8F9D357B08264647300AD95A8F9
+MaxAngle: 120
+Material: 02BD1D:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

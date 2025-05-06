@@ -1,0 +1,28 @@
+FormKey: 06DD5F:Skyrim.esm
+MajorRecordFlagsRaw: 100352
+EditorID: DweFacadePartition01Snow
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- VisibleWhenDistant
+- 0x10000
+ObjectBounds:
+  First: -212, -318, 0
+  Second: 212, -198, 768
+Model:
+  File: Dungeons\Dwemer\Facades\DweFacadePartition01.nif
+  Data: 0xEAC080E9646473006A02F2EB923DDCA8646473006A02F2EB32D5754F646473006A02F2EB9B30E08C646473006A02F2EB188FFC7C64647300262C333B6646A523646473006A02F2EBE506313B646473006A02F2EB87472BE5646473006A02F2EB5032530B646473006A02F2EB04E1375B646473006A02F2EB19414824646473006A02F2EBE0ECAD53646473006A02F2EBD603EB60646473006A02F2EB
+MaxAngle: 90
+Material: 025129:Skyrim.esm
+Unused: '[]'
+Lod:
+  Level0: LOD\Dwemer\DweFacadePartition01_LOD.nif
+  Level1: LOD\Dwemer\DweFacadePartition01_LOD_1.nif
+  Level2: LOD\Dwemer\DweFacadePartition01_LOD_1.nif
+  Level3: ''
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- HasDistantLOD
+- 0x10000

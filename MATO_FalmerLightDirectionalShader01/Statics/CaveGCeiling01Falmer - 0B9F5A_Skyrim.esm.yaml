@@ -1,0 +1,21 @@
+FormKey: 0B9F5A:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: CaveGCeiling01Falmer
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -256, -256, -99
+  Second: 256, 256, -56
+Model:
+  File: Dungeons\Caves\Green\LargeWall\CaveGCeiling01.nif
+  Data: 0xD47DAF39646473001E615532F139C95C646473001E615532
+MaxAngle: 45
+Material: 0B9EF3:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

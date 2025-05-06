@@ -1,0 +1,23 @@
+FormKey: 09B769:Skyrim.esm
+MajorRecordFlagsRaw: 134285312
+EditorID: Table01Snow
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+- 0x8000000
+ObjectBounds:
+  First: -103, -53, 0
+  Second: 103, 50, 63
+Model:
+  File: Clutter\Table01.NIF
+  Data: 0xA54FDECC646473004E28BE12B7D53AA2646473004E28BE12
+MaxAngle: 50
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000
+- NavMeshGenerationBoundingBox

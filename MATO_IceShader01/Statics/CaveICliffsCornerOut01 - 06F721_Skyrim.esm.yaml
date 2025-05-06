@@ -1,0 +1,21 @@
+FormKey: 06F721:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: CaveICliffsCornerOut01
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -1298, -984, -358
+  Second: 990, 1000, 286
+Model:
+  File: Dungeons\Caves\Ice\Cliffs\CaveICliffsCornerOut01.nif
+  Data: 0xDDB48D88646473001E6155328E49B36F646473001E6155326E5786D4646473001E615532F0497B5E646473001E615532364B958C646473001E61553256F52BC9646473001E615532742F8659646473001E615532
+MaxAngle: 120
+Material: 02BD1D:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

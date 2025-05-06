@@ -1,0 +1,14 @@
+FormKey: 0298F6:Dragonborn.esm
+EditorID: DLC2RieklingStand01Snow
+FormVersion: 43
+ObjectBounds:
+  First: -222, -223, -27
+  Second: 222, 223, 585
+Model:
+  File: DLC02\Architecture\Riekling\DLC2RieklingStand01.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

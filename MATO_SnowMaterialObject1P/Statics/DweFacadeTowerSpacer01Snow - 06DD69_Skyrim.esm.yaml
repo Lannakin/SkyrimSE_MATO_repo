@@ -1,0 +1,30 @@
+FormKey: 06DD69:Skyrim.esm
+MajorRecordFlagsRaw: 1073842176
+EditorID: DweFacadeTowerSpacer01Snow
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- VisibleWhenDistant
+- 0x10000
+- 0x40000000
+ObjectBounds:
+  First: -460, -460, -64
+  Second: 460, 460, 0
+Model:
+  File: Dungeons\Dwemer\Facades\DweFacadeTowerSpacer01.nif
+  Data: 0x53E3C6CA646473006A02F2EB577ABC3F646473006A02F2EB6646A523646473006A02F2EBE506313B646473006A02F2EB87472BE5646473006A02F2EB5032530B646473006A02F2EB04E1375B646473006A02F2EB19414824646473006A02F2EB
+MaxAngle: 90
+Material: 025129:Skyrim.esm
+Unused: '[]'
+Lod:
+  Level0: LOD\Dwemer\DweFacadeTowerSpacer01_LOD.nif
+  Level1: LOD\Dwemer\DweFacadeTowerSpacer01_LOD_1.nif
+  Level2: LOD\Dwemer\DweFacadeTowerSpacer01_LOD_1.nif
+  Level3: ''
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- HasDistantLOD
+- 0x10000
+- NavMeshGenerationGround

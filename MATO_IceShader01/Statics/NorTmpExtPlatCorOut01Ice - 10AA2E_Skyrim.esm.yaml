@@ -1,0 +1,28 @@
+FormKey: 10AA2E:Skyrim.esm
+MajorRecordFlagsRaw: 100352
+EditorID: NorTmpExtPlatCorOut01Ice
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- VisibleWhenDistant
+- 0x10000
+ObjectBounds:
+  First: -185, -185, -1024
+  Second: 512, 512, 0
+Model:
+  File: Dungeons\Nordic\Exterior\NorTmpExtPlatCorOut01.nif
+  Data: 0x991171B4646473001E8C9F2723C2D85C646473001E8C9F27F89D93FC646473001E8C9F272AFFE6E1646473001E8C9F27
+MaxAngle: 70
+Material: 02BD1D:Skyrim.esm
+Unused: '[]'
+Lod:
+  Level0: LOD\NordicExterior\NorTmpExtPlatCorOut01_LOD.nif
+  Level1: LOD\NordicExterior\NorTmpExtPlatCorOut01_LOD.nif
+  Level2: LOD\NordicExterior\NorTmpExtPlatCorOut01_LOD.nif
+  Level3: ''
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- HasDistantLOD
+- 0x10000

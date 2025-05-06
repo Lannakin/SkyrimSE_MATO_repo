@@ -1,0 +1,14 @@
+FormKey: 02C58A:Dragonborn.esm
+EditorID: DLC2RieklingHorse
+FormVersion: 43
+ObjectBounds:
+  First: -58, -143, -1
+  Second: 57, 133, 208
+Model:
+  File: DLC02\Clutter\Riekling\DLC2RieklingHorse.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Material: 02BD1D:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

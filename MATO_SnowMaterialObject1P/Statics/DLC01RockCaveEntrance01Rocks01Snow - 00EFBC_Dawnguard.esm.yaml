@@ -1,0 +1,17 @@
+FormKey: 00EFBC:Dawnguard.esm
+EditorID: DLC01RockCaveEntrance01Rocks01Snow
+FormVersion: 43
+ObjectBounds:
+  First: -428, -800, -104
+  Second: 974, 727, 1011
+Model:
+  File: DLC01\Landscape\Rocks\DLC01RockCaveEntrance01.nif
+  Data: 0x020000000000000000000000
+  AlternateTextures:
+  - Name: DLC01RockCaveEntrance01:0
+    NewTexture: 06A1AE:Skyrim.esm
+MaxAngle: 90
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

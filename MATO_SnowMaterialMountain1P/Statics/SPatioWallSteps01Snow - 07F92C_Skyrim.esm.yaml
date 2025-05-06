@@ -1,0 +1,28 @@
+FormKey: 07F92C:Skyrim.esm
+MajorRecordFlagsRaw: 100352
+EditorID: SPatioWallSteps01Snow
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- VisibleWhenDistant
+- 0x10000
+ObjectBounds:
+  First: -147, -256, -248
+  Second: 147, 308, 335
+Model:
+  File: Architecture\Solitude\SPatioWallSteps01.nif
+  Data: 0x10C429D064647300C5C78A0D15C9E24164647300C5C78A0D73AB2E8D64647300C5C78A0DBFD03FD264647300C5C78A0DFABA1B1E64647300C5C78A0D7A40CE5264647300C5C78A0DA31453F964647300C5C78A0DC0CFD90864647300C5C78A0D761DE30C64647300C5C78A0D8EB34A8D64647300C5C78A0D3A48EA9264647300C5C78A0DF58887CA64647300C5C78A0D
+MaxAngle: 90
+Material: 04331F:Skyrim.esm
+Unused: '[]'
+Lod:
+  Level0: LOD\Solitude\SPatioWallSteps01_LOD.nif
+  Level1: LOD\Solitude\SPatioWallSteps01_LOD.nif
+  Level2: LOD\Solitude\SPatioWallSteps01_LOD.nif
+  Level3: ''
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- HasDistantLOD
+- 0x10000

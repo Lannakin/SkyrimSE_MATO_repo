@@ -1,0 +1,28 @@
+FormKey: 02F1B4:Skyrim.esm
+MajorRecordFlagsRaw: 100352
+EditorID: NorTowerRuins01Snow
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- VisibleWhenDistant
+- 0x10000
+ObjectBounds:
+  First: -511, -523, -512
+  Second: 416, 511, 1837
+Model:
+  File: Dungeons\Nordic\Exterior\Towers\NorTowerRuins01.nif
+  Data: 0x991171B4646473001E8C9F2723C2D85C646473001E8C9F27F89D93FC646473001E8C9F272AFFE6E1646473001E8C9F272340782D646473001E8C9F274D165C5F646473001E8C9F27
+MaxAngle: 100
+Material: 025129:Skyrim.esm
+Unused: '[]'
+Lod:
+  Level0: LOD\NordicExterior\NorTowerRuins01_LOD.nif
+  Level1: Lod\NordicExterior\NorTowerRuins01_LOD_2.nif
+  Level2: LOD\NordicExterior\NorTowerRuins01_LOD_2.nif
+  Level3: ''
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- HasDistantLOD
+- 0x10000

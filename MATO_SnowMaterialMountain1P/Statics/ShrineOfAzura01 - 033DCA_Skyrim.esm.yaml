@@ -1,0 +1,14 @@
+FormKey: 033DCA:Skyrim.esm
+EditorID: ShrineOfAzura01
+FormVersion: 39
+ObjectBounds:
+  First: -1240, -619, 4
+  Second: 1871, 619, 5465
+Model:
+  File: Clutter\Statues\ShrineOfAzura01.nif
+  Data: 0x921473D864647300BFFA25DA52E984CE64647300BFFA25DA
+MaxAngle: 105
+Material: 04331F:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

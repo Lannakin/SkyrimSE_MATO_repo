@@ -1,0 +1,14 @@
+FormKey: 033C52:Dragonborn.esm
+EditorID: DLC2Spit01SNOW
+FormVersion: 43
+ObjectBounds:
+  First: -25, -125, 0
+  Second: 17, 124, 111
+Model:
+  File: Clutter\WoodFires\Spit01.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

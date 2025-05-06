@@ -1,0 +1,21 @@
+FormKey: 01081E:Dawnguard.esm
+MajorRecordFlagsRaw: 67584
+EditorID: DLC1FVWordRock
+FormVersion: 43
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -174, 146, -213
+  Second: 292, 546, 671
+Model:
+  File: DLC01\Effects\FVIceLakeWordRock.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 100
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

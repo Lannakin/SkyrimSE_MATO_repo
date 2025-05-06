@@ -1,0 +1,14 @@
+FormKey: 074DEF:Skyrim.esm
+EditorID: DweClutterBowlShape01Snow
+FormVersion: 39
+ObjectBounds:
+  First: -54, -54, -18
+  Second: 54, 54, 14
+Model:
+  File: Dungeons\Dwemer\Clutter\DweClutterBowlShape01.nif
+  Data: 0x87472BE5646473006A02F2EB5032530B646473006A02F2EB04E1375B646473006A02F2EB19414824646473006A02F2EB
+MaxAngle: 90
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

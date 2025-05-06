@@ -1,0 +1,14 @@
+FormKey: 068E68:Skyrim.esm
+EditorID: DragonMoundDirtCapSnow
+FormVersion: 39
+ObjectBounds:
+  First: -457, -457, 285
+  Second: 457, 483, 329
+Model:
+  File: Dungeons\Nordic\Exterior\DragonMound\DragonMoundDirtCapAlt.nif
+  Data: 0xA066AE8F6464730038973CEA2989DA40646473003B114A87
+MaxAngle: 60
+Material: 0681C1:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

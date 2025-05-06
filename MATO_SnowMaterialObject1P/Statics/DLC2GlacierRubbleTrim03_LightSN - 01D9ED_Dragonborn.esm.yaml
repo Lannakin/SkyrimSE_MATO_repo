@@ -1,0 +1,14 @@
+FormKey: 01D9ED:Dragonborn.esm
+EditorID: DLC2GlacierRubbleTrim03_LightSN
+FormVersion: 43
+ObjectBounds:
+  First: -1144, -1128, 38
+  Second: 1145, 1155, 225
+Model:
+  File: DLC02\Landscape\Glaciers\DLC2GlacierRubbleTrim03.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 70
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

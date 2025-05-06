@@ -1,0 +1,26 @@
+FormKey: 002897:Dawnguard.esm
+MajorRecordFlagsRaw: 163840
+EditorID: DLC1_TempleSupportUNIQUE
+FormVersion: 43
+SkyrimMajorRecordFlags:
+- VisibleWhenDistant
+- Dangerous_OffLimits_InteriorCell
+ObjectBounds:
+  First: -1073, -1501, -5160
+  Second: 3273, 1823, 1204
+Model:
+  File: DLC01\Landscape\DLC1_TempleSupportUNIQUE.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Material: 04331F:Skyrim.esm
+Unused: '[]'
+Lod:
+  Level0: DLC01\LOD\DLC1_TempleSupportUNIQUE01_LOD0.nif
+  Level1: DLC01\LOD\DLC1_TempleSupportUNIQUE01_LOD1.nif
+  Level2: DLC01\LOD\DLC1_TempleSupportUNIQUE01_LOD1.nif
+  Level3: ''
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- HasDistantLOD
+- UsesHdLodTexture

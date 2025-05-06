@@ -1,0 +1,21 @@
+FormKey: 08A874:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: ArcheryTargetSnow
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -49, -46, -1
+  Second: 42, 48, 130
+Model:
+  File: Clutter\Common\ArcheryTarget01.nif
+  Data: 0x0C71275B646473008EAEA79245589E1C646473008EAEA792
+MaxAngle: 90
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

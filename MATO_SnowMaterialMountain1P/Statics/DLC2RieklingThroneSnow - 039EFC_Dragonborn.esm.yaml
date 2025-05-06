@@ -1,0 +1,14 @@
+FormKey: 039EFC:Dragonborn.esm
+EditorID: DLC2RieklingThroneSnow
+FormVersion: 43
+ObjectBounds:
+  First: -79, -69, -1
+  Second: 79, 70, 178
+Model:
+  File: DLC02\Clutter\Riekling\DLC2RieklingThrone.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Material: 04331F:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

@@ -1,0 +1,14 @@
+FormKey: 0F6055:Skyrim.esm
+EditorID: WalkwayFull02Snow
+FormVersion: 39
+ObjectBounds:
+  First: -272, -129, -255
+  Second: 277, 128, 6
+Model:
+  File: Architecture\Farmhouse\Walkway\WalkwayFull02.nif
+  Data: 0x48F9307C646473004E28BE1241FEE86B646473004E28BE12A54FDECC646473004E28BE12B7D53AA2646473004E28BE12CF51173D646473004E28BE12309A27C7646473004E28BE12
+MaxAngle: 90
+Material: 06F158:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

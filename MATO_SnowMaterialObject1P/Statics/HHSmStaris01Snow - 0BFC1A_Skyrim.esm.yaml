@@ -1,0 +1,14 @@
+FormKey: 0BFC1A:Skyrim.esm
+EditorID: HHSmStaris01Snow
+FormVersion: 39
+ObjectBounds:
+  First: -95, -232, 0
+  Second: 95, 24, 163
+Model:
+  File: Architecture\HighHrothgar\HHSmStaris01.nif
+  Data: 0x3E9687B7646473002CE219B84F9780CF646473002CE219B8F0617C2E646473002CE219B8CB9320B9646473002CE219B86DBAF1FA646473002CE219B84DB8CE6C646473002CE219B8
+MaxAngle: 90
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

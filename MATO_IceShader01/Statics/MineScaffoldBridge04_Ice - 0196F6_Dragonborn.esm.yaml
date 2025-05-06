@@ -1,0 +1,13 @@
+FormKey: 0196F6:Dragonborn.esm
+EditorID: MineScaffoldBridge04_Ice
+FormVersion: 43
+ObjectBounds:
+  First: -613, -136, -80
+  Second: 616, 130, 47
+Model:
+  File: Dungeons\Mines\Scaffolding\MineScaffoldBridge04.nif
+  Data: 0x020000000000000000000000
+Material: 02BD1D:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

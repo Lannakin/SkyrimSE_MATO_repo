@@ -1,0 +1,21 @@
+FormKey: 01FB2A:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: MineCShaftTop01Falmer
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -624, -674, 0
+  Second: 730, 725, 794
+Model:
+  File: Dungeons\Mines\CaveShaft\MineCShaftTop01.nif
+  Data: 0x764B5D1F646473005805E45A7081D2D0646473001E615532A140CC16646473005805E45A30D7E956646473005805E45A3770CB61646473005805E45A07BD2B57646473005805E45A8D21C2F8646473005805E45A5E036D55646473005805E45A
+MaxAngle: 45
+Material: 0B9EF3:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

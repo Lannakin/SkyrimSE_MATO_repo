@@ -1,0 +1,20 @@
+FormKey: 091A0D:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: WalkwayRamp01Snow
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -400, -128, -223
+  Second: 406, 128, 6
+Model:
+  File: Architecture\Farmhouse\Walkway\WalkwayRamp01.nif
+  Data: 0xA54FDECC646473004E28BE12B7D53AA2646473004E28BE12CF51173D646473004E28BE12309A27C7646473004E28BE12
+Material: 06F158:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

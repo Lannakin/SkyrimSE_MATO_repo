@@ -1,0 +1,19 @@
+FormKey: 027BC0:Dragonborn.esm
+MajorRecordFlagsRaw: 134217728
+EditorID: DLC2NorPitWallSideEnclosure01_SnowLT
+FormVersion: 43
+SkyrimMajorRecordFlags:
+- 0x8000000
+ObjectBounds:
+  First: -111, -127, -9
+  Second: -75, 128, 357
+Model:
+  File: Dungeons\Nordic\Pits\NorPitWallSideEnclosure01.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 110
+Material: 04CCC9:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- NavMeshGenerationBoundingBox

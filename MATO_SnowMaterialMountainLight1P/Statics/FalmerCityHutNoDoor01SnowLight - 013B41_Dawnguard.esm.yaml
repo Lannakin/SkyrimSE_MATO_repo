@@ -1,0 +1,14 @@
+FormKey: 013B41:Dawnguard.esm
+EditorID: FalmerCityHutNoDoor01SnowLight
+FormVersion: 43
+ObjectBounds:
+  First: -321, -300, -23
+  Second: 321, 300, 552
+Model:
+  File: DLC01\Architecture\FalmerHuts\FalmerCityHutNoDoor01.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 80
+Material: 045AB3:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

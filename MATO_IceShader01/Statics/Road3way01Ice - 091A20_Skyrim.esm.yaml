@@ -1,0 +1,20 @@
+FormKey: 091A20:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: Road3way01Ice
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -486, -512, -37
+  Second: 704, 512, 15
+Model:
+  File: Landscape\Roads\Road3way01.nif
+  Data: 0x0589541F64647300444F7D3951DD3A7E64647300444F7D3998971882646473003B114A872989DA40646473003B114A87
+Material: 02BD1D:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

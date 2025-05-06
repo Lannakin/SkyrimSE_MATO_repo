@@ -1,0 +1,28 @@
+FormKey: 0C06F4:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: TreePineForestHollow01Snow
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -1009, -347, -255
+  Second: 816, 389, 291
+Model:
+  File: Landscape\Trees\TreePineForestHollow01Snow.nif
+  Data: 0xA34254B7646473003BAC5C0A0675D18A646473003BAC5C0A2FCA2C78646473001399225F2B6684FE646473001399225FFA6629B9646473003BAC5C0AB779ABDD646473003BAC5C0A261B5160646473003BAC5C0A5D2792DE646473003BAC5C0A
+  AlternateTextures:
+  - Name: L2_Roots01:2 - L2_Branches05:2
+    NewTexture: 0F25E2:Skyrim.esm
+    Index: 2
+  - Name: TreePineForestHollow01Snow:0 - L2_Stubbs01:0 - L2_Branches05:0 - L1_LargeBranches03:0
+    NewTexture: 0F25E1:Skyrim.esm
+    Index: 3
+MaxAngle: 60
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

@@ -1,0 +1,21 @@
+FormKey: 0228FC:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: NorBridgeWoodPlanks01snow
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -196, -126, -5
+  Second: 196, 126, 0
+Model:
+  File: Dungeons\Nordic\Bridges\NorBridgeWoodPlanks01.nif
+  Data: 0xBDA6C1E5646473001E8C9F272D3EF7F9646473001E8C9F27
+MaxAngle: 45
+Material: 02BD1D:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

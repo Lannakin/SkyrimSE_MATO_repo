@@ -1,0 +1,28 @@
+FormKey: 076608:Skyrim.esm
+MajorRecordFlagsRaw: 100352
+EditorID: DwePlatBgStairMid01Snow
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- VisibleWhenDistant
+- 0x10000
+ObjectBounds:
+  First: -512, -729, -528
+  Second: 512, 32, -8
+Model:
+  File: Dungeons\Dwemer\Platforms\DwePlatBgStairMid01.nif
+  Data: 0x53E3C6CA646473006A02F2EB577ABC3F646473006A02F2EBBAEEBC36646473006A02F2EB35B2B1CE646473006A02F2EB6646A523646473006A02F2EBE506313B646473006A02F2EB
+MaxAngle: 90
+Material: 025129:Skyrim.esm
+Unused: '[]'
+Lod:
+  Level0: LOD\Dwemer\DwePlatBgStairMid01_LOD.nif
+  Level1: LOD\Dwemer\DwePlatBgStairMid01_LOD.nif
+  Level2: LOD\Dwemer\DwePlatBgStairMid01_LOD.nif
+  Level3: ''
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- HasDistantLOD
+- 0x10000

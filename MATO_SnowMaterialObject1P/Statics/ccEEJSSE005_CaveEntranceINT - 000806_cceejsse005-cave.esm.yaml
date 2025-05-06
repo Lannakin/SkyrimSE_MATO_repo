@@ -1,0 +1,39 @@
+FormKey: 000806:cceejsse005-cave.esm
+MajorRecordFlagsRaw: 67584
+EditorID: ccEEJSSE005_CaveEntranceINT
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -686, -256, 7
+  Second: 841, 1399, 1547
+Model:
+  File: Dungeons\Caves\Green\LargeHall\CaveGLHallEntrance01.nif
+  Data: 0x020000000000000000000000
+  AlternateTextures:
+  - Name: CaveGLHallEntrance01:9
+    NewTexture: 000800:cceejsse005-cave.esm
+    Index: 9
+  - Name: CaveGLHallEntrance01:4
+    NewTexture: 000800:cceejsse005-cave.esm
+    Index: 8
+  - Name: CaveGLHallEntrance01:3
+    NewTexture: 0462D3:Skyrim.esm
+    Index: 7
+  - Name: CaveGLHallEntrance01:2
+    NewTexture: 000800:cceejsse005-cave.esm
+    Index: 6
+  - Name: RockCaveEntrance05:0
+    NewTexture: 0462D3:Skyrim.esm
+    Index: 2
+  - Name: L2_Roots:8
+    NewTexture: 000028:Skyrim.esm
+    Index: 1
+  - Name: L2_Roots:5
+    NewTexture: 000028:Skyrim.esm
+MaxAngle: 120
+Material: 025129:Skyrim.esm
+Unused: 0x000000
+MajorFlags:
+- 0x800
+- 0x10000

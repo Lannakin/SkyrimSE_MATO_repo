@@ -1,0 +1,14 @@
+FormKey: 0DBF44:Skyrim.esm
+EditorID: RuinsPuzzlePillarBaseSnow
+FormVersion: 39
+ObjectBounds:
+  First: -95, -95, 0
+  Second: 95, 95, 19
+Model:
+  File: Clutter\Ruins\RuinsPuzzlePillarBase01.nif
+  Data: 0x3DA2CFB4646473003BBB212F713319C5646473003BBB212F
+MaxAngle: 90
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

@@ -1,0 +1,19 @@
+FormKey: 0F9997:Skyrim.esm
+MajorRecordFlagsRaw: 134217728
+EditorID: CommonTable01Light_SN
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- 0x8000000
+ObjectBounds:
+  First: -106, -51, 0
+  Second: 106, 51, 63
+Model:
+  File: Clutter\Common\CommonTable01.nif
+  Data: 0xB14DA5D0646473008EAEA792B57F9A62646473008EAEA792
+MaxAngle: 90
+Material: 02A27D:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- NavMeshGenerationBoundingBox

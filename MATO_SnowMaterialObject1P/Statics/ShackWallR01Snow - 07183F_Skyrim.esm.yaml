@@ -1,0 +1,21 @@
+FormKey: 07183F:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: ShackWallR01Snow
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: 124, 7, 0
+  Second: 131, 118, 305
+Model:
+  File: Architecture\ShackKit\ShackWallR01.nif
+  Data: 0xB7A40E05646473004FBB720F445716ED646473004FBB720F
+MaxAngle: 90
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

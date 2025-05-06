@@ -1,0 +1,14 @@
+FormKey: 028B9F:Dragonborn.esm
+EditorID: DLC2DweHallBg4way01_Snow
+FormVersion: 43
+ObjectBounds:
+  First: -384, -384, 0
+  Second: 384, 384, 480
+Model:
+  File: DLC02\Dungeons\Dwemer\BgHalls\DLC2DweHallBg4way01.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

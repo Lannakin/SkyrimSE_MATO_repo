@@ -1,0 +1,14 @@
+FormKey: 097A03:Skyrim.esm
+EditorID: DweFacadeHallSm3way01_Snow
+FormVersion: 39
+ObjectBounds:
+  First: -256, -256, 0
+  Second: 256, 153, 437
+Model:
+  File: Dungeons\Dwemer\Facades\DweFacadeHallSm3way01.nif
+  Data: 0xEAC080E9646473006A02F2EB923DDCA8646473006A02F2EB6646A523646473006A02F2EBE506313B646473006A02F2EB04E1375B646473006A02F2EB19414824646473006A02F2EB
+MaxAngle: 90
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

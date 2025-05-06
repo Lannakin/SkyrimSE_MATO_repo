@@ -1,0 +1,35 @@
+FormKey: 0CD0AF:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: RockPileL03Snow_LightSN
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -729, -713, -688
+  Second: 642, 659, 684
+Model:
+  File: Landscape\Rocks\RockPileL03.nif
+  Data: 0x02000000080000000000000098971882646473003B114A872989DA40646473003B114A872CDB5D9B64647300494699AF6BF619BF64647300494699AFD2E1CF68646473003B114A8778102AF3646473003B114A87968A540264647300494699AF32485FBD64647300494699AF
+  AlternateTextures:
+  - Name: RockPileL03:0
+    NewTexture: 000891:Skyrim.esm
+  - Name: RockPileL03:1 - L1_RockPileL03:1 - L2_RockPileL03:1
+    NewTexture: 002E34:Update.esm
+    Index: 4
+  - Name: RockPileL03:3
+    NewTexture: 002E33:Update.esm
+    Index: 1
+  - Name: RockPileL03:8
+    NewTexture: 06A1AE:Skyrim.esm
+    Index: 2
+  - Name: RockPileL03:9
+    NewTexture: 06A1AE:Skyrim.esm
+    Index: 3
+MaxAngle: 60
+Material: 04CCBE:Skyrim.esm
+Flags:
+- ConsideredSnow
+Unused: 0x000000
+MajorFlags:
+- 0x800
+- 0x10000

@@ -1,0 +1,11 @@
+SpriggitSource:
+  PackageName: Spriggit.Yaml.Skyrim
+  Version: 0.37.3
+ModKey: MATO_TundraMossMaterialObject.esp
+GameRelease: SkyrimSE
+ModHeader:
+  Author: ''
+  MasterReferences:
+  - Master: Skyrim.esm
+    FileSize: 0
+  INCC: 0

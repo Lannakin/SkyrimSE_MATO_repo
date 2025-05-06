@@ -1,0 +1,21 @@
+FormKey: 082A47:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: NorSculptureHead01ice
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -81, -90, -117
+  Second: 81, 95, 121
+Model:
+  File: Dungeons\Nordic\Clutter\NorSculptureHead01.nif
+  Data: 0x80D51CB3646473001E8C9F27C800135A646473001E8C9F27A9016A9B646473001E8C9F2798A1EB9F646473001E8C9F27
+MaxAngle: 120
+Material: 02BD1D:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

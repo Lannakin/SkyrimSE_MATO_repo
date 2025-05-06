@@ -1,0 +1,28 @@
+FormKey: 001C13:Dawnguard.esm
+MajorRecordFlagsRaw: 100352
+EditorID: GlacierSlab01INTERIOR
+FormVersion: 43
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- VisibleWhenDistant
+- 0x10000
+ObjectBounds:
+  First: -1808, -512, -1344
+  Second: 1798, 516, 1369
+Model:
+  File: Landscape\Ice\GlacierSlab01.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Material: 02BD1D:Skyrim.esm
+Unused: '[]'
+Lod:
+  Level0: LOD\Ice\GlacierSlab01_LOD_0.nif
+  Level1: LOD\Ice\GlacierSlab01_LOD_1.nif
+  Level2: LOD\Ice\GlacierSlab01_LOD_2.nif
+  Level3: ''
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- HasDistantLOD
+- 0x10000

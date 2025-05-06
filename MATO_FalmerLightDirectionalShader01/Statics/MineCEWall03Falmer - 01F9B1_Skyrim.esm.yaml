@@ -1,0 +1,21 @@
+FormKey: 01F9B1:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: MineCEWall03Falmer
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -1024, -872, 0
+  Second: 1024, 1024, 3730
+Model:
+  File: Dungeons\Mines\CaveEpic\MineCEWall03.nif
+  Data: 0x02D5A888646473005805E45AB5C1A653646473005805E45AA140CC16646473005805E45A30D7E956646473005805E45A
+MaxAngle: 45
+Material: 0B9EF3:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

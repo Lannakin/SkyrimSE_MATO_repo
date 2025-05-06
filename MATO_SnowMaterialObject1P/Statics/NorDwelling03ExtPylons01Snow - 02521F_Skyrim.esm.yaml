@@ -1,0 +1,21 @@
+FormKey: 02521F:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: NorDwelling03ExtPylons01Snow
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -891, -608, -107
+  Second: 837, 491, 544
+Model:
+  File: Dungeons\Nordic\Exterior\Dwellings\NorDwelling03ExtPylons01.nif
+  Data: 0x8B095AD6646473001E8C9F27BA228236646473001E8C9F27991171B4646473001E8C9F2723C2D85C646473001E8C9F27
+MaxAngle: 90
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

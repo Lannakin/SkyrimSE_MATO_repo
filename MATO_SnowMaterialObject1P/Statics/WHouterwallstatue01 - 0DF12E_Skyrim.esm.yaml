@@ -1,0 +1,14 @@
+FormKey: 0DF12E:Skyrim.esm
+EditorID: WHouterwallstatue01
+FormVersion: 39
+ObjectBounds:
+  First: -190, -97, -375
+  Second: 190, 97, 375
+Model:
+  File: Architecture\Windhelm\WHouterwallstatue01.nif
+  Data: 0x2D6726F564647300D2D0A39FF656D56464647300D2D0A39F
+MaxAngle: 90
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

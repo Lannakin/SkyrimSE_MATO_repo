@@ -1,0 +1,14 @@
+FormKey: 02C124:Dragonborn.esm
+EditorID: DLC2NorSec1wayRamp384ice
+FormVersion: 43
+ObjectBounds:
+  First: -155, -384, -384
+  Second: 144, 384, 283
+Model:
+  File: Dungeons\Nordic\SecretPass\NorSec1wayRamp384.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 120
+Material: 02BD1D:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

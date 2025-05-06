@@ -1,0 +1,21 @@
+FormKey: 0765F5:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: DweRubblePile01Snow
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -392, -364, 0
+  Second: 383, 388, 267
+Model:
+  File: Dungeons\Dwemer\Rubble\DweRubblePile01.nif
+  Data: 0x6646A523646473006A02F2EBE506313B646473006A02F2EBFD743409646473001E8C9F277C901563646473001E8C9F2704E1375B646473006A02F2EB19414824646473006A02F2EB
+MaxAngle: 90
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

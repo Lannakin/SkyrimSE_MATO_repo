@@ -1,0 +1,28 @@
+FormKey: 08718D:Skyrim.esm
+MajorRecordFlagsRaw: 100352
+EditorID: Whouterwall2
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- VisibleWhenDistant
+- 0x10000
+ObjectBounds:
+  First: -360, -2658, -968
+  Second: 233, 1633, 968
+Model:
+  File: Architecture\Windhelm\Whouterwall2.nif
+  Data: 0x2D6726F564647300D2D0A39FF656D56464647300D2D0A39FC5E04B5764647300D2D0A39FFC9BAE8164647300D2D0A39F89C33E8F64647300D2D0A39FF232057F64647300D2D0A39F7FB142CE64647300D2D0A39FA525E88364647300D2D0A39F
+MaxAngle: 90
+Material: 025129:Skyrim.esm
+Unused: '[]'
+Lod:
+  Level0: LOD\Windhelm\WHouterwall2_LOD.nif
+  Level1: LOD\Windhelm\WHouterwall2_LOD.nif
+  Level2: LOD\Windhelm\WHouterwall2_LOD.nif
+  Level3: ''
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- HasDistantLOD
+- 0x10000

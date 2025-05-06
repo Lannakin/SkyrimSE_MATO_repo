@@ -1,0 +1,21 @@
+FormKey: 08230D:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: NorBridge1way01x512snow
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -256, -67, -61
+  Second: 256, 66, 107
+Model:
+  File: Dungeons\Nordic\Bridges\NorBridge1way01x512.nif
+  Data: 0x80D51CB3646473001E8C9F27C800135A646473001E8C9F2749EB3AB7646473001E8C9F2742754A81646473001E8C9F27CC14672B646473001E8C9F279C6ABCEA646473001E8C9F2732F0C625646473001E8C9F276F8EE4C7646473001E8C9F27
+MaxAngle: 70
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

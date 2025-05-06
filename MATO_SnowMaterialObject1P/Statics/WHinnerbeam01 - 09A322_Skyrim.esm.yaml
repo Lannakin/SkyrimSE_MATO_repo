@@ -1,0 +1,21 @@
+FormKey: 09A322:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: WHinnerbeam01
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -630, -161, -1106
+  Second: 292, 150, 1108
+Model:
+  File: Architecture\Windhelm\WHinnerbeam01.nif
+  Data: 0xC5E04B5764647300D2D0A39FFC9BAE8164647300D2D0A39F89C33E8F64647300D2D0A39FF232057F64647300D2D0A39F
+MaxAngle: 120
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

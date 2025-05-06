@@ -1,0 +1,21 @@
+FormKey: 0BF56E:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: CaveGBalconyCorner04Falmer
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -128, -128, -167
+  Second: 24, 26, 4
+Model:
+  File: Dungeons\Caves\Green\Balcony\CaveGBalconyCorner04.nif
+  Data: 0xE6A38C2A646473001E6155327081D2D0646473001E6155326E2CA6A0646473001E615532A8878F5E646473001E6155324A1872C7646473001E6155326FF5D38E646473001E615532D47DAF39646473001E615532F139C95C646473001E615532
+MaxAngle: 45
+Material: 0B9EF3:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

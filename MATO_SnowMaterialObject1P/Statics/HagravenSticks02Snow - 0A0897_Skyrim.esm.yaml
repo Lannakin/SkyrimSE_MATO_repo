@@ -1,0 +1,21 @@
+FormKey: 0A0897:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: HagravenSticks02Snow
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -19, -174, -7
+  Second: 97, 200, 145
+Model:
+  File: Clutter\Hagraven\HagravenSticks02.nif
+  Data: 0x86CBC122646473003BAC5C0AF00B46F6646473003BAC5C0A
+MaxAngle: 100
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

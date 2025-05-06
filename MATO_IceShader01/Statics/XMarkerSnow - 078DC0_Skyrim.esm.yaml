@@ -1,0 +1,22 @@
+FormKey: 078DC0:Skyrim.esm
+MajorRecordFlagsRaw: 8456192
+EditorID: XMarkerSnow
+FormVersion: 27
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+- 0x800000
+ObjectBounds:
+  First: -18, -20, 0
+  Second: 18, 18, 16
+Model:
+  File: MarkerX.nif
+MaxAngle: 120
+Material: 02BD1D:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000
+- IsMarker

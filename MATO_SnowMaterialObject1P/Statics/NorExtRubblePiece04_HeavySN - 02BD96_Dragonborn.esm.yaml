@@ -1,0 +1,22 @@
+FormKey: 02BD96:Dragonborn.esm
+MajorRecordFlagsRaw: 134217728
+EditorID: NorExtRubblePiece04_HeavySN
+FormVersion: 43
+SkyrimMajorRecordFlags:
+- 0x8000000
+ObjectBounds:
+  First: -131, -74, -79
+  Second: 131, 74, 79
+Model:
+  File: Dungeons\Nordic\Rubble\NorRubblePiece04.nif
+  Data: 0x020000000000000000000000
+  AlternateTextures:
+  - Name: NorRubblePiece04:0
+    NewTexture: 10E9E4:Skyrim.esm
+MaxAngle: 80
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- NavMeshGenerationBoundingBox

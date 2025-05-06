@@ -1,0 +1,28 @@
+FormKey: 026FD6:Skyrim.esm
+MajorRecordFlagsRaw: 100352
+EditorID: NorTmpExtPlatStairCapR01snow
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- VisibleWhenDistant
+- 0x10000
+ObjectBounds:
+  First: 0, -704, -512
+  Second: 332, 54, 1
+Model:
+  File: Dungeons\Nordic\Exterior\NorTmpExtPlatStairCapR01.nif
+  Data: 0x991171B4646473001E8C9F2723C2D85C646473001E8C9F275B92C07D646473001E8C9F27F30667D0646473001E8C9F27
+MaxAngle: 110
+Material: 025129:Skyrim.esm
+Unused: '[]'
+Lod:
+  Level0: Lod\NordicExterior\NorTmpExtPlatStairCapR01_LOD.nif
+  Level1: Lod\NordicExterior\NorTmpExtPlatStairCapR01_LOD.nif
+  Level2: Lod\NordicExterior\NorTmpExtPlatStairCapR01_LOD.nif
+  Level3: ''
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- HasDistantLOD
+- 0x10000

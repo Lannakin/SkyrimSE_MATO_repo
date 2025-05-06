@@ -1,0 +1,17 @@
+FormKey: 0F48CE:Skyrim.esm
+EditorID: CrateSmallLong02WeatheredLight_SN
+FormVersion: 39
+ObjectBounds:
+  First: -25, -104, -20
+  Second: 25, 38, 20
+Model:
+  File: Clutter\Common\CrateSmallLong02.nif
+  Data: 0x6CF249B7646473008EAEA7924FB3940F646473008EAEA792FAE0BBA4646473007F66A5C01B315936646473007F66A5C0
+  AlternateTextures:
+  - Name: CrateSmallLong02:1
+    NewTexture: 0C2C11:Skyrim.esm
+MaxAngle: 120
+Material: 02A27D:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

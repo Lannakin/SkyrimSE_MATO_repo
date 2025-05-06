@@ -1,0 +1,14 @@
+FormKey: 001C1B:Dawnguard.esm
+EditorID: FrozenMarshIceFloeL01INTERIOR
+FormVersion: 43
+ObjectBounds:
+  First: -1534, -1498, -1
+  Second: 1534, 1498, 4
+Model:
+  File: Landscape\Ice\FrozenMarshIceFloeL01.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Material: 02BD1D:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

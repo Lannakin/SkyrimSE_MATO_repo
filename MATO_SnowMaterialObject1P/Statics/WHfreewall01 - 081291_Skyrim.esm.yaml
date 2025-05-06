@@ -1,0 +1,21 @@
+FormKey: 081291:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: WHfreewall01
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -210, -686, -1174
+  Second: 167, 1143, 326
+Model:
+  File: Architecture\Windhelm\WHfreewall01.nif
+  Data: 0x1D2F21B964647300D2D0A39FA0E594C364647300D2D0A39F312E9C2D64647300D2D0A39F252AA28D64647300D2D0A39FF635EBF564647300D2D0A39F377A7C8364647300D2D0A39FC5E04B5764647300D2D0A39FFC9BAE8164647300D2D0A39F
+MaxAngle: 70
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

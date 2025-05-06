@@ -1,0 +1,19 @@
+FormKey: 090983:Skyrim.esm
+MajorRecordFlagsRaw: 268435456
+EditorID: WHdockdoortrim
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- 0x10000000
+ObjectBounds:
+  First: -106, -20, 0
+  Second: 106, 20, 226
+Model:
+  File: Architecture\Windhelm\WHdockdoortrim.nif
+  Data: 0x89C33E8F64647300D2D0A39FF232057F64647300D2D0A39F
+MaxAngle: 90
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- ShowInWorldMap

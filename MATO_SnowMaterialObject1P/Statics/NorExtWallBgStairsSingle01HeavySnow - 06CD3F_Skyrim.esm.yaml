@@ -1,0 +1,21 @@
+FormKey: 06CD3F:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: NorExtWallBgStairsSingle01HeavySnow
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -13, -169, -256
+  Second: 576, 169, 223
+Model:
+  File: Dungeons\Nordic\Exterior\Walls\NorExtWallBgStairsSingle01.nif
+  Data: 0xF89D93FC646473001E8C9F272AFFE6E1646473001E8C9F272340782D646473001E8C9F274D165C5F646473001E8C9F275B92C07D646473001E8C9F27F30667D0646473001E8C9F27
+MaxAngle: 110
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

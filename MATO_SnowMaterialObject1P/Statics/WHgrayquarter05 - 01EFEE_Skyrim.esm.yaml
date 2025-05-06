@@ -1,0 +1,21 @@
+FormKey: 01EFEE:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: WHgrayquarter05
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: 190, -339, -408
+  Second: 1382, 1926, 179
+Model:
+  File: Architecture\Windhelm\WHgrayquarter05.nif
+  Data: 0x68E12EAA64647300D2D0A39FAB9400ED64647300D2D0A39F312E9C2D64647300D2D0A39F252AA28D64647300D2D0A39FF635EBF564647300D2D0A39F377A7C8364647300D2D0A39F7A4FF16564647300D2D0A39F70A1CB3E64647300D2D0A39F
+MaxAngle: 90
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

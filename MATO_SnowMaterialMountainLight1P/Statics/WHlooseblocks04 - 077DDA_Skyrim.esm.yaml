@@ -1,0 +1,21 @@
+FormKey: 077DDA:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: WHlooseblocks04
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -104, -357, -33
+  Second: 196, 357, 127
+Model:
+  File: Architecture\Windhelm\WHlooseblocks04.nif
+  Data: 0x6EEAFDA464647300D2D0A39F76E4882C64647300D2D0A39F
+MaxAngle: 70
+Material: 045AB3:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

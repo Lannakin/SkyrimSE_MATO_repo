@@ -1,0 +1,24 @@
+FormKey: 01A9C8:Dawnguard.esm
+MajorRecordFlagsRaw: 32768
+EditorID: DLC1_GlacierEndLgMtnTop
+FormVersion: 43
+SkyrimMajorRecordFlags:
+- VisibleWhenDistant
+ObjectBounds:
+  First: -2341, -3318, 389
+  Second: 2123, 1793, 2564
+Model:
+  File: DLC01\Landscape\DLC1_GlacierEndLgMtnTop.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Material: 05E3F0:Skyrim.esm
+Unused: '[]'
+Lod:
+  Level0: DLC01\LOD\DLC01GlacierEndLg01_LOD_0.nif
+  Level1: DLC01\LOD\DLC01GlacierEndLg01_LOD_1.nif
+  Level2: DLC01\LOD\DLC01GlacierEndLg01_LOD_2.nif
+  Level3: ''
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- HasDistantLOD

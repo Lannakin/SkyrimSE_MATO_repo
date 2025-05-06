@@ -1,0 +1,15 @@
+FormKey: 0EC9EA:Skyrim.esm
+EditorID: RockAnimalDenReachDirt01_LightSN
+FormVersion: 39
+Model:
+  File: Landscape\Rocks\RockAnimalDen01.nif
+  Data: 0x2CDB5D9B64647300494699AF6BF619BF64647300494699AFD2E1CF68646473003B114A8778102AF3646473003B114A87968A540264647300494699AF32485FBD64647300494699AF98971882646473003B114A872989DA40646473003B114A87
+  AlternateTextures:
+  - Name: RockAnimalDen01:0 - L2_RockAnimalDen:0
+    NewTexture: 021710:Skyrim.esm
+    Index: 3
+MaxAngle: 90
+Material: 045AB3:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

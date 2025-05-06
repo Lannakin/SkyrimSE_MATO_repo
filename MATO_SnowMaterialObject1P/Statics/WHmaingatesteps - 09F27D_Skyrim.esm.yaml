@@ -1,0 +1,21 @@
+FormKey: 09F27D:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: WHmaingatesteps
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -644, -288, -619
+  Second: 404, 288, -480
+Model:
+  File: Architecture\Windhelm\WHmaingatesteps.nif
+  Data: 0x7FB142CE64647300D2D0A39FA525E88364647300D2D0A39F312E9C2D64647300D2D0A39F252AA28D64647300D2D0A39F
+MaxAngle: 40
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

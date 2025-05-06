@@ -1,0 +1,14 @@
+FormKey: 0897CE:Skyrim.esm
+EditorID: RockL01Sulfur
+FormVersion: 39
+ObjectBounds:
+  First: -165, -208, -59
+  Second: 167, 217, 229
+Model:
+  File: Landscape\Rocks\RockL01.nif
+  Data: 0x968A540264647300494699AF32485FBD64647300494699AF
+MaxAngle: 50
+Material: 0998A6:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

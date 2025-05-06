@@ -1,0 +1,24 @@
+FormKey: 0752B4:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: StockadeWoodplanks03Snow
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -3, -61, -36
+  Second: 3, 66, 35
+Model:
+  File: Dungeons\Mines\Clutter\MineWoodplanks03.nif
+  Data: 0x71067067646473005805E45AED56F3F3646473002B043E36
+  AlternateTextures:
+  - Name: MineWoodplanks03:13
+    NewTexture: 0533D9:Skyrim.esm
+MaxAngle: 60
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

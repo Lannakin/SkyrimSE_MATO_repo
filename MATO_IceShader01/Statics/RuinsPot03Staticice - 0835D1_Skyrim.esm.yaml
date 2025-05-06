@@ -1,0 +1,21 @@
+FormKey: 0835D1:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: RuinsPot03Staticice
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -21, -21, 0
+  Second: 21, 21, 80
+Model:
+  File: Clutter\Ruins\RuinsPot03.nif
+  Data: 0x1D80ED0F646473003BBB212F15EDFD85646473003BBB212F
+MaxAngle: 120
+Material: 02BD1D:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

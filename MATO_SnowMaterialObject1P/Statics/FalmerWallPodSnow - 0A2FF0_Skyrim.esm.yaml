@@ -1,0 +1,21 @@
+FormKey: 0A2FF0:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: FalmerWallPodSnow
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -74, -40, -202
+  Second: 72, 115, 128
+Model:
+  File: Architecture\Falmer Hut\WallPod.nif
+  Data: 0x4D48EBA7646473003EA5A32DC552F9AA646473003EA5A32D
+MaxAngle: 120
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

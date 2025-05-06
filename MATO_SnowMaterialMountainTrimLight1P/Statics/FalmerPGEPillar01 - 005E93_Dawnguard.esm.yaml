@@ -1,0 +1,26 @@
+FormKey: 005E93:Dawnguard.esm
+MajorRecordFlagsRaw: 163840
+EditorID: FalmerPGEPillar01
+FormVersion: 43
+SkyrimMajorRecordFlags:
+- VisibleWhenDistant
+- Dangerous_OffLimits_InteriorCell
+ObjectBounds:
+  First: -1357, -1210, -52
+  Second: 1351, 1103, 5024
+Model:
+  File: DLC01\Dungeons\FalmerPlayground\FalmerPGEPillar01.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Material: 04CCBE:Skyrim.esm
+Unused: '[]'
+Lod:
+  Level0: DLC01\LOD\FalmerPGEPillar01_LOD_0.nif
+  Level1: ''
+  Level2: ''
+  Level3: ''
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- HasDistantLOD
+- UsesHdLodTexture

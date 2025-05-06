@@ -1,0 +1,13 @@
+FormKey: 049C1C:Skyrim.esm
+EditorID: HHStepA_LightSN
+FormVersion: 39
+ObjectBounds:
+  First: -62, -73, -23
+  Second: 62, 73, 23
+Model:
+  File: Architecture\HighHrothgar\HHStepA.nif
+  Data: 0x08F44DD2646473002CE219B8846320E5646473002CE219B8
+Material: 02A27D:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

@@ -1,0 +1,24 @@
+FormKey: 0B5993:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: RockPileS03Rocks01Snow
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -127, -142, -19
+  Second: 127, 142, 54
+Model:
+  File: Landscape\Rocks\RockPileS03.nif
+  Data: 0x98971882646473003B114A872989DA40646473003B114A87968A540264647300494699AF32485FBD64647300494699AF
+  AlternateTextures:
+  - Name: RockPileS03:0
+    NewTexture: 06A1AE:Skyrim.esm
+MaxAngle: 80
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

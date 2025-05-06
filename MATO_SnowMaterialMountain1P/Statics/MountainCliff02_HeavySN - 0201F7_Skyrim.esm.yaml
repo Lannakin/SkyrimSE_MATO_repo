@@ -1,0 +1,30 @@
+FormKey: 0201F7:Skyrim.esm
+MajorRecordFlagsRaw: 231424
+EditorID: MountainCliff02_HeavySN
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- VisibleWhenDistant
+- 0x10000
+- Dangerous_OffLimits_InteriorCell
+ObjectBounds:
+  First: -1909, -2273, -2274
+  Second: 2945, 2266, 2120
+Model:
+  File: Landscape\Mountains\MountainCliff02.nif
+  Data: 0x968A540264647300494699AF32485FBD64647300494699AF2CDB5D9B64647300494699AF6BF619BF64647300494699AF
+MaxAngle: 80
+Material: 04331F:Skyrim.esm
+Unused: '[]'
+Lod:
+  Level0: LOD\Mountains\MountainCliff02_LOD_0H.nif
+  Level1: LOD\Mountains\MountainCliff02_LOD_1.nif
+  Level2: LOD\Mountains\MountainCliff02_LOD_2.nif
+  Level3: ''
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- HasDistantLOD
+- 0x10000
+- UsesHdLodTexture

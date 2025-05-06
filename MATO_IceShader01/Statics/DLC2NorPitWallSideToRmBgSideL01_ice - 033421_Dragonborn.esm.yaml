@@ -1,0 +1,14 @@
+FormKey: 033421:Dragonborn.esm
+EditorID: DLC2NorPitWallSideToRmBgSideL01_ice
+FormVersion: 43
+ObjectBounds:
+  First: -128, -128, -384
+  Second: 128, 128, 832
+Model:
+  File: Dungeons\Nordic\Pits\NorPitWallSideToRmBgSideL01.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 120
+Material: 02BD1D:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

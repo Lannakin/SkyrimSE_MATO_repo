@@ -1,0 +1,21 @@
+FormKey: 07660F:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: DweHitchPost01Snow
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -18, -16, -16
+  Second: 16, 16, 98
+Model:
+  File: Dungeons\Dwemer\Platforms\DweHitchPost01.nif
+  Data: 0x32D5754F646473006A02F2EB9B30E08C646473006A02F2EB188FFC7C64647300262C333B6646A523646473006A02F2EBE506313B646473006A02F2EB
+MaxAngle: 120
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

@@ -1,0 +1,21 @@
+FormKey: 0E7C3C:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: HagravenHouseBones01_snow
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -81, -160, 201
+  Second: 81, -2, 488
+Model:
+  File: Clutter\Hagraven\HagravenHouseBones01.nif
+  Data: 0xAA164E8B646473000C54DE96B8671537646473000C54DE9681F8C38B646473000C54DE962355D706646473000C54DE96913EB6B264647300437F4A3D8219123E64647300437F4A3DD924842664647300437F4A3D
+MaxAngle: 90
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

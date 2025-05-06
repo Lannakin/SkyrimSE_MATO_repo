@@ -1,0 +1,21 @@
+FormKey: 06F15B:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: Stonewall02Snow
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -130, -135, 0
+  Second: 128, 141, 172
+Model:
+  File: Architecture\Farmhouse\Stonewall\Stonewall02.NIF
+  Data: 0x1CA1870B646473004E28BE1260C88FD0646473004E28BE12C44CCBA1646473003B114A87FEB3D547646473003B114A87
+MaxAngle: 90
+Material: 06F158:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

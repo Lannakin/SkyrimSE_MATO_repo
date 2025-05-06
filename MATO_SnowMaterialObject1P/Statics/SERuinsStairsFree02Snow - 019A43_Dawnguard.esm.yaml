@@ -1,0 +1,14 @@
+FormKey: 019A43:Dawnguard.esm
+EditorID: SERuinsStairsFree02Snow
+FormVersion: 43
+ObjectBounds:
+  First: -182, -138, -84
+  Second: 188, 116, 52
+Model:
+  File: DLC01\Architecture\SnowElfRuins\SERuinsStairsFree02.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 64
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

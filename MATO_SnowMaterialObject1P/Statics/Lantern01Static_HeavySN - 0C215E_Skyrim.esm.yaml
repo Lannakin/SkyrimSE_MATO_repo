@@ -1,0 +1,21 @@
+FormKey: 0C215E:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: Lantern01Static_HeavySN
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -9, -8, 0
+  Second: 9, 15, 31
+Model:
+  File: Clutter\Common\CandleLantern01.nif
+  Data: 0x10BE3B68646473008EAEA79225E932F1646473008EAEA792
+MaxAngle: 90
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

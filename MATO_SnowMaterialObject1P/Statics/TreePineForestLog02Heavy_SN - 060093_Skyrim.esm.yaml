@@ -1,0 +1,28 @@
+FormKey: 060093:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: TreePineForestLog02Heavy_SN
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -203, -452, -143
+  Second: 356, 332, 301
+Model:
+  File: Landscape\Trees\TreePineForestLog02Snow.nif
+  Data: 0xA34254B7646473003BAC5C0A0675D18A646473003BAC5C0AFA6629B9646473003BAC5C0AB779ABDD646473003BAC5C0A261B5160646473003BAC5C0A5D2792DE646473003BAC5C0A
+  AlternateTextures:
+  - Name: TreePineForestLog02Snow:0 - L2_Branches:0 - L2_Stubs:0 - L1_LargeBranches:0
+    NewTexture: 0F25E1:Skyrim.esm
+    Index: 2
+  - Name: L2_Branches
+    NewTexture: 0F25E2:Skyrim.esm
+    Index: 1
+MaxAngle: 90
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

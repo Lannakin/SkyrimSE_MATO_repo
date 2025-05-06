@@ -1,0 +1,21 @@
+FormKey: 0A08B3:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: NorRmSmFloorRaised02Snow
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -280, -246, 0
+  Second: 256, 286, 16
+Model:
+  File: Dungeons\Nordic\SmRooms\NorRmSmFloorRaised02.nif
+  Data: 0xCC14672B646473001E8C9F279C6ABCEA646473001E8C9F278B095AD6646473001E8C9F27BA228236646473001E8C9F27
+MaxAngle: 90
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

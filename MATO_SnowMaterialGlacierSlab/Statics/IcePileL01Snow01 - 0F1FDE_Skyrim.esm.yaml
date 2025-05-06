@@ -1,0 +1,23 @@
+FormKey: 0F1FDE:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: IcePileL01Snow01
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -480, -471, -357
+  Second: 459, 469, 583
+Model:
+  File: Landscape\Ice\IcePileL01.nif
+  Data: 0x0200000007000000000000001F376EE5646473003B114A873B43CEE2646473003B114A872E165085646473003B114A87E934FA68646473003B114A87B83F1D4D646473003B114A87E5989040646473003B114A8719B759FE64647300262C333B
+  AlternateTextures:
+  - Name: IcePileL01:5
+    NewTexture: 000891:Skyrim.esm
+MaxAngle: 70
+Material: 05E3F4:Skyrim.esm
+Flags:
+- ConsideredSnow
+Unused: 0x000000
+MajorFlags:
+- 0x800
+- 0x10000

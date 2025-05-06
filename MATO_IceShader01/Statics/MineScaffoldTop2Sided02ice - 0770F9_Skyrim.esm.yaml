@@ -1,0 +1,21 @@
+FormKey: 0770F9:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: MineScaffoldTop2Sided02ice
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -122, -136, -8
+  Second: 123, 130, 51
+Model:
+  File: Dungeons\Mines\Scaffolding\MineScaffoldTop2Sided02.nif
+  Data: 0x71067067646473005805E45AED56F3F3646473002B043E36
+MaxAngle: 120
+Material: 02BD1D:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

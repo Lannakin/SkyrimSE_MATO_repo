@@ -1,0 +1,30 @@
+FormKey: 01EE66:Dragonborn.esm
+MajorRecordFlagsRaw: 67584
+EditorID: RockPileM02LightSnow
+FormVersion: 43
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -180, -244, -34
+  Second: 202, 231, 67
+Model:
+  File: Landscape\Rocks\RockPileM02.nif
+  Data: 0x020000000000000000000000
+  AlternateTextures:
+  - Name: RockPileM02:0
+    NewTexture: 000891:Skyrim.esm
+  - Name: RockPileM02:8
+    NewTexture: 06A1AE:Skyrim.esm
+    Index: 1
+  - Name: RockPileM02:9
+    NewTexture: 06A1AE:Skyrim.esm
+    Index: 2
+MaxAngle: 90
+Material: 04CCBE:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

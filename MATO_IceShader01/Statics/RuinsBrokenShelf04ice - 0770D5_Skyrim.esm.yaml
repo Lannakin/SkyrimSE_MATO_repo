@@ -1,0 +1,21 @@
+FormKey: 0770D5:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: RuinsBrokenShelf04ice
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -33, -32, -5
+  Second: 33, 32, 5
+Model:
+  File: Clutter\Ruins\RuinsFurnitureRubble08.nif
+  Data: 0xEAF6A64A646473003BBB212F2D0B6667646473003BBB212FE9B5E0B9646473003BBB212F82BB9EA3646473003BBB212F76798155646473003BBB212FAD4F95C7646473003BBB212F
+MaxAngle: 120
+Material: 02BD1D:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

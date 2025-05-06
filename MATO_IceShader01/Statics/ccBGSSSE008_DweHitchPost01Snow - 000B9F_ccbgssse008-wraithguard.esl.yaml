@@ -1,0 +1,18 @@
+FormKey: 000B9F:ccbgssse008-wraithguard.esl
+MajorRecordFlagsRaw: 67584
+EditorID: ccBGSSSE008_DweHitchPost01Snow
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -18, -16, -16
+  Second: 16, 16, 98
+Model:
+  File: Dungeons\Dwemer\Platforms\DweHitchPost01.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 120
+Material: 02BD1D:Skyrim.esm
+Unused: 0x000000
+MajorFlags:
+- 0x800
+- 0x10000

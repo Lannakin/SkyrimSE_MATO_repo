@@ -1,0 +1,21 @@
+FormKey: 0B7CA1:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: DwePlatCorOut01Snow
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: 78, 78, 0
+  Second: 128, 128, 64
+Model:
+  File: Dungeons\Dwemer\Platforms\DwePlatCorOut01.nif
+  Data: 0x6646A523646473006A02F2EBE506313B646473006A02F2EB04E1375B646473006A02F2EB19414824646473006A02F2EB
+MaxAngle: 90
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

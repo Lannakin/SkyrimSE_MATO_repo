@@ -1,0 +1,21 @@
+FormKey: 06F710:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: CaveIBoulderM03
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -144, -115, -33
+  Second: 136, 135, 138
+Model:
+  File: Dungeons\Caves\Ice\Rocks\CaveIBoulderM03.nif
+  Data: 0x56F52BC9646473001E615532742F8659646473001E6155326E5786D4646473001E615532
+MaxAngle: 120
+Material: 02BD1D:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

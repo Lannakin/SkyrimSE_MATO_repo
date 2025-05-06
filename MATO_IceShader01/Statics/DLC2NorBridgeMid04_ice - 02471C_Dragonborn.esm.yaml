@@ -1,0 +1,14 @@
+FormKey: 02471C:Dragonborn.esm
+EditorID: DLC2NorBridgeMid04_ice
+FormVersion: 43
+ObjectBounds:
+  First: -192, -192, -384
+  Second: 192, 192, 12
+Model:
+  File: Dungeons\Nordic\Bridges\NorBridgeMid04.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 70
+Material: 02BD1D:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

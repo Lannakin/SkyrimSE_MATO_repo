@@ -1,0 +1,21 @@
+FormKey: 02EE93:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: RockL04SnowCustom01
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -129, -135, -48
+  Second: 87, 149, 370
+Model:
+  File: Landscape\Rocks\RockL04.nif
+  Data: 0x968A540264647300494699AF32485FBD64647300494699AF
+MaxAngle: 120
+Material: 02EE83:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

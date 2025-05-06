@@ -1,0 +1,21 @@
+FormKey: 02BD9A:Dragonborn.esm
+MajorRecordFlagsRaw: 67584
+EditorID: NorRmShaftBeam01sn_Heavy
+FormVersion: 43
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -211, -14, -14
+  Second: 209, 14, 14
+Model:
+  File: Dungeons\Nordic\Shafts\NorRmShaftBeam01.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 80
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

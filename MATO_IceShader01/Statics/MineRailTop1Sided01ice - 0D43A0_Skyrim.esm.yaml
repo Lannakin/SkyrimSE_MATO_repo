@@ -1,0 +1,14 @@
+FormKey: 0D43A0:Skyrim.esm
+EditorID: MineRailTop1Sided01ice
+FormVersion: 39
+ObjectBounds:
+  First: 103, -119, 3
+  Second: 116, 117, 51
+Model:
+  File: Dungeons\Mines\Scaffolding\MineRailTop1Sided01.nif
+  Data: 0x71067067646473005805E45AED56F3F3646473002B043E36
+MaxAngle: 90
+Material: 02BD1D:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

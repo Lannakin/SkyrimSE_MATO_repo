@@ -1,0 +1,28 @@
+FormKey: 026FD8:Skyrim.esm
+MajorRecordFlagsRaw: 100352
+EditorID: NorTmpExtPlatStairMid02Light_SN
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- VisibleWhenDistant
+- 0x10000
+ObjectBounds:
+  First: -256, -704, -512
+  Second: 256, 54, 1
+Model:
+  File: Dungeons\Nordic\Exterior\NorTmpExtPlatStairMid02.nif
+  Data: 0x5B92C07D646473001E8C9F27F30667D0646473001E8C9F27
+MaxAngle: 110
+Material: 026FDC:Skyrim.esm
+Unused: '[]'
+Lod:
+  Level0: Lod\NordicExterior\NorTmpExtPlatStairMid02_LOD.nif
+  Level1: Lod\NordicExterior\NorTmpExtPlatStairMid02_LOD.nif
+  Level2: Lod\NordicExterior\NorTmpExtPlatStairMid02_LOD.nif
+  Level3: ''
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- HasDistantLOD
+- 0x10000

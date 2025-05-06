@@ -1,0 +1,21 @@
+FormKey: 06848A:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: MineScaffoldFreeRopeEnd01ice
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -7, -11, -12
+  Second: 7, 11, 12
+Model:
+  File: Dungeons\Mines\Scaffolding\MineScaffoldFreeRopeEnd01.nif
+  Data: 0x06021A8D646473001E61553274467D2F646473001E615532
+MaxAngle: 120
+Material: 02BD1D:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

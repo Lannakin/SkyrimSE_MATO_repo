@@ -1,0 +1,14 @@
+FormKey: 014DEC:Dawnguard.esm
+EditorID: VigilantHallDestroyed
+FormVersion: 43
+ObjectBounds:
+  First: -950, -836, -128
+  Second: 950, 836, 1064
+Model:
+  File: DLC01\Architecture\Farmhouse\DLC1InnDestroyed01.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 100
+Material: 06F158:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

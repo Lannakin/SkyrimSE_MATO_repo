@@ -1,0 +1,28 @@
+FormKey: 0EB43E:Skyrim.esm
+MajorRecordFlagsRaw: 100352
+EditorID: ImpExtBldgMid01SnowLight_intSnow
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- VisibleWhenDistant
+- 0x10000
+ObjectBounds:
+  First: -256, -256, 608
+  Second: 256, 256, 622
+Model:
+  File: Dungeons\Imperial\Exterior\ImpExtBldgMid01.nif
+  Data: 0xF0E58CA3646473002B043E360259F553646473002B043E36D6B2D361646473002B043E362EDC2465646473002B043E36
+MaxAngle: 45
+Material: 02BD1D:Skyrim.esm
+Unused: '[]'
+Lod:
+  Level0: LOD\Imperial\ImpExtBldgMid01_LOD.nif
+  Level1: LOD\Imperial\ImpExtBldgMid01_LOD_3.nif
+  Level2: LOD\Imperial\ImpExtBldgMid01_LOD_3.nif
+  Level3: ''
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- HasDistantLOD
+- 0x10000

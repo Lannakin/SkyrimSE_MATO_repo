@@ -1,0 +1,24 @@
+FormKey: 00C856:Dawnguard.esm
+MajorRecordFlagsRaw: 32768
+EditorID: SERuinsBridge01
+FormVersion: 43
+SkyrimMajorRecordFlags:
+- VisibleWhenDistant
+ObjectBounds:
+  First: -340, -2129, -1575
+  Second: 340, 1713, 493
+Model:
+  File: DLC01\Architecture\SnowElfRuins\SERuinsBridge01.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 50
+Material: 025129:Skyrim.esm
+Unused: '[]'
+Lod:
+  Level0: DLC01\LOD\SERuins\SERuinsBridge01_LOD_0.nif
+  Level1: DLC01\LOD\SERuins\SERuinsBridge01_LOD_0.nif
+  Level2: DLC01\LOD\SERuins\SERuinsBridge01_LOD_0.nif
+  Level3: ''
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- HasDistantLOD

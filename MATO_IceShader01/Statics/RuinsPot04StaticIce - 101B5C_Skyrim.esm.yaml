@@ -1,0 +1,14 @@
+FormKey: 101B5C:Skyrim.esm
+EditorID: RuinsPot04StaticIce
+FormVersion: 39
+ObjectBounds:
+  First: -24, -22, 0
+  Second: 24, 27, 73
+Model:
+  File: Clutter\Ruins\RuinsPot04.nif
+  Data: 0x1D80ED0F646473003BBB212F15EDFD85646473003BBB212F
+MaxAngle: 90
+Material: 02BD1D:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

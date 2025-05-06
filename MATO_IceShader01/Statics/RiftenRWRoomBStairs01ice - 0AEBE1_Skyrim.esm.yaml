@@ -1,0 +1,21 @@
+FormKey: 0AEBE1:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: RiftenRWRoomBStairs01ice
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -120, -131, -1
+  Second: 135, 758, 386
+Model:
+  File: Dungeons\Riften\RatwayBarrel\RiftenRWRoomBStairs01.nif
+  Data: 0x02C72A5B64647300AD95A8F97F631FA064647300AD95A8F994A5297464647300AD95A8F99461B82464647300AD95A8F9
+MaxAngle: 120
+Material: 02BD1D:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

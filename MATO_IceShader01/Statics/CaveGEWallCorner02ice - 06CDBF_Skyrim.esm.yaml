@@ -1,0 +1,21 @@
+FormKey: 06CDBF:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: CaveGEWallCorner02ice
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -4130, -4093, 0
+  Second: 9, 48, 4095
+Model:
+  File: Dungeons\Caves\Green\EpicWall\CaveGEWallCorner02.nif
+  Data: 0x77E8CBA7646473001E615532742F8659646473001E615532
+MaxAngle: 120
+Material: 02BD1D:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

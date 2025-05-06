@@ -1,0 +1,21 @@
+FormKey: 025846:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: NorDwelling03ExtCourtCap01Snow
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -387, -384, 287
+  Second: 387, 384, 331
+Model:
+  File: Dungeons\Nordic\Exterior\Dwellings\NorDwelling03ExtCourtCap01.nif
+  Data: 0x991171B4646473001E8C9F2723C2D85C646473001E8C9F27
+MaxAngle: 90
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

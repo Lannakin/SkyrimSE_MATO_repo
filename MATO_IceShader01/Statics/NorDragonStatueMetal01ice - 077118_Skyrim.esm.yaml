@@ -1,0 +1,21 @@
+FormKey: 077118:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: NorDragonStatueMetal01ice
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -193, -181, 0
+  Second: 137, 174, 555
+Model:
+  File: Dungeons\Nordic\RuinsDragonStatueMetal01.nif
+  Data: 0x05E3BBFC64647300E4F2A513F8B65DD364647300E4F2A513
+MaxAngle: 120
+Material: 02BD1D:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

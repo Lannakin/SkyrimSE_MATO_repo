@@ -1,0 +1,14 @@
+FormKey: 006F12:Dawnguard.esm
+EditorID: FalmerPGEBalconyShaftBridge01SnowLight
+FormVersion: 43
+ObjectBounds:
+  First: -306, -1386, -293
+  Second: 313, 1480, 137
+Model:
+  File: DLC01\Dungeons\FalmerPlayground\FalmerPGEBalconyShaftBridge01.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 45
+Material: 04CCBE:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

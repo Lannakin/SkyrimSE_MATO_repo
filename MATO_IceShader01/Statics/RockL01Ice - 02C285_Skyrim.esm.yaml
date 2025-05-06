@@ -1,0 +1,21 @@
+FormKey: 02C285:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: RockL01Ice
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -165, -208, -59
+  Second: 167, 217, 229
+Model:
+  File: Landscape\Rocks\RockL01.nif
+  Data: 0x968A540264647300494699AF32485FBD64647300494699AF
+MaxAngle: 90
+Material: 02BD1D:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

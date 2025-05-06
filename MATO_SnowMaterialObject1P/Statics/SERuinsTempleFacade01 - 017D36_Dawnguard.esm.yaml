@@ -1,0 +1,14 @@
+FormKey: 017D36:Dawnguard.esm
+EditorID: SERuinsTempleFacade01
+FormVersion: 43
+ObjectBounds:
+  First: -2411, -1260, -768
+  Second: 2411, 1388, 2679
+Model:
+  File: DLC01\Architecture\SnowElfRuins\SERuinsTempleFacade01.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

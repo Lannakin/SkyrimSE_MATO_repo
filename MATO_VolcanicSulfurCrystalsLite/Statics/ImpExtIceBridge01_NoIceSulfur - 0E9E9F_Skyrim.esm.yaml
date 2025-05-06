@@ -1,0 +1,24 @@
+FormKey: 0E9E9F:Skyrim.esm
+MajorRecordFlagsRaw: 32768
+EditorID: ImpExtIceBridge01_NoIceSulfur
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- VisibleWhenDistant
+ObjectBounds:
+  First: -106, -310, -73
+  Second: 106, 310, 73
+Model:
+  File: Dungeons\Imperial\ExteriorIce\ImpExtIceBridge01.nif
+  Data: 0xE1C136D8646473002B043E3605D647CC646473002B043E36
+MaxAngle: 50
+Material: 0998A6:Skyrim.esm
+Unused: '[]'
+Lod:
+  Level0: LOD\ImperialIce\ImpExtIceBridge01_LOD.nif
+  Level1: LOD\ImperialIce\ImpExtIceBridge01_LOD.nif
+  Level2: LOD\ImperialIce\ImpExtIceBridge01_LOD.nif
+  Level3: ''
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- HasDistantLOD

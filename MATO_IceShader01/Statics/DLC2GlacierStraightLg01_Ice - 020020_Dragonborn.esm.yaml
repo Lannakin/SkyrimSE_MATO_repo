@@ -1,0 +1,14 @@
+FormKey: 020020:Dragonborn.esm
+EditorID: DLC2GlacierStraightLg01_Ice
+FormVersion: 43
+ObjectBounds:
+  First: -3849, -1497, -1590
+  Second: 3580, 1553, 2038
+Model:
+  File: DLC02\Landscape\Glaciers\DLC2GlacierStraightLg01.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Material: 02BD1D:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

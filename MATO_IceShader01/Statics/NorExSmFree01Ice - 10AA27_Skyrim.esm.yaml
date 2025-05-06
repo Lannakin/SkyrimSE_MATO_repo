@@ -1,0 +1,21 @@
+FormKey: 10AA27:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: NorExSmFree01Ice
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -128, -256, -144
+  Second: -96, 256, 368
+Model:
+  File: Dungeons\Nordic\SmRooms\NorExSmFree01.nif
+  Data: 0x80D51CB3646473001E8C9F27C800135A646473001E8C9F271816E6DF646473001E8C9F272AFFE6E1646473001E8C9F27
+MaxAngle: 90
+Material: 02BD1D:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

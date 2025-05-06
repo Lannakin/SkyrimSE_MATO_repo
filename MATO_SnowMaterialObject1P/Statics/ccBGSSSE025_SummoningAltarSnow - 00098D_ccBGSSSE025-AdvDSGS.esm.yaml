@@ -1,0 +1,18 @@
+FormKey: 00098D:ccBGSSSE025-AdvDSGS.esm
+MajorRecordFlagsRaw: 134218240
+EditorID: ccBGSSSE025_SummoningAltarSnow
+SkyrimMajorRecordFlags:
+- 0x200
+- 0x8000000
+ObjectBounds:
+  First: -145, -146, -27
+  Second: 145, 146, 45
+Model:
+  File: Clutter\Quest\MS06NecromanticAltar.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Material: 025129:Skyrim.esm
+Unused: 0x000000
+MajorFlags:
+- HiddenFromLocalMap
+- NavMeshGenerationBoundingBox

@@ -1,0 +1,14 @@
+FormKey: 002F7A:Dawnguard.esm
+EditorID: NorTempleEntranceHall01ice
+FormVersion: 43
+ObjectBounds:
+  First: -916, -1153, -24
+  Second: 916, 1, 1332
+Model:
+  File: Dungeons\Nordic\Exterior\NorTempleEntranceHall01.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Material: 02BD1D:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

@@ -1,0 +1,21 @@
+FormKey: 0765F3:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: DweWallCap01Snow
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -192, -192, 0
+  Second: 192, 192, 544
+Model:
+  File: Dungeons\Dwemer\Walls\DweWallCap01.nif
+  Data: 0x53E3C6CA646473006A02F2EB577ABC3F646473006A02F2EBEAC080E9646473006A02F2EB923DDCA8646473006A02F2EB6646A523646473006A02F2EBE506313B646473006A02F2EB87472BE5646473006A02F2EB5032530B646473006A02F2EB
+MaxAngle: 90
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

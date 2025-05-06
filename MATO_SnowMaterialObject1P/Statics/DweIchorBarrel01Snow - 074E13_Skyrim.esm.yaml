@@ -1,0 +1,19 @@
+FormKey: 074E13:Skyrim.esm
+MajorRecordFlagsRaw: 134217728
+EditorID: DweIchorBarrel01Snow
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- 0x8000000
+ObjectBounds:
+  First: -49, -42, 0
+  Second: 49, 42, 88
+Model:
+  File: Clutter\Dwemer\DweInchorBarrel01.nif
+  Data: 0xD3515E7B646473005FDE68F424815021646473005FDE68F4188FFC7C64647300262C333BFAE0BBA4646473007F66A5C0
+MaxAngle: 90
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- NavMeshGenerationBoundingBox

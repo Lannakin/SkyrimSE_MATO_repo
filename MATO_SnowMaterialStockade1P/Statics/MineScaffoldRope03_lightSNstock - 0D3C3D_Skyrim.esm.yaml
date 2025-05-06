@@ -1,0 +1,14 @@
+FormKey: 0D3C3D:Skyrim.esm
+EditorID: MineScaffoldRope03_lightSNstock
+FormVersion: 39
+ObjectBounds:
+  First: -51, -11, -38
+  Second: 54, 11, 12
+Model:
+  File: Dungeons\Mines\Scaffolding\MineScaffoldRope03.nif
+  Data: 0x06021A8D646473001E61553274467D2F646473001E615532
+MaxAngle: 90
+Material: 02A27D:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

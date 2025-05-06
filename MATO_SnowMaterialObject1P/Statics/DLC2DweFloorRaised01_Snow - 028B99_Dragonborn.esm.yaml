@@ -1,0 +1,14 @@
+FormKey: 028B99:Dragonborn.esm
+EditorID: DLC2DweFloorRaised01_Snow
+FormVersion: 43
+ObjectBounds:
+  First: -219, -208, 0
+  Second: 206, 239, 19
+Model:
+  File: DLC02\Dungeons\Dwemer\Rubble\DLC2DweFloorRaised01.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 110
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

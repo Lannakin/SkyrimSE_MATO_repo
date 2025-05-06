@@ -1,0 +1,14 @@
+FormKey: 0123ED:Dawnguard.esm
+EditorID: CasGargoyleStatue01_Snow
+FormVersion: 43
+ObjectBounds:
+  First: -54, -31, -11
+  Second: 54, 63, 117
+Model:
+  File: DLC01\Dungeons\Castle\Clutter\CasGargoyleStatue01.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 70
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

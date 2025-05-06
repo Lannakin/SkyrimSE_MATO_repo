@@ -1,0 +1,23 @@
+FormKey: 09782F:Skyrim.esm
+MajorRecordFlagsRaw: 134285312
+EditorID: RuinsShelfLargeHalfSnow
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+- 0x8000000
+ObjectBounds:
+  First: -102, -35, 0
+  Second: 100, 52, 78
+Model:
+  File: Clutter\Ruins\RuinShelfLargeHalf01.nif
+  Data: 0xE9B5E0B9646473003BBB212F82BB9EA3646473003BBB212F76798155646473003BBB212FAD4F95C7646473003BBB212F
+MaxAngle: 50
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000
+- NavMeshGenerationBoundingBox

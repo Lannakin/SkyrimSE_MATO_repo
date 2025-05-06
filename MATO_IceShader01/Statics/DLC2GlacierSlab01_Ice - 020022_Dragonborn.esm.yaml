@@ -1,0 +1,24 @@
+FormKey: 020022:Dragonborn.esm
+MajorRecordFlagsRaw: 32768
+EditorID: DLC2GlacierSlab01_Ice
+FormVersion: 43
+SkyrimMajorRecordFlags:
+- VisibleWhenDistant
+ObjectBounds:
+  First: -1808, -512, -1344
+  Second: 1798, 516, 1369
+Model:
+  File: DLC02\Landscape\Glaciers\DLC2GlacierSlab01.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Material: 02BD1D:Skyrim.esm
+Unused: '[]'
+Lod:
+  Level0: DLC02\LOD\Glaciers\DLC2GlacierSlab01_LOD_0.nif
+  Level1: DLC02\LOD\Glaciers\DLC2GlacierSlab01_LOD_1.nif
+  Level2: DLC02\LOD\Glaciers\DLC2GlacierSlab01_LOD_2.nif
+  Level3: ''
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- HasDistantLOD

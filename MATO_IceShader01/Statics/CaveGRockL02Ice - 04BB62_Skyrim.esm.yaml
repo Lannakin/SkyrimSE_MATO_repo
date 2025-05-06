@@ -1,0 +1,23 @@
+FormKey: 04BB62:Skyrim.esm
+MajorRecordFlagsRaw: 134285312
+EditorID: CaveGRockL02Ice
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+- 0x8000000
+ObjectBounds:
+  First: -299, -241, -40
+  Second: 320, 264, 223
+Model:
+  File: Dungeons\Caves\Green\Rocks\CaveGRockL02.nif
+  Data: 0x256A6E84646473001E61553232485FBD64647300494699AF
+MaxAngle: 90
+Material: 02BD1D:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000
+- NavMeshGenerationBoundingBox

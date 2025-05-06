@@ -1,0 +1,14 @@
+FormKey: 031D63:Dragonborn.esm
+EditorID: DLC2DragonBoneWing_R_Snow
+FormVersion: 43
+ObjectBounds:
+  First: -337, -192, -234
+  Second: 456, 216, 43
+Model:
+  File: DLC02\Clutter\DragonBones\DLC2DragonBoneWing_R.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

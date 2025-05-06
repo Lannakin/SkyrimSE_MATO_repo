@@ -1,0 +1,36 @@
+FormKey: 0B6266:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: RockTundraLand03Snow01Snow
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -1322, -1474, -1473
+  Second: 1697, 1544, 1546
+Model:
+  File: Landscape\Tundra\RockTundraLand03.nif
+  Data: 0x020000000C000000000000002FCA2C78646473001399225F2B6684FE646473001399225F98971882646473003B114A872989DA40646473003B114A872CDB5D9B64647300494699AF6BF619BF64647300494699AF1F2DA7B2646473001399225F88EDAC1F646473001399225FD2E1CF68646473003B114A8778102AF3646473003B114A87968A540264647300494699AF32485FBD64647300494699AF
+  AlternateTextures:
+  - Name: RockTundraLand03:0
+    NewTexture: 000891:Skyrim.esm
+    Index: 1
+  - Name: RockTundraLand03:1 - L2_RootsRocks:1 - L1_Rocks:1
+    NewTexture: 002E34:Update.esm
+    Index: 6
+  - Name: RockTundraLand03:3
+    NewTexture: 002E33:Update.esm
+    Index: 2
+  - Name: RockTundraLand03:6
+    NewTexture: 002E32:Update.esm
+    Index: 4
+  - Name: RockTundraLand03:8
+    NewTexture: 06A1AE:Skyrim.esm
+    Index: 5
+MaxAngle: 90
+Material: 045AB3:Skyrim.esm
+Flags:
+- ConsideredSnow
+Unused: 0x000000
+MajorFlags:
+- 0x800
+- 0x10000

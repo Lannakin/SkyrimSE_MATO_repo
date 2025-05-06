@@ -1,0 +1,14 @@
+FormKey: 0347AB:Dragonborn.esm
+EditorID: DLC2NorSarcophagusBroken01chunkSNOW
+FormVersion: 43
+ObjectBounds:
+  First: -42, -42, -31
+  Second: 42, 42, 31
+Model:
+  File: Clutter\Ruins\RuinsFurnitureRubble02.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Material: 04331F:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

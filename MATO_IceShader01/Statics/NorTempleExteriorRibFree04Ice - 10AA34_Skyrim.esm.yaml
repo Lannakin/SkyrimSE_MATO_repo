@@ -1,0 +1,30 @@
+FormKey: 10AA34:Skyrim.esm
+MajorRecordFlagsRaw: 134318080
+EditorID: NorTempleExteriorRibFree04Ice
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- VisibleWhenDistant
+- 0x10000
+- 0x8000000
+ObjectBounds:
+  First: -123, -129, 64
+  Second: 166, 129, 960
+Model:
+  File: Dungeons\Nordic\Exterior\NorTempleExteriorRibFree04.nif
+  Data: 0x991171B4646473001E8C9F2723C2D85C646473001E8C9F27
+MaxAngle: 110
+Material: 02BD1D:Skyrim.esm
+Unused: '[]'
+Lod:
+  Level0: Lod\NordicExterior\NorTempleExteriorRibFree04_LOD.nif
+  Level1: Lod\NordicExterior\NorTempleExteriorRibFree04_LOD03.nif
+  Level2: Lod\NordicExterior\NorTempleExteriorRibFree04_LOD03.nif
+  Level3: ''
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- HasDistantLOD
+- 0x10000
+- NavMeshGenerationBoundingBox

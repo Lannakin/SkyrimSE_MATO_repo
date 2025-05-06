@@ -1,0 +1,23 @@
+FormKey: 061BFD:Skyrim.esm
+MajorRecordFlagsRaw: 134285312
+EditorID: RuinsSconceBaseNoShadowice
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+- 0x8000000
+ObjectBounds:
+  First: -66, -66, 0
+  Second: 66, 66, 16
+Model:
+  File: Clutter\Ruins\RuinSconce01BaseNoShadow.nif
+  Data: 0xEAF6A64A646473003BBB212F2D0B6667646473003BBB212F
+MaxAngle: 120
+Material: 02BD1D:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000
+- NavMeshGenerationBoundingBox

@@ -1,0 +1,14 @@
+FormKey: 0D85F2:Skyrim.esm
+EditorID: NorExtRubblePile04Sulfur
+FormVersion: 39
+ObjectBounds:
+  First: -396, -217, 0
+  Second: 307, 321, 129
+Model:
+  File: Dungeons\Nordic\Exterior\Rubble\NorExtRubblePile04.nif
+  Data: 0x991171B4646473001E8C9F2723C2D85C646473001E8C9F27FD743409646473001E8C9F277C901563646473001E8C9F27
+MaxAngle: 35
+Material: 0998A6:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

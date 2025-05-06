@@ -1,0 +1,24 @@
+FormKey: 00FCCB:Dawnguard.esm
+MajorRecordFlagsRaw: 32768
+EditorID: SERuinsArchwayFree02SnowLight
+FormVersion: 43
+SkyrimMajorRecordFlags:
+- VisibleWhenDistant
+ObjectBounds:
+  First: -376, -124, -188
+  Second: 376, 123, 857
+Model:
+  File: DLC01\Architecture\SnowElfRuins\SERuinsArchwayFree02.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 80
+Material: 045AB3:Skyrim.esm
+Unused: '[]'
+Lod:
+  Level0: DLC01\LOD\SERuins\SERuinsArchwayFree01_LOD_0.nif
+  Level1: DLC01\LOD\SERuins\SERuinsArchwayFree01_LOD_0.nif
+  Level2: DLC01\LOD\SERuins\SERuinsArchwayFree01_LOD_0.nif
+  Level3: ''
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- HasDistantLOD

@@ -1,0 +1,14 @@
+FormKey: 013B3E:Dawnguard.esm
+EditorID: FalmerCityHutPod01SnowLight
+FormVersion: 43
+ObjectBounds:
+  First: -290, -324, -248
+  Second: 290, 254, 396
+Model:
+  File: DLC01\Architecture\FalmerHuts\FalmerCityHutPod01.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 80
+Material: 045AB3:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

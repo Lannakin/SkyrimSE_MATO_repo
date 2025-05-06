@@ -1,0 +1,23 @@
+FormKey: 096CA7:Skyrim.esm
+MajorRecordFlagsRaw: 134285312
+EditorID: GiantClubStaticSnow
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+- 0x8000000
+ObjectBounds:
+  First: -9, -46, -20
+  Second: 9, 92, 20
+Model:
+  File: Weapons\Giant\GiantClub.nif
+  Data: 0xE7DF617D6464730055A5C226CBDA7A906464730055A5C226
+MaxAngle: 90
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000
+- NavMeshGenerationBoundingBox

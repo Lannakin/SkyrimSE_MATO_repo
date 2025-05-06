@@ -1,0 +1,21 @@
+FormKey: 0770DF:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: CommonTableSquare01ice
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -45, -45, 0
+  Second: 45, 45, 63
+Model:
+  File: Clutter\Common\CommonTableSquare01.nif
+  Data: 0xB14DA5D0646473008EAEA792B57F9A62646473008EAEA792
+MaxAngle: 120
+Material: 02BD1D:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

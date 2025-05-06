@@ -1,0 +1,21 @@
+FormKey: 0B45D2:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: WHgate4
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -348, -1301, -488
+  Second: 405, 816, 358
+Model:
+  File: Architecture\Windhelm\WHgate4.nif
+  Data: 0x89C33E8F64647300D2D0A39FF232057F64647300D2D0A39F7FB142CE64647300D2D0A39FA525E88364647300D2D0A39FC5E04B5764647300D2D0A39FFC9BAE8164647300D2D0A39F312E9C2D64647300D2D0A39F252AA28D64647300D2D0A39F
+MaxAngle: 100
+Material: 04331F:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

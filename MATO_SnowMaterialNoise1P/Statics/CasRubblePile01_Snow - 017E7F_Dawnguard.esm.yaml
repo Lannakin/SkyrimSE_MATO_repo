@@ -1,0 +1,14 @@
+FormKey: 017E7F:Dawnguard.esm
+EditorID: CasRubblePile01_Snow
+FormVersion: 43
+ObjectBounds:
+  First: -392, -364, 0
+  Second: 383, 388, 267
+Model:
+  File: DLC01\Dungeons\Castle\Rubble\CasRubblePile01.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 70
+Material: 026FDC:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

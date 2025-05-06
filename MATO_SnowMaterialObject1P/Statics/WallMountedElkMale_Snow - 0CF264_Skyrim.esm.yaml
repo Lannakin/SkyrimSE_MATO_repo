@@ -1,0 +1,23 @@
+FormKey: 0CF264:Skyrim.esm
+MajorRecordFlagsRaw: 134285312
+EditorID: WallMountedElkMale_Snow
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+- 0x8000000
+ObjectBounds:
+  First: -104, 0, -49
+  Second: 104, 95, 87
+Model:
+  File: Clutter\DeadAnimals\MountedMaleElk.nif
+  Data: 0x913EB6B264647300437F4A3D8219123E64647300437F4A3DD924842664647300437F4A3D
+MaxAngle: 45
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000
+- NavMeshGenerationBoundingBox

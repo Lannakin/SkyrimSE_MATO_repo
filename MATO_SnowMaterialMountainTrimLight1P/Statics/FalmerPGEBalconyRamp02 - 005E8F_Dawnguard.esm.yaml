@@ -1,0 +1,14 @@
+FormKey: 005E8F:Dawnguard.esm
+EditorID: FalmerPGEBalconyRamp02
+FormVersion: 43
+ObjectBounds:
+  First: -289, -51, -1111
+  Second: 309, 1641, 37
+Model:
+  File: DLC01\Dungeons\FalmerPlayground\FalmerPGEBalconyRamp02.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Material: 04CCBE:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

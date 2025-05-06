@@ -1,0 +1,21 @@
+SpriggitSource:
+  PackageName: Spriggit.Yaml.Skyrim
+  Version: 0.37.3
+ModKey: MATO_SnowMaterialObject1P.esp
+GameRelease: SkyrimSE
+ModHeader:
+  Author: ''
+  MasterReferences:
+  - Master: Skyrim.esm
+    FileSize: 0
+  - Master: Update.esm
+    FileSize: 0
+  - Master: Dawnguard.esm
+    FileSize: 0
+  - Master: Dragonborn.esm
+    FileSize: 0
+  - Master: ccBGSSSE025-AdvDSGS.esm
+    FileSize: 0
+  - Master: cceejsse005-cave.esm
+    FileSize: 0
+  INCC: 0

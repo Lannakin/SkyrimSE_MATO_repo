@@ -1,0 +1,19 @@
+FormKey: 0EC326:Skyrim.esm
+MajorRecordFlagsRaw: 134217728
+EditorID: NorSarcophagusBottom_ice
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- 0x8000000
+ObjectBounds:
+  First: -112, -66, 0
+  Second: 112, 66, 62
+Model:
+  File: Clutter\Ruins\RuinsSarcophagus_Bottom01.nif
+  Data: 0xCF9F3D11646473003BBB212FAD59FBBB646473003BBB212FE9B5E0B9646473003BBB212F82BB9EA3646473003BBB212F76798155646473003BBB212FAD4F95C7646473003BBB212F
+MaxAngle: 90
+Material: 02BD1D:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- NavMeshGenerationBoundingBox

@@ -1,0 +1,14 @@
+FormKey: 030D14:Dragonborn.esm
+EditorID: DLC2CaveIBalconyRamp01_ice
+FormVersion: 43
+ObjectBounds:
+  First: -153, -800, -443
+  Second: 156, 44, 21
+Model:
+  File: Dungeons\Caves\Ice\Balcony\CaveIBalconyRamp01.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 120
+Material: 02BD1D:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

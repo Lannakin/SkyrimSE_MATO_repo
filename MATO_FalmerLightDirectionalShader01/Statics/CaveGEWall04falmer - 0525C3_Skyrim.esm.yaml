@@ -1,0 +1,21 @@
+FormKey: 0525C3:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: CaveGEWall04falmer
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -1024, -1024, 0
+  Second: 872, 1024, 3726
+Model:
+  File: Dungeons\Caves\Green\Epic\CaveGEWall04.nif
+  Data: 0x424DA84E646473001E615532C6530B5D646473001E61553277E8CBA7646473001E615532742F8659646473001E615532
+MaxAngle: 45
+Material: 0B9EF3:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

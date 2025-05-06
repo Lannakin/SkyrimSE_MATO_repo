@@ -1,0 +1,21 @@
+FormKey: 025843:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: NorDwelling03ExtBaseBSnow
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -1022, -791, -128
+  Second: 1022, 1021, 320
+Model:
+  File: Dungeons\Nordic\Exterior\Dwellings\NorDwelling03ExtBaseB.nif
+  Data: 0x8B095AD6646473001E8C9F27BA228236646473001E8C9F27991171B4646473001E8C9F2723C2D85C646473001E8C9F27
+MaxAngle: 90
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

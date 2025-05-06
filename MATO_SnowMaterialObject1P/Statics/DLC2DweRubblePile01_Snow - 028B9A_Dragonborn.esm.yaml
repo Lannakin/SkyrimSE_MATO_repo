@@ -1,0 +1,14 @@
+FormKey: 028B9A:Dragonborn.esm
+EditorID: DLC2DweRubblePile01_Snow
+FormVersion: 43
+ObjectBounds:
+  First: -392, -364, 0
+  Second: 383, 388, 267
+Model:
+  File: DLC02\Dungeons\Dwemer\Rubble\DLC2DweRubblePile01.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

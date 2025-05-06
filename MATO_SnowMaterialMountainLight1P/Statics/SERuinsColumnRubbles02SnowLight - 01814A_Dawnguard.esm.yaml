@@ -1,0 +1,14 @@
+FormKey: 01814A:Dawnguard.esm
+EditorID: SERuinsColumnRubbles02SnowLight
+FormVersion: 43
+ObjectBounds:
+  First: -409, -574, -71
+  Second: 409, 483, 292
+Model:
+  File: DLC01\Architecture\SnowElfRuins\SERuinsColumnRubbles02.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Material: 045AB3:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

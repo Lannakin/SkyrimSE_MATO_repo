@@ -1,0 +1,21 @@
+FormKey: 061D64:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: NorHallExSmPortcullis01ice
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -108, -64, -8
+  Second: 108, 64, 249
+Model:
+  File: Dungeons\Nordic\BgHalls\NorHallExSmPortcullis01.nif
+  Data: 0x80D51CB3646473001E8C9F27C800135A646473001E8C9F27CC14672B646473001E8C9F279C6ABCEA646473001E8C9F271816E6DF646473001E8C9F272AFFE6E1646473001E8C9F27
+MaxAngle: 120
+Material: 02BD1D:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

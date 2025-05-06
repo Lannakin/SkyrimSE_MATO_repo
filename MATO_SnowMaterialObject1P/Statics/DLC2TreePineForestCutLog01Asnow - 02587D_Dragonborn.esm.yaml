@@ -1,0 +1,19 @@
+FormKey: 02587D:Dragonborn.esm
+MajorRecordFlagsRaw: 134217728
+EditorID: DLC2TreePineForestCutLog01Asnow
+FormVersion: 43
+SkyrimMajorRecordFlags:
+- 0x8000000
+ObjectBounds:
+  First: -53, -216, -28
+  Second: 53, 216, 27
+Model:
+  File: Landscape\Trees\TreePineForestCutLog01A.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 120
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- NavMeshGenerationBoundingBox

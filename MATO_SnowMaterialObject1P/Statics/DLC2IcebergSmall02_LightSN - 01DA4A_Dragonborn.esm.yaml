@@ -1,0 +1,24 @@
+FormKey: 01DA4A:Dragonborn.esm
+MajorRecordFlagsRaw: 32768
+EditorID: DLC2IcebergSmall02_LightSN
+FormVersion: 43
+SkyrimMajorRecordFlags:
+- VisibleWhenDistant
+ObjectBounds:
+  First: -732, -1004, -1094
+  Second: 775, 987, 857
+Model:
+  File: DLC02\Landscape\Glaciers\DLC2IcebergSmall02.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 60
+Material: 025129:Skyrim.esm
+Unused: '[]'
+Lod:
+  Level0: LOD\Ice\IcebergSmall02_LOD.nif
+  Level1: LOD\Ice\IcebergSmall02_LOD.nif
+  Level2: ''
+  Level3: ''
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- HasDistantLOD

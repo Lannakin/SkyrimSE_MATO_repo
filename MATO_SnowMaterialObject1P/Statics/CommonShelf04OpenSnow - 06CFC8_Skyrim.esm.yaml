@@ -1,0 +1,14 @@
+FormKey: 06CFC8:Skyrim.esm
+EditorID: CommonShelf04OpenSnow
+FormVersion: 39
+ObjectBounds:
+  First: -67, -27, 0
+  Second: 67, 27, 63
+Model:
+  File: Clutter\Common\CommonShelf04Open.nif
+  Data: 0xB14DA5D0646473008EAEA792B57F9A62646473008EAEA792
+MaxAngle: 45
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

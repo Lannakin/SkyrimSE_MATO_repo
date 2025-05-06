@@ -1,0 +1,16 @@
+FormKey: 0000E9:_ResourcePack.esl
+MajorRecordFlagsRaw: 134217728
+EditorID: RP_SPatioPillarTall01Snow
+SkyrimMajorRecordFlags:
+- 0x8000000
+ObjectBounds:
+  First: -18, -15, -248
+  Second: 18, 15, 222
+Model:
+  File: _ResourcePack\Architecture\Solitude\SPatioPillarTall01.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Material: 04331F:Skyrim.esm
+Unused: 0x000000
+MajorFlags:
+- NavMeshGenerationBoundingBox

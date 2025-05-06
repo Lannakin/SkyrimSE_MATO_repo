@@ -1,0 +1,29 @@
+FormKey: 06B52B:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: MountainCliffSlopeSnow01_HeavySN
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -2121, -2084, -2321
+  Second: 2551, 2588, 2350
+Model:
+  File: Landscape\Mountains\MountainCliffSlope.nif
+  Data: 0x020000000600000000000000968A540264647300494699AF32485FBD64647300494699AF98971882646473003B114A872989DA40646473003B114A87D2E1CF68646473003B114A8778102AF3646473003B114A87
+  AlternateTextures:
+  - Name: MountainCliffSlope:0
+    NewTexture: 002E34:Update.esm
+  - Name: MountainCliffSlope:2
+    NewTexture: 000891:Skyrim.esm
+    Index: 1
+  - Name: MountainCliffSlope:3
+    NewTexture: 06A1AE:Skyrim.esm
+    Index: 2
+MaxAngle: 90
+Material: 04CCC9:Skyrim.esm
+Flags:
+- ConsideredSnow
+Unused: 0x000000
+MajorFlags:
+- 0x800
+- 0x10000

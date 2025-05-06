@@ -1,0 +1,21 @@
+FormKey: 026E77:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: NorTmpHallBg1wayWall02aSnow
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: 278, -501, -42
+  Second: 1437, 466, 1073
+Model:
+  File: Dungeons\Nordic\Temple\BgHalls\NorTmpHallBg1wayWall02a.nif
+  Data: 0xACB4125D646473001E8C9F27A6D49759646473001E8C9F270F2176C3646473001E8C9F2723C2D85C646473001E8C9F27
+MaxAngle: 110
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

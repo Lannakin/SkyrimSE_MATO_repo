@@ -1,0 +1,30 @@
+FormKey: 0B5F20:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: TreePineForestUprootedStump01Heavy_SN
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -613, -400, -413
+  Second: 466, 407, 465
+Model:
+  File: Landscape\Trees\TreePineForestUprootedStump01Sn.nif
+  Data: 0xBD80AFE0646473003B114A87BEBEFA2B646473003B114A87BD4B733B646473003BAC5C0A5A7E4C27646473003BAC5C0AFA6629B9646473003BAC5C0AB779ABDD646473003BAC5C0A261B5160646473003BAC5C0A5D2792DE646473003BAC5C0A2FCA2C78646473001399225F2B6684FE646473001399225F
+  AlternateTextures:
+  - Name: TreePineForestUprootedStump01Sn:0 - L1_LargeBranches05:0 - L2_Branches07:0 - L2_Stubbs02:0
+    NewTexture: 0F25E1:Skyrim.esm
+    Index: 3
+  - Name: L2_Roots02:2 - L2_Branches07:2
+    NewTexture: 0F25E2:Skyrim.esm
+    Index: 2
+  - Name: TreePineForestUprootedStump01Sn:9
+    NewTexture: 06A1B0:Skyrim.esm
+MaxAngle: 90
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

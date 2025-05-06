@@ -1,0 +1,26 @@
+FormKey: 00D80B:Dawnguard.esm
+MajorRecordFlagsRaw: 163840
+EditorID: DLC1MountainRidge02CaveUNIQUE_HeavySN
+FormVersion: 43
+SkyrimMajorRecordFlags:
+- VisibleWhenDistant
+- Dangerous_OffLimits_InteriorCell
+ObjectBounds:
+  First: -4144, -1503, -2097
+  Second: 3657, 1444, 1752
+Model:
+  File: DLC01\Landscape\DLC1MountainRidge02Cave.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Material: 04331F:Skyrim.esm
+Unused: '[]'
+Lod:
+  Level0: LOD\Mountains\MountainRidge02_LOD_0H.nif
+  Level1: LOD\Mountains\MountainRidge02_LOD_1.nif
+  Level2: LOD\Mountains\MountainRidge02_LOD_2.nif
+  Level3: ''
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- HasDistantLOD
+- UsesHdLodTexture

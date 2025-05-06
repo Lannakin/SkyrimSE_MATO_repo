@@ -1,0 +1,21 @@
+FormKey: 034941:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: NorTmpExtPlatShaftBot01Snow
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -256, -256, -32
+  Second: 256, 256, 0
+Model:
+  File: Dungeons\Nordic\Exterior\NorTmpExtPlatShaftBot01.nif
+  Data: 0xA247EF46646473001E8C9F277341A0E3646473001E8C9F27F89D93FC646473001E8C9F272AFFE6E1646473001E8C9F27
+MaxAngle: 110
+Material: 026FDC:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

@@ -1,0 +1,14 @@
+FormKey: 0137ED:Dawnguard.esm
+EditorID: DLC1IcebergLedge01_1Layer
+FormVersion: 43
+ObjectBounds:
+  First: -1173, 14, -1020
+  Second: 1323, 1474, 385
+Model:
+  File: DLC01\Landscape\Icebergs\DLC1IcebergLedge01_1Layer.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 75
+Material: 02BD1D:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

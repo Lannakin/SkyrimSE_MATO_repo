@@ -1,0 +1,20 @@
+FormKey: 0411C6:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: MineCDirtMound08snowBlend
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -199, -591, -58
+  Second: 207, 520, 66
+Model:
+  File: Dungeons\Mines\Rocks\MineCDirtMound08.nif
+  Data: 0xB7C91241646473005805E45ABD0E15DE646473005805E45A
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

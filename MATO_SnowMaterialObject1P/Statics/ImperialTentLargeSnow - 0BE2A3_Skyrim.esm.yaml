@@ -1,0 +1,21 @@
+FormKey: 0BE2A3:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: ImperialTentLargeSnow
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -205, -290, -10
+  Second: 205, 293, 308
+Model:
+  File: Architecture\Tents\LargeImperialTent01.nif
+  Data: 0x61DCA282646473008D32D4B37F4BAA64646473008D32D4B3
+MaxAngle: 90
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

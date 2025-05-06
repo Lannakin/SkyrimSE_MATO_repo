@@ -1,0 +1,29 @@
+FormKey: 000804:cceejsse005-cave.esm
+EditorID: ccEEJSSE005_CaveGLHallRamp02
+ObjectBounds:
+  First: -229, -256, 8
+  Second: 226, 256, 995
+Model:
+  File: Dungeons\Caves\Green\LargeHall\CaveGLHallRamp02.nif
+  Data: 0x020000000000000000000000
+  AlternateTextures:
+  - Name: CaveGLHallRamp02:9
+    NewTexture: 000800:cceejsse005-cave.esm
+    Index: 5
+  - Name: CaveGLHallRamp02:4
+    NewTexture: 000800:cceejsse005-cave.esm
+    Index: 4
+  - Name: CaveGLHallRamp02:3
+    NewTexture: 0462D3:Skyrim.esm
+    Index: 3
+  - Name: CaveGLHallRamp02:2
+    NewTexture: 000800:cceejsse005-cave.esm
+    Index: 2
+  - Name: L2_Roots:8
+    NewTexture: 000028:Skyrim.esm
+    Index: 1
+  - Name: L2_Roots:5
+    NewTexture: 000028:Skyrim.esm
+MaxAngle: 90
+Material: 025129:Skyrim.esm
+Unused: 0x000000

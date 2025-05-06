@@ -1,0 +1,21 @@
+FormKey: 098498:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: NorExtWallBgStairR01Snow
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -13, 0, -544
+  Second: 960, 175, 480
+Model:
+  File: Dungeons\Nordic\Exterior\Walls\NorExtWallBgStairR01.nif
+  Data: 0xF89D93FC646473001E8C9F272AFFE6E1646473001E8C9F272340782D646473001E8C9F274D165C5F646473001E8C9F275B92C07D646473001E8C9F27F30667D0646473001E8C9F27
+MaxAngle: 90
+Material: 04CCBE:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

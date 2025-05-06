@@ -1,0 +1,14 @@
+FormKey: 005E86:Dawnguard.esm
+EditorID: FalmerPGEBalconyBridge01
+FormVersion: 43
+ObjectBounds:
+  First: -306, -1384, -1041
+  Second: 309, 1478, 137
+Model:
+  File: DLC01\Dungeons\FalmerPlayground\FalmerPGEBalconyBridge01.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Material: 04CCBE:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

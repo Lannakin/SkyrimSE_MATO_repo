@@ -1,0 +1,14 @@
+FormKey: 102087:Skyrim.esm
+EditorID: ThroatoftheWorldDragonBonesNeck01
+FormVersion: 39
+ObjectBounds:
+  First: -44, -39, -43
+  Second: 44, 39, 43
+Model:
+  File: Clutter\DeadAnimals\DragonBonesNeck01.nif
+  Data: 0xA919768964647300A302B432D22B878C64647300A302B432
+MaxAngle: 120
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

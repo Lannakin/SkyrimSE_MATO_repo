@@ -1,0 +1,21 @@
+FormKey: 042071:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: CaveGShaftWall04Ice
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: 578, -464, 0
+  Second: 728, 523, 768
+Model:
+  File: Dungeons\Caves\Green\Shafts\CaveGShaftWall04.nif
+  Data: 0xE1D8CCD0646473001E61553243454458646473001E615532
+MaxAngle: 90
+Material: 02BD1D:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

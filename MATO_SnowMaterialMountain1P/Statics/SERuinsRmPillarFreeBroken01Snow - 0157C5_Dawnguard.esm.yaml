@@ -1,0 +1,24 @@
+FormKey: 0157C5:Dawnguard.esm
+MajorRecordFlagsRaw: 32768
+EditorID: SERuinsRmPillarFreeBroken01Snow
+FormVersion: 43
+SkyrimMajorRecordFlags:
+- VisibleWhenDistant
+ObjectBounds:
+  First: -155, -155, 0
+  Second: 155, 156, 727
+Model:
+  File: DLC01\Architecture\SnowElfRuins\Interior\SERuinsRmPillarFreeBroken01.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 80
+Material: 04331F:Skyrim.esm
+Unused: '[]'
+Lod:
+  Level0: DLC01\LOD\SERuins\SERuinsRmPillarFreeBroken01_LOD_0.nif
+  Level1: DLC01\LOD\SERuins\SERuinsRmPillarFreeBroken01_LOD_0.nif
+  Level2: DLC01\LOD\SERuins\SERuinsRmPillarFreeBroken01_LOD_0.nif
+  Level3: ''
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- HasDistantLOD

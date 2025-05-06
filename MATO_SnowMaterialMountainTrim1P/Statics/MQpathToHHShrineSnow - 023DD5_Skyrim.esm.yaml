@@ -1,0 +1,23 @@
+FormKey: 023DD5:Skyrim.esm
+MajorRecordFlagsRaw: 134285312
+EditorID: MQpathToHHShrineSnow
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+- 0x8000000
+ObjectBounds:
+  First: -95, -90, 0
+  Second: 92, 78, 246
+Model:
+  File: Architecture\HighHrothgar\MQEtchedShrine.nif
+  Data: 0x00DBF39D646473002CE219B86B9B2886646473002CE219B8C7934F20646473002CE219B8FCAE947A646473002CE219B8FC68B99E646473002CE219B8A6D4496C646473002CE219B8FC23ABC4646473002CE219B8AC16478D646473002CE219B8
+MaxAngle: 100
+Material: 04CCC9:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000
+- NavMeshGenerationBoundingBox

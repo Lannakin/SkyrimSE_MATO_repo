@@ -1,0 +1,21 @@
+FormKey: 0A9228:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: NorShaftTrapDoorSTATIC_HeavySN
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -225, -229, -9
+  Second: 229, 229, 8
+Model:
+  File: Dungeons\Nordic\Doors\Animated\TrapDoor\Ruins_TrapDoor01.nif
+  Data: 0x73A59DE264647300E4F2A5130B92873564647300E4F2A513
+MaxAngle: 45
+Material: 045AB3:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

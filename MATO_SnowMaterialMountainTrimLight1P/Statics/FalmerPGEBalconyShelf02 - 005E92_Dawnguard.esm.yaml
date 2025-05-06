@@ -1,0 +1,14 @@
+FormKey: 005E92:Dawnguard.esm
+EditorID: FalmerPGEBalconyShelf02
+FormVersion: 43
+ObjectBounds:
+  First: -299, -846, -215
+  Second: 299, 846, 215
+Model:
+  File: DLC01\Dungeons\FalmerPlayground\FalmerPGEBalconyShelf02.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Material: 04CCBE:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

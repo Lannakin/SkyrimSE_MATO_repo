@@ -1,0 +1,14 @@
+FormKey: 018669:Dawnguard.esm
+EditorID: DLC1FalmerTotem01SnowLight
+FormVersion: 43
+ObjectBounds:
+  First: -63, -39, -3
+  Second: 53, 35, 301
+Model:
+  File: DLC01\Clutter\DLC1FalmerTotem01.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Material: 045AB3:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

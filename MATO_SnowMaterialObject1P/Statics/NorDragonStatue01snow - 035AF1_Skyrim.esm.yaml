@@ -1,0 +1,21 @@
+FormKey: 035AF1:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: NorDragonStatue01snow
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -102, -172, 0
+  Second: 102, 172, 542
+Model:
+  File: Dungeons\Nordic\RuinsDragonStatue01.nif
+  Data: 0xBFB2B26564647300E4F2A513A1081BD164647300E4F2A513
+MaxAngle: 90
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

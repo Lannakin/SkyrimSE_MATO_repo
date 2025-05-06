@@ -1,0 +1,21 @@
+FormKey: 060F1C:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: NorBridge1wayEndCap02ice
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: 128, -65, -64
+  Second: 173, 65, 0
+Model:
+  File: Dungeons\Nordic\Bridges\NorBridge1wayEndCap02.nif
+  Data: 0x80D51CB3646473001E8C9F27C800135A646473001E8C9F27CC14672B646473001E8C9F279C6ABCEA646473001E8C9F27
+MaxAngle: 120
+Material: 02BD1D:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

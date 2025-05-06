@@ -1,0 +1,21 @@
+FormKey: 058C75:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: WHtempletalos4
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -178, 353, 1357
+  Second: 183, 1239, 1785
+Model:
+  File: Architecture\Windhelm\WHtempletalos4.nif
+  Data: 0xA4EEEA7364647300D2D0A39FBCC8F01A64647300D2D0A39F514960FB64647300D2D0A39F8563893B64647300D2D0A39FB565018864647300D2D0A39F72F48C0264647300D2D0A39F7158243964647300D2D0A39F
+MaxAngle: 90
+Material: 04331F:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

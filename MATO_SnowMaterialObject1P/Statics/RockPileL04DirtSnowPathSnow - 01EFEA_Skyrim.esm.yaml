@@ -1,0 +1,24 @@
+FormKey: 01EFEA:Skyrim.esm
+MajorRecordFlagsRaw: 67584
+EditorID: RockPileL04DirtSnowPathSnow
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -702, -757, -116
+  Second: 669, 799, 110
+Model:
+  File: Landscape\Rocks\RockPileL04.nif
+  Data: 0x98971882646473003B114A872989DA40646473003B114A872CDB5D9B64647300494699AF6BF619BF64647300494699AFD2E1CF68646473003B114A8778102AF3646473003B114A87968A540264647300494699AF32485FBD64647300494699AF
+  AlternateTextures:
+  - Name: RockPileL04:0
+    NewTexture: 01B081:Skyrim.esm
+MaxAngle: 40
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

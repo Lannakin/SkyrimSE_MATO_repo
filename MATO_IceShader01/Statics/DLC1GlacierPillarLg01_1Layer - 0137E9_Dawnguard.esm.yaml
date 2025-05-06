@@ -1,0 +1,11 @@
+FormKey: 0137E9:Dawnguard.esm
+EditorID: DLC1GlacierPillarLg01_1Layer
+FormVersion: 43
+Model:
+  File: DLC01\Landscape\Icebergs\DLC1GlacierPillarLg01_1Layer.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Material: 02BD1D:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

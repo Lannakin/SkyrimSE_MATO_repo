@@ -1,0 +1,23 @@
+FormKey: 096C40:Skyrim.esm
+MajorRecordFlagsRaw: 134285312
+EditorID: BoneMammothSkull4Snow
+FormVersion: 39
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+- 0x8000000
+ObjectBounds:
+  First: -71, -125, -90
+  Second: 71, 125, 90
+Model:
+  File: Clutter\Bones\MammothSkull4.nif
+  Data: 0x4B4FFAD6646473000C54DE96F111C762646473000C54DE96
+MaxAngle: 90
+Material: 025129:Skyrim.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000
+- NavMeshGenerationBoundingBox
