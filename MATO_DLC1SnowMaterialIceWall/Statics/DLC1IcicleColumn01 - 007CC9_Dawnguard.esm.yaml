@@ -1,0 +1,14 @@
+FormKey: 007CC9:Dawnguard.esm
+EditorID: DLC1IcicleColumn01
+FormVersion: 43
+ObjectBounds:
+  First: -308, -317, -1778
+  Second: 318, 311, 224
+Model:
+  File: DLC01\Landscape\DLC1IcicleColumn01.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 110
+Material: 00C115:Dawnguard.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

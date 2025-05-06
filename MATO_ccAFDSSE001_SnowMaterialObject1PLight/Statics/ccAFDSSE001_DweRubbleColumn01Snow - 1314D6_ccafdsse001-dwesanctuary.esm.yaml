@@ -1,0 +1,18 @@
+FormKey: 1314D6:ccafdsse001-dwesanctuary.esm
+MajorRecordFlagsRaw: 67584
+EditorID: ccAFDSSE001_DweRubbleColumn01Snow
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -85, -68, -46
+  Second: 85, 68, 788
+Model:
+  File: Dungeons\Dwemer\Rubble\DweRubbleColumn01.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Material: 1314D2:ccafdsse001-dwesanctuary.esm
+Unused: 0x000000
+MajorFlags:
+- 0x800
+- 0x10000

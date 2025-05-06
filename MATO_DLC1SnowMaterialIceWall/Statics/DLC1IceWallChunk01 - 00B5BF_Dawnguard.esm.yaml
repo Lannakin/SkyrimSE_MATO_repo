@@ -1,0 +1,24 @@
+FormKey: 00B5BF:Dawnguard.esm
+MajorRecordFlagsRaw: 32768
+EditorID: DLC1IceWallChunk01
+FormVersion: 43
+SkyrimMajorRecordFlags:
+- VisibleWhenDistant
+ObjectBounds:
+  First: -656, -587, -947
+  Second: 660, 343, 357
+Model:
+  File: DLC01\Landscape\DLC1IceWallChunk01.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Material: 00C115:Dawnguard.esm
+Unused: '[]'
+Lod:
+  Level0: DLC01\LOD\DLC1IceWallChunk01_LOD0.nif
+  Level1: DLC01\LOD\DLC1IceWallChunk01_LOD0.nif
+  Level2: ''
+  Level3: ''
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- HasDistantLOD

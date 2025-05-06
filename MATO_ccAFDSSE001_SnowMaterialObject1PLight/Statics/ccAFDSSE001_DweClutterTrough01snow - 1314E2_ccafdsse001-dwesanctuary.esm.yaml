@@ -1,0 +1,11 @@
+FormKey: 1314E2:ccafdsse001-dwesanctuary.esm
+EditorID: ccAFDSSE001_DweClutterTrough01snow
+ObjectBounds:
+  First: -144, -144, 0
+  Second: 144, 144, 61
+Model:
+  File: Dungeons\Dwemer\Clutter\DweClutterTrough01.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Material: 1314D2:ccafdsse001-dwesanctuary.esm
+Unused: 0x000000

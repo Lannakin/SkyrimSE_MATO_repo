@@ -1,0 +1,14 @@
+FormKey: 033EDA:Dragonborn.esm
+EditorID: FrozenMarshIceFloeL01_SN
+FormVersion: 43
+ObjectBounds:
+  First: -1534, -1498, -1
+  Second: 1534, 1498, 4
+Model:
+  File: Landscape\Ice\FrozenMarshIceFloeL01.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 80
+Material: 033EDB:Dragonborn.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

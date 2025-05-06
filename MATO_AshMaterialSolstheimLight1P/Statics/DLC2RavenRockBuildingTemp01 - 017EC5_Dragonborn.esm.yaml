@@ -1,0 +1,14 @@
+FormKey: 017EC5:Dragonborn.esm
+EditorID: DLC2RavenRockBuildingTemp01
+FormVersion: 43
+ObjectBounds:
+  First: -432, -296, -209
+  Second: 651, 296, 600
+Model:
+  File: DLC02\Architecture\RavenRock\DLC2RavenRockBuildingTemp01.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Material: 02AD46:Dragonborn.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

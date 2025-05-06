@@ -1,0 +1,13 @@
+SpriggitSource:
+  PackageName: Spriggit.Yaml.Skyrim
+  Version: 0.37.3
+ModKey: MATO_AshMaterialSolstheimLight1P.esp
+GameRelease: SkyrimSE
+ModHeader:
+  Author: ''
+  MasterReferences:
+  - Master: Skyrim.esm
+    FileSize: 0
+  - Master: Dragonborn.esm
+    FileSize: 0
+  INCC: 0

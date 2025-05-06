@@ -1,0 +1,14 @@
+FormKey: 02AD45:Dragonborn.esm
+EditorID: DLC2ImpStableSingle01_AshLight
+FormVersion: 43
+ObjectBounds:
+  First: -222, -222, -12
+  Second: 205, 222, 363
+Model:
+  File: Dungeons\Imperial\StableKit\ImpStableSingle01.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Material: 02AD46:Dragonborn.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

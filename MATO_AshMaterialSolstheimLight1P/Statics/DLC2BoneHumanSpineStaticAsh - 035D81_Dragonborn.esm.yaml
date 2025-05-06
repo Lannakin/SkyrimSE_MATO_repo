@@ -1,0 +1,19 @@
+FormKey: 035D81:Dragonborn.esm
+MajorRecordFlagsRaw: 134217728
+EditorID: DLC2BoneHumanSpineStaticAsh
+FormVersion: 43
+SkyrimMajorRecordFlags:
+- 0x8000000
+ObjectBounds:
+  First: -4, -28, -5
+  Second: 4, 28, 5
+Model:
+  File: Clutter\Bones\SpineStatic.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 120
+Material: 02AD46:Dragonborn.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- NavMeshGenerationBoundingBox

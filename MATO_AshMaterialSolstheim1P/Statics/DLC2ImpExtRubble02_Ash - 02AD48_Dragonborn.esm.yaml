@@ -1,0 +1,14 @@
+FormKey: 02AD48:Dragonborn.esm
+EditorID: DLC2ImpExtRubble02_Ash
+FormVersion: 43
+ObjectBounds:
+  First: -396, -217, -12
+  Second: 323, 321, 335
+Model:
+  File: Dungeons\Imperial\Exterior\ImpExtRubble02.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Material: 016E0C:Dragonborn.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

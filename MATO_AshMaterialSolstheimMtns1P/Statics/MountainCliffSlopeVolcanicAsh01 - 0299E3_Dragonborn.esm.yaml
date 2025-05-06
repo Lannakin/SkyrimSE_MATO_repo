@@ -1,0 +1,21 @@
+FormKey: 0299E3:Dragonborn.esm
+EditorID: MountainCliffSlopeVolcanicAsh01
+FormVersion: 43
+ObjectBounds:
+  First: -1838, -995, -932
+  Second: 2268, 1490, 961
+Model:
+  File: Landscape\Mountains\MountainCliffSlope.nif
+  Data: 0x020000000000000000000000
+  AlternateTextures:
+  - Name: MountainCliffSlope:3
+    NewTexture: 01771C:Dragonborn.esm
+    Index: 2
+  - Name: MountainCliffSlope:2
+    NewTexture: 016E03:Dragonborn.esm
+    Index: 1
+MaxAngle: 90
+Material: 024FE0:Dragonborn.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

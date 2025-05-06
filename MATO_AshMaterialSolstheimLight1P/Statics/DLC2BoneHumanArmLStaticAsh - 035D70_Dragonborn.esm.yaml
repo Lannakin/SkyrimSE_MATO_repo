@@ -1,0 +1,19 @@
+FormKey: 035D70:Dragonborn.esm
+MajorRecordFlagsRaw: 134217728
+EditorID: DLC2BoneHumanArmLStaticAsh
+FormVersion: 43
+SkyrimMajorRecordFlags:
+- 0x8000000
+ObjectBounds:
+  First: -7, -27, -4
+  Second: 8, 27, 4
+Model:
+  File: Clutter\Bones\HumanArmLeftStatic.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Material: 02AD46:Dragonborn.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- NavMeshGenerationBoundingBox

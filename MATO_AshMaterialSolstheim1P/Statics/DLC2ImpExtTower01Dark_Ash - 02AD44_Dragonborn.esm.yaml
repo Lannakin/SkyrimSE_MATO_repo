@@ -1,0 +1,24 @@
+FormKey: 02AD44:Dragonborn.esm
+MajorRecordFlagsRaw: 32768
+EditorID: DLC2ImpExtTower01Dark_Ash
+FormVersion: 43
+SkyrimMajorRecordFlags:
+- VisibleWhenDistant
+ObjectBounds:
+  First: -530, -530, -10
+  Second: 539, 539, 1391
+Model:
+  File: Dungeons\Imperial\Exterior\ImpExtTower01Dark.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Material: 016E0C:Dragonborn.esm
+Unused: '[]'
+Lod:
+  Level0: LOD\Imperial\ImpExtTower01_LOD.nif
+  Level1: LOD\Imperial\ImpExtTower01_LOD.nif
+  Level2: LOD\Imperial\ImpExtTower01_LOD_3.nif
+  Level3: ''
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- HasDistantLOD

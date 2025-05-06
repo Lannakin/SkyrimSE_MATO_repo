@@ -1,0 +1,14 @@
+FormKey: 027A31:Dragonborn.esm
+EditorID: NorRubblePile07_DLC2Ash
+FormVersion: 43
+ObjectBounds:
+  First: -141, -131, 0
+  Second: 138, 139, 124
+Model:
+  File: Dungeons\Nordic\Rubble\NorRubblePile07.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 60
+Material: 016E0C:Dragonborn.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

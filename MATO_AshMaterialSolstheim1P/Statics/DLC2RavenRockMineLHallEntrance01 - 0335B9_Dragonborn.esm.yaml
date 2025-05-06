@@ -1,0 +1,19 @@
+FormKey: 0335B9:Dragonborn.esm
+MajorRecordFlagsRaw: 1073741824
+EditorID: DLC2RavenRockMineLHallEntrance01
+FormVersion: 43
+SkyrimMajorRecordFlags:
+- 0x40000000
+ObjectBounds:
+  First: -752, -1586, 0
+  Second: 845, 512, 1210
+Model:
+  File: Dungeons\Mines\MineLargeHall\MineLHallEntrance01.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Material: 016E0C:Dragonborn.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- NavMeshGenerationGround

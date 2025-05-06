@@ -1,0 +1,21 @@
+FormKey: 019605:Dragonborn.esm
+EditorID: DLC2MountainTrim03VolcanicAsh01
+FormVersion: 43
+ObjectBounds:
+  First: -1144, -1128, 38
+  Second: 1145, 1155, 225
+Model:
+  File: Landscape\Mountains\MountainTrim03.nif
+  Data: 0x020000000000000000000000
+  AlternateTextures:
+  - Name: MountainTrim03:4
+    NewTexture: 016E03:Dragonborn.esm
+    Index: 2
+  - Name: RockSkirt01
+    NewTexture: 01771C:Dragonborn.esm
+    Index: 1
+MaxAngle: 120
+Material: 024FE0:Dragonborn.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

@@ -1,0 +1,14 @@
+FormKey: 035348:Dragonborn.esm
+EditorID: ApoControlRing01SAsh
+FormVersion: 43
+ObjectBounds:
+  First: -619, -619, -80
+  Second: 619, 619, 10
+Model:
+  File: DLC02\Dungeons\Apocrypha\Exterior\ControlRing\ApoControlRing01.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Material: 016E0C:Dragonborn.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

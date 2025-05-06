@@ -1,0 +1,14 @@
+FormKey: 00B5C7:Dawnguard.esm
+EditorID: DLC1IcicleBigSingle01
+FormVersion: 43
+ObjectBounds:
+  First: -192, -159, -1154
+  Second: 210, 138, 59
+Model:
+  File: DLC01\Landscape\DLC1IcicleSingleCap01.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Material: 00C115:Dawnguard.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

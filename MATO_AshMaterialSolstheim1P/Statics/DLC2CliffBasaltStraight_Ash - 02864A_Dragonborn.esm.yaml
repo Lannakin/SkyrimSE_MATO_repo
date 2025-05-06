@@ -1,0 +1,28 @@
+FormKey: 02864A:Dragonborn.esm
+MajorRecordFlagsRaw: 32768
+EditorID: DLC2CliffBasaltStraight_Ash
+FormVersion: 43
+SkyrimMajorRecordFlags:
+- VisibleWhenDistant
+ObjectBounds:
+  First: -1602, -700, -988
+  Second: 1461, 1024, 760
+Model:
+  File: DLC02\Landscape\VolcanicCliffs\DLC2CliffBasaltStraight.nif
+  Data: 0x020000000000000000000000
+  AlternateTextures:
+  - Name: DLC2CliffBasaltStraight:2
+    NewTexture: 016E03:Dragonborn.esm
+    Index: 2
+MaxAngle: 90
+Material: 016E0C:Dragonborn.esm
+Unused: '[]'
+Lod:
+  Level0: DLC02\LOD\DLC2CliffBasaltStraight01_LOD.nif
+  Level1: DLC02\LOD\DLC2CliffBasaltStraight01_LOD1.nif
+  Level2: DLC02\LOD\DLC2CliffBasaltStraight01_LOD1.nif
+  Level3: ''
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- HasDistantLOD

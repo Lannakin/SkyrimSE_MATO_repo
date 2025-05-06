@@ -1,0 +1,19 @@
+FormKey: 02C401:Dragonborn.esm
+MajorRecordFlagsRaw: 134217728
+EditorID: FirewoodPileLarge01ASH
+FormVersion: 43
+SkyrimMajorRecordFlags:
+- 0x8000000
+ObjectBounds:
+  First: -87, -68, -1
+  Second: 113, 59, 60
+Model:
+  File: Clutter\Firewood\FirewoodPileLarge01.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Material: 016E0C:Dragonborn.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- NavMeshGenerationBoundingBox

@@ -1,0 +1,18 @@
+FormKey: 1314D3:ccafdsse001-dwesanctuary.esm
+MajorRecordFlagsRaw: 67584
+EditorID: ccAFDSSE001_DweFloorRaised01Snow
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -219, -208, 0
+  Second: 206, 239, 19
+Model:
+  File: Dungeons\Dwemer\Rubble\DweFloorRaised01.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Material: 1314D2:ccafdsse001-dwesanctuary.esm
+Unused: 0x000000
+MajorFlags:
+- 0x800
+- 0x10000

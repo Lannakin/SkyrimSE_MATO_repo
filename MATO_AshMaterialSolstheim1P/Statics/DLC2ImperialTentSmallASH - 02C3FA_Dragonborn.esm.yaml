@@ -1,0 +1,14 @@
+FormKey: 02C3FA:Dragonborn.esm
+EditorID: DLC2ImperialTentSmallASH
+FormVersion: 43
+ObjectBounds:
+  First: -164, -109, -4
+  Second: 164, 109, 183
+Model:
+  File: Architecture\Tents\SmallImperialTent.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Material: 016E0C:Dragonborn.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

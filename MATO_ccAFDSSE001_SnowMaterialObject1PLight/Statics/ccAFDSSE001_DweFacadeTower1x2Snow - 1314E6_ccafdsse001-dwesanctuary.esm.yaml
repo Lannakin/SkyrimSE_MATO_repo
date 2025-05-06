@@ -1,0 +1,21 @@
+FormKey: 1314E6:ccafdsse001-dwesanctuary.esm
+MajorRecordFlagsRaw: 32768
+EditorID: ccAFDSSE001_DweFacadeTower1x2Snow
+SkyrimMajorRecordFlags:
+- VisibleWhenDistant
+ObjectBounds:
+  First: -318, -415, 0
+  Second: 415, 318, 768
+Model:
+  File: Dungeons\Dwemer\Facades\Combined\DweFacadeTower1x2.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Material: 1314D2:ccafdsse001-dwesanctuary.esm
+Unused: 0x000000
+Lod:
+  Level0: LOD\Dwemer\DweFacadeTower1x2_LOD.nif
+  Level1: LOD\Dwemer\DweFacadeTower1x2_LOD_1.nif
+  Level2: LOD\Dwemer\DweFacadeTower1x2_LOD_1.nif
+  Level3: ''
+MajorFlags:
+- HasDistantLOD

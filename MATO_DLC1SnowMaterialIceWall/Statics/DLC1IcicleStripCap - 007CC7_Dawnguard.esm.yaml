@@ -1,0 +1,14 @@
+FormKey: 007CC7:Dawnguard.esm
+EditorID: DLC1IcicleStripCap
+FormVersion: 43
+ObjectBounds:
+  First: -664, -308, -1751
+  Second: 709, 201, 92
+Model:
+  File: DLC01\Landscape\DLC1IcicleStripCap01.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Material: 00C115:Dawnguard.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

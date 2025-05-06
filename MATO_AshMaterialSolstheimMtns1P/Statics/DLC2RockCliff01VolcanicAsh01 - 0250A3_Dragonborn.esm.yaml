@@ -1,0 +1,20 @@
+FormKey: 0250A3:Dragonborn.esm
+EditorID: DLC2RockCliff01VolcanicAsh01
+FormVersion: 43
+ObjectBounds:
+  First: -371, -798, -349
+  Second: 367, 798, 345
+Model:
+  File: Landscape\Rocks\RockCliff01.nif
+  Data: 0x020000000000000000000000
+  AlternateTextures:
+  - Name: RockCliff01:8
+    NewTexture: 01771C:Dragonborn.esm
+    Index: 3
+  - Name: RockCliff01:0
+    NewTexture: 016E07:Dragonborn.esm
+MaxAngle: 90
+Material: 024FE0:Dragonborn.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

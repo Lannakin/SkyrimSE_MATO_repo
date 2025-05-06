@@ -1,0 +1,18 @@
+FormKey: 024FDE:Dragonborn.esm
+EditorID: DLC2BasaltSlab01_Ash
+FormVersion: 43
+ObjectBounds:
+  First: -506, -362, 3
+  Second: 435, 589, 218
+Model:
+  File: DLC02\Landscape\VolcanicCliffs\DLC2BasaltSlab01.nif
+  Data: 0x020000000000000000000000
+  AlternateTextures:
+  - Name: DLC2BasaltSlab01:2
+    NewTexture: 016E03:Dragonborn.esm
+    Index: 1
+MaxAngle: 90
+Material: 016E0C:Dragonborn.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

@@ -1,0 +1,14 @@
+FormKey: 0335BE:Dragonborn.esm
+EditorID: DLC2RavenRockMineLHall2Way01
+FormVersion: 43
+ObjectBounds:
+  First: -256, -239, -16
+  Second: 248, 256, 265
+Model:
+  File: Dungeons\Mines\MineLargeHall\MineLHall2Way01.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Material: 016E0C:Dragonborn.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

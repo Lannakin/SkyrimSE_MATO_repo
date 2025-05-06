@@ -1,0 +1,24 @@
+FormKey: 0324AA:Dragonborn.esm
+MajorRecordFlagsRaw: 32768
+EditorID: RedoranTemple01
+FormVersion: 43
+SkyrimMajorRecordFlags:
+- VisibleWhenDistant
+ObjectBounds:
+  First: -890, -659, -64
+  Second: 890, 1394, 1370
+Model:
+  File: DLC02\Architecture\RavenRock\Redoran\RedoranTemple01.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 120
+Material: 02AD46:Dragonborn.esm
+Unused: '[]'
+Lod:
+  Level0: DLC02\LOD\RedoranTemple01_LOD01.nif
+  Level1: DLC02\LOD\RedoranTemple01_LOD01.nif
+  Level2: DLC02\LOD\RedoranTemple01_LOD01.nif
+  Level3: ''
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- HasDistantLOD

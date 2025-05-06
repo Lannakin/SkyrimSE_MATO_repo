@@ -1,0 +1,17 @@
+FormKey: 0217D4:Dragonborn.esm
+EditorID: DLC2BasaltRubblePileFlat01_Ash
+FormVersion: 43
+ObjectBounds:
+  First: -412, -355, 10
+  Second: 452, 350, 188
+Model:
+  File: DLC02\Landscape\VolcanicCliffs\DLC2BasaltRubblePileFlat01.nif
+  Data: 0x020000000000000000000000
+  AlternateTextures:
+  - Name: DLC2BasaltRubblePileFlat01:2
+    NewTexture: 016E03:Dragonborn.esm
+MaxAngle: 90
+Material: 016E0C:Dragonborn.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

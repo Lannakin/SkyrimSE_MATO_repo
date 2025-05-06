@@ -1,0 +1,20 @@
+FormKey: 032FEF:Dragonborn.esm
+MajorRecordFlagsRaw: 134285312
+EditorID: DLC2RockCairn02Ash
+FormVersion: 43
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+- 0x8000000
+Model:
+  File: Landscape\Rocks\Cairns\RockCairn02.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Material: 024FE0:Dragonborn.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000
+- NavMeshGenerationBoundingBox

@@ -1,0 +1,27 @@
+FormKey: 016E0D:Dragonborn.esm
+MajorRecordFlagsRaw: 67584
+EditorID: DLC2RockPileL04VolcanicAsh01
+FormVersion: 43
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -702, -757, -116
+  Second: 669, 799, 110
+Model:
+  File: Landscape\Rocks\RockPileL04.nif
+  Data: 0x020000000000000000000000
+  AlternateTextures:
+  - Name: RockPileL04:8
+    NewTexture: 01771C:Dragonborn.esm
+    Index: 2
+  - Name: RockPileL04:0
+    NewTexture: 016E03:Dragonborn.esm
+MaxAngle: 75
+Material: 024FE0:Dragonborn.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

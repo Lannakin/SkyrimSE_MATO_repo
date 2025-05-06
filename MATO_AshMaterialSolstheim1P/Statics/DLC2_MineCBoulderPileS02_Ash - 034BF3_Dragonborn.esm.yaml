@@ -1,0 +1,14 @@
+FormKey: 034BF3:Dragonborn.esm
+EditorID: DLC2_MineCBoulderPileS02_Ash
+FormVersion: 43
+ObjectBounds:
+  First: -121, -133, -22
+  Second: 129, 118, 56
+Model:
+  File: Dungeons\Mines\Rocks\MineCBoulderPileS02.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Material: 016E0C:Dragonborn.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

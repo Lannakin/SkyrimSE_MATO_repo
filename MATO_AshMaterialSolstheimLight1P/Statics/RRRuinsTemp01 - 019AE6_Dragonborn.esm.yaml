@@ -1,0 +1,14 @@
+FormKey: 019AE6:Dragonborn.esm
+EditorID: RRRuinsTemp01
+FormVersion: 43
+ObjectBounds:
+  First: -384, -256, -192
+  Second: 636, 256, 116
+Model:
+  File: DLC02\Architecture\RavenRock\RRRuinsTemp01.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 40
+Material: 02AD46:Dragonborn.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

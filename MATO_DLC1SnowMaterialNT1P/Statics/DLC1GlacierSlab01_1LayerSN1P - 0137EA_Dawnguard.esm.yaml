@@ -1,0 +1,14 @@
+FormKey: 0137EA:Dawnguard.esm
+EditorID: DLC1GlacierSlab01_1LayerSN1P
+FormVersion: 43
+ObjectBounds:
+  First: -1808, -512, -1344
+  Second: 1798, 516, 1369
+Model:
+  File: DLC01\Landscape\Icebergs\DLC1GlacierSlab01_1Layer.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 80
+Material: 013816:Dawnguard.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

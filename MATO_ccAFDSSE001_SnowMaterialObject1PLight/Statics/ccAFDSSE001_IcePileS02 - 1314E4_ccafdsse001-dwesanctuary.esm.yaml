@@ -1,0 +1,13 @@
+FormKey: 1314E4:ccafdsse001-dwesanctuary.esm
+EditorID: ccAFDSSE001_IcePileS02
+ObjectBounds:
+  First: -121, -133, -22
+  Second: 129, 118, 56
+Model:
+  File: Landscape\Ice\IcePileS02.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 70
+Material: 1314D2:ccafdsse001-dwesanctuary.esm
+Flags:
+- ConsideredSnow
+Unused: 0x000000

@@ -1,0 +1,17 @@
+FormKey: 029F2B:Dragonborn.esm
+EditorID: DLC2RockPileS04VolcanicAshRocks01_Ash
+FormVersion: 43
+ObjectBounds:
+  First: -131, -267, -35
+  Second: 131, 269, 41
+Model:
+  File: Landscape\Rocks\RockPileS04.nif
+  Data: 0x020000000000000000000000
+  AlternateTextures:
+  - Name: RockPileS04:0
+    NewTexture: 01771C:Dragonborn.esm
+MaxAngle: 90
+Material: 024FE0:Dragonborn.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

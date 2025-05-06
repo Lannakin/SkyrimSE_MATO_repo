@@ -1,0 +1,14 @@
+FormKey: 03C39F:Dragonborn.esm
+EditorID: DLC2Stonewall01VolcanicAsh
+FormVersion: 43
+ObjectBounds:
+  First: -128, -69, 0
+  Second: 128, 69, 174
+Model:
+  File: Architecture\Farmhouse\Stonewall\Stonewall01.NIF
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Material: 024FE0:Dragonborn.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

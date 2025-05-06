@@ -1,0 +1,24 @@
+FormKey: 03A47B:Dragonborn.esm
+MajorRecordFlagsRaw: 32768
+EditorID: DLC2RRBuilding03
+FormVersion: 43
+SkyrimMajorRecordFlags:
+- VisibleWhenDistant
+ObjectBounds:
+  First: -559, -832, -192
+  Second: 779, 295, 617
+Model:
+  File: DLC02\Architecture\RavenRock\DLC2RRBuilding03.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Material: 02AD46:Dragonborn.esm
+Unused: '[]'
+Lod:
+  Level0: DLC02\Lod\RavenRock\DLC2RRBuilding03_LOD.nif
+  Level1: DLC02\Lod\RavenRock\DLC2RRBuilding03_LOD.nif
+  Level2: DLC02\Lod\RavenRock\DLC2RRBuilding03_LOD.nif
+  Level3: ''
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- HasDistantLOD

@@ -1,0 +1,24 @@
+FormKey: 03A11F:Dragonborn.esm
+MajorRecordFlagsRaw: 67584
+EditorID: DLC2CrateSmall01Weathered_LightAsh
+FormVersion: 43
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -25, -37, -24
+  Second: 25, 39, 24
+Model:
+  File: Clutter\Common\CrateSmall01.nif
+  Data: 0x020000000000000000000000
+  AlternateTextures:
+  - Name: CrateSmall01:0
+    NewTexture: 0C2C11:Skyrim.esm
+MaxAngle: 120
+Material: 03A11D:Dragonborn.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

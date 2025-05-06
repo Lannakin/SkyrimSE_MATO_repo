@@ -1,0 +1,14 @@
+FormKey: 01381B:Dawnguard.esm
+EditorID: DLC1IcebergSmall01_1LayerSN1P
+FormVersion: 43
+ObjectBounds:
+  First: -690, -701, -1018
+  Second: 690, 701, 694
+Model:
+  File: DLC01\Landscape\Icebergs\DLC1IcebergSmall01_1Layer.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Material: 013816:Dawnguard.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

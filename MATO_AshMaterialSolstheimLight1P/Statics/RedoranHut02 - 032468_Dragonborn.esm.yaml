@@ -1,0 +1,24 @@
+FormKey: 032468:Dragonborn.esm
+MajorRecordFlagsRaw: 32768
+EditorID: RedoranHut02
+FormVersion: 43
+SkyrimMajorRecordFlags:
+- VisibleWhenDistant
+ObjectBounds:
+  First: -584, -713, -63
+  Second: 584, 710, 537
+Model:
+  File: DLC02\Architecture\RavenRock\Redoran\RedoranHut02.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 60
+Material: 02AD46:Dragonborn.esm
+Unused: '[]'
+Lod:
+  Level0: DLC02\LOD\RedoranHut02_LOD.nif
+  Level1: DLC02\LOD\RedoranHut02_LOD.nif
+  Level2: DLC02\LOD\RedoranHut02_LOD.nif
+  Level3: ''
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- HasDistantLOD

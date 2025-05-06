@@ -1,0 +1,13 @@
+FormKey: 03A11C:Dragonborn.esm
+EditorID: DLC2Barrel02Static_LightAsh
+FormVersion: 43
+ObjectBounds:
+  First: -27, -27, 0
+  Second: 27, 27, 80
+Model:
+  File: Clutter\Barrel02.nif
+  Data: 0x020000000000000000000000
+Material: 03A11D:Dragonborn.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

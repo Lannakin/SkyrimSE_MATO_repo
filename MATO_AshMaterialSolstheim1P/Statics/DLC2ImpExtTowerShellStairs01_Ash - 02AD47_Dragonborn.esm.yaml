@@ -1,0 +1,24 @@
+FormKey: 02AD47:Dragonborn.esm
+MajorRecordFlagsRaw: 32768
+EditorID: DLC2ImpExtTowerShellStairs01_Ash
+FormVersion: 43
+SkyrimMajorRecordFlags:
+- VisibleWhenDistant
+ObjectBounds:
+  First: -521, -521, 510
+  Second: 521, 521, 1373
+Model:
+  File: Dungeons\Imperial\Exterior\ImpExtTowerShellStairs01.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Material: 016E0C:Dragonborn.esm
+Unused: '[]'
+Lod:
+  Level0: LOD\Imperial\ImpExtTowerShellStairs01_LOD.nif
+  Level1: LOD\Imperial\ImpExtTowerShellStairs01_LOD.nif
+  Level2: LOD\Imperial\ImpExtTowerShellStairs01_LOD_3.nif
+  Level3: ''
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- HasDistantLOD

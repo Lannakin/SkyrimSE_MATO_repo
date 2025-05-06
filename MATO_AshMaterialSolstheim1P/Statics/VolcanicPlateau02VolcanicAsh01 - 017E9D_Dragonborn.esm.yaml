@@ -1,0 +1,31 @@
+FormKey: 017E9D:Dragonborn.esm
+MajorRecordFlagsRaw: 67584
+EditorID: VolcanicPlateau02VolcanicAsh01
+FormVersion: 43
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -1011, -760, -51
+  Second: 1074, 808, 220
+Model:
+  File: Landscape\Volcanic\VolcanicPlateau02.nif
+  Data: 0x020000000000000000000000
+  AlternateTextures:
+  - Name: VolcanicPlateau02:6
+    NewTexture: 0197EE:Dragonborn.esm
+    Index: 5
+  - Name: VolcanicPlateau02:0
+    NewTexture: 016E03:Dragonborn.esm
+    Index: 4
+  - Name: VolcanicRocks
+    NewTexture: 01771C:Dragonborn.esm
+    Index: 2
+MaxAngle: 40
+Material: 016E0C:Dragonborn.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

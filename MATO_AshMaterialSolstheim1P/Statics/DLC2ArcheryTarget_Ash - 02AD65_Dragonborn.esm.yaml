@@ -1,0 +1,14 @@
+FormKey: 02AD65:Dragonborn.esm
+EditorID: DLC2ArcheryTarget_Ash
+FormVersion: 43
+ObjectBounds:
+  First: -49, -46, -1
+  Second: 42, 48, 130
+Model:
+  File: Clutter\Common\ArcheryTarget01.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Material: 016E0C:Dragonborn.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

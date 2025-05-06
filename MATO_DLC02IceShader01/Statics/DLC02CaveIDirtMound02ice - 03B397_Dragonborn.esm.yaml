@@ -1,0 +1,21 @@
+FormKey: 03B397:Dragonborn.esm
+MajorRecordFlagsRaw: 67584
+EditorID: DLC02CaveIDirtMound02ice
+FormVersion: 43
+SkyrimMajorRecordFlags:
+- InitiallyDisabled
+- 0x10000
+ObjectBounds:
+  First: -121, -133, -22
+  Second: 129, 118, 25
+Model:
+  File: Dungeons\Caves\Ice\DirtMound\CaveIDirtMound02.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Material: 03B396:Dragonborn.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- 0x800
+- 0x10000

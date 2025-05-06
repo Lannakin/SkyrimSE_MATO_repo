@@ -1,0 +1,19 @@
+FormKey: 027A35:Dragonborn.esm
+MajorRecordFlagsRaw: 134217728
+EditorID: NorRubblePiece03_Ash
+FormVersion: 43
+SkyrimMajorRecordFlags:
+- 0x8000000
+ObjectBounds:
+  First: -181, -61, -85
+  Second: 181, 61, 85
+Model:
+  File: Dungeons\Nordic\Rubble\NorRubblePiece03.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 60
+Material: 016E0C:Dragonborn.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- NavMeshGenerationBoundingBox

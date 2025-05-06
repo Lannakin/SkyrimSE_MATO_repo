@@ -1,0 +1,14 @@
+FormKey: 019C94:Dawnguard.esm
+EditorID: DLC1IcicleClumpCap02_INTERIOR
+FormVersion: 43
+ObjectBounds:
+  First: -167, -174, -967
+  Second: 169, 168, 91
+Model:
+  File: DLC01\Landscape\DLC1IcicleClumpCap02.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Material: 013816:Dawnguard.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

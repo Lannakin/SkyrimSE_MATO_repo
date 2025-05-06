@@ -1,0 +1,19 @@
+FormKey: 035D6E:Dragonborn.esm
+MajorRecordFlagsRaw: 134217728
+EditorID: DLC2BoneHumanRibcageFullStaticAsh
+FormVersion: 43
+SkyrimMajorRecordFlags:
+- 0x8000000
+ObjectBounds:
+  First: -13, -10, -40
+  Second: 13, 10, 25
+Model:
+  File: Clutter\Bones\HumanRibcageFullStatic.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 120
+Material: 02AD46:Dragonborn.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- NavMeshGenerationBoundingBox

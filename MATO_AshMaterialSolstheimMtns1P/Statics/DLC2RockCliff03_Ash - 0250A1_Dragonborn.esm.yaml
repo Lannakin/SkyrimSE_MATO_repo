@@ -1,0 +1,14 @@
+FormKey: 0250A1:Dragonborn.esm
+EditorID: DLC2RockCliff03_Ash
+FormVersion: 43
+ObjectBounds:
+  First: -518, -638, -106
+  Second: 782, 704, 725
+Model:
+  File: Landscape\Rocks\RockCliff03.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Material: 024FE0:Dragonborn.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0

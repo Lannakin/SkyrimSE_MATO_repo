@@ -1,0 +1,19 @@
+FormKey: 03C385:Dragonborn.esm
+MajorRecordFlagsRaw: 134217728
+EditorID: DLC2Tombstone01VolcanicAsh
+FormVersion: 43
+SkyrimMajorRecordFlags:
+- 0x8000000
+ObjectBounds:
+  First: -42, -28, -45
+  Second: 28, 28, 161
+Model:
+  File: Clutter\Tombstones\Tombstone01.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Material: 016E0C:Dragonborn.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- NavMeshGenerationBoundingBox

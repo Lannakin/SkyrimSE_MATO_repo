@@ -1,0 +1,19 @@
+FormKey: 035D85:Dragonborn.esm
+MajorRecordFlagsRaw: 134217728
+EditorID: DLC2BoneHumanSkullStaticAsh
+FormVersion: 43
+SkyrimMajorRecordFlags:
+- 0x8000000
+ObjectBounds:
+  First: -6, -11, -32
+  Second: 6, 7, -17
+Model:
+  File: Clutter\Bones\HumanSkullStatic.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 120
+Material: 02AD46:Dragonborn.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- NavMeshGenerationBoundingBox

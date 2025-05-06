@@ -1,0 +1,24 @@
+FormKey: 00967E:Dawnguard.esm
+MajorRecordFlagsRaw: 32768
+EditorID: DLC1IceWallColumnBig
+FormVersion: 43
+SkyrimMajorRecordFlags:
+- VisibleWhenDistant
+ObjectBounds:
+  First: -433, -497, -2865
+  Second: 399, 431, 588
+Model:
+  File: DLC01\Landscape\DLC1IceWallColumnBig.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Material: 00C115:Dawnguard.esm
+Unused: '[]'
+Lod:
+  Level0: DLC01\LOD\DLC1IceWallColumnBig_LOD0.nif
+  Level1: DLC01\LOD\DLC1IceWallColumnBig_LOD0.nif
+  Level2: DLC01\LOD\DLC1IceWallColumnBig_LOD0.nif
+  Level3: ''
+DNAMDataTypeState:
+- Break0
+MajorFlags:
+- HasDistantLOD

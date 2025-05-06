@@ -1,0 +1,14 @@
+FormKey: 01E0B2:Dragonborn.esm
+EditorID: DLC2RockL03_Ash
+FormVersion: 43
+ObjectBounds:
+  First: -221, -203, -16
+  Second: 184, 209, 164
+Model:
+  File: Landscape\Rocks\RockL03.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Material: 024FE0:Dragonborn.esm
+Unused: '[]'
+DNAMDataTypeState:
+- Break0
