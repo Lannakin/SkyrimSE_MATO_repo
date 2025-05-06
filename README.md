@@ -1,0 +1,1 @@
+I never know what material object (MATO) is being used on whatever stupid static I'm looking at in-game, as the console and More Informative Console seem not to list that info in a readable way, so I spent an hour making a bunch of stupid plugins to serialize into lists of statics using Spriggit.
